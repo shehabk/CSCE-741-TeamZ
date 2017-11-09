@@ -1,0 +1,86 @@
+NR	25031	BMEN	101	H02	COL	2.000	30 - Columbia Full Term	HNRS: Introduction to Biomedical Engineering	TR	11:40 am-12:30 pm	24	19	5	Silke Henrich (P)	08/24-12/08	SWGN 2A27	SC Honors College
+NR	15803	BMEN	202	001	COL	1.000	30 - Columbia Full Term	Professional Development and Ethics in Biomedical Engineering II	T	08:30 am-09:45 am	100	55	45	William Earl Mustain (P)	08/24-12/08	CLHIPP 005	 
+NR	13942	BMEN	211	001	COL	3.000	30 - Columbia Full Term	Computational Tools for Modeling Biomedical Systems	MW	09:40 am-10:30 am	25	19	6	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	SWGN 2A27	 
+ 	 	 	 	 	 	 	 	 	F	09:41 am-10:31 am	 	 	 	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	SWGN 1D15	 
+NR	25072	BMEN	211	002	COL	3.000	30 - Columbia Full Term	Computational Tools for Modeling Biomedical Systems	MW	09:40 am-10:30 am	24	8	16	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	SWGN 2A27	 
+ 	 	 	 	 	 	 	 	 	F	02:20 pm-03:10 pm	 	 	 	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	SWGN 1D29	 
+NR	16877	BMEN	271	001	COL	3.000	30 - Columbia Full Term	Introduction to Biomaterials	M	02:30 pm-04:00 pm	16	12	4	Esmaiel Jabbari (P)	08/24-12/08	1200CA 214	 
+ 	 	 	 	 	 	 	 	 	TR	01:15 pm-02:30 pm	 	 	 	Esmaiel Jabbari (P)	08/24-12/08	HZNPG 210	 
+NR	16878	BMEN	271	002	COL	3.000	30 - Columbia Full Term	Introduction to Biomaterials	M	04:01 pm-05:30 pm	16	5	11	TBA	08/24-12/08	1200CA 214	 
+ 	 	 	 	 	 	 	 	 	TR	01:15 pm-02:30 pm	 	 	 	Esmaiel Jabbari (P)	08/24-12/08	HZNPG 210	 
+NR	16880	BMEN	271	003	COL	3.000	30 - Columbia Full Term	Introduction to Biomaterials	TR	01:15 pm-02:30 pm	16	13	3	Esmaiel Jabbari (P)	08/24-12/08	HZNPG 210	 
+ 	 	 	 	 	 	 	 	 	T	02:45 pm-04:15 pm	 	 	 	Esmaiel Jabbari (P)	08/24-12/08	1200CA 214	 
+NR	25078	BMEN	271	H01	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Biomaterials	TR	01:15 pm-02:30 pm	12	11	1	James Otto Blanchette (P)	08/24-12/08	SWGN 2A22	SC Honors College
+ 	 	 	 	 	 	 	 	 	T	04:16 pm-05:45 pm	 	 	 	James Otto Blanchette (P)	08/24-12/08	1200CA 214	SC Honors College
+C	25080	BMEN	271	H02	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Biomaterials	TR	01:15 pm-02:30 pm	12	12	0	James Otto Blanchette (P)	08/24-12/08	SWGN 2A22	SC Honors College
+ 	 	 	 	 	 	 	 	 	W	02:30 pm-04:00 pm	 	 	 	James Otto Blanchette (P)	08/24-12/08	1200CA 214	SC Honors College
+NR	13944	BMEN	321	001	COL	3.000	30 - Columbia Full Term	Biomonitoring and Electrophysiology	MWF	09:40 am-10:30 am	14	12	2	Robert Michael Gower (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	02:45 pm-04:15 pm	 	 	 	Robert Michael Gower (P)	08/24-12/08	1200CA 214	 
+NR	13946	BMEN	321	002	COL	3.000	30 - Columbia Full Term	Biomonitoring and Electrophysiology	MWF	09:40 am-10:30 am	14	11	3	Robert Michael Gower (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	04:16 pm-05:45 pm	 	 	 	Robert Michael Gower (P)	08/24-12/08	1200CA 214	 
+NR	16883	BMEN	321	003	COL	3.000	30 - Columbia Full Term	Biomonitoring and Electrophysiology	MWF	09:40 am-10:30 am	14	13	1	Robert Michael Gower (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	W	02:30 pm-04:00 pm	 	 	 	Robert Michael Gower (P)	08/24-12/08	1200CA 214	 
+NR	18743	BMEN	321	004	COL	3.000	30 - Columbia Full Term	Biomonitoring and Electrophysiology	MWF	09:40 am-10:30 am	14	11	3	Robert Michael Gower (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	W	04:01 pm-05:30 pm	 	 	 	Robert Michael Gower (P)	08/24-12/08	1200CA 214	 
+NR	18744	BMEN	321	005	COL	3.000	30 - Columbia Full Term	Biomonitoring and Electrophysiology	MWF	09:40 am-10:30 am	14	9	5	Robert Michael Gower (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	R	02:45 pm-04:15 pm	 	 	 	Robert Michael Gower (P)	08/24-12/08	1200CA 214	 
+NR	16888	BMEN	389	001	COL	3.000	30 - Columbia Full Term	Special Topics in Biomedical Engineering for Undergraduates	WF	03:30 pm-04:45 pm	34	23	11	Ehsan Jabbarzadeh (P)	08/24-12/08	SWGN 2A19	 
+NR	18748	BMEN	389	002	COL	3.000	30 - Columbia Full Term	Special Topics in Biomedical Engineering for Undergraduates	MW	02:20 pm-03:35 pm	36	16	20	Chandrashekh V. Patel (P)	08/24-12/08	SWGN 2A21	 
+NR	16886	BMEN	391	001	COL	3.000	30 - Columbia Full Term	Kinetics in Biomolecular Systems	MWF	10:50 am-11:40 am	61	56	5	Melissa A. Moss (P)	08/24-12/08	300MN B110	 
+ 	 	 	 	 	 	 	 	 	R	06:00 pm-07:15 pm	 	 	 	Melissa A. Moss (P)	08/24-12/08	300MN B213	 
+NR	13947	BMEN	427	001	COL	3.000	30 - Columbia Full Term	Senior Biomedical Engineering Design I	TR	10:05 am-11:20 am	56	51	5	Abdel-Moez E. Bayoumi (P)	08/24-12/08	1200CA 105	GLD: Research and INT Integrative
+NR	15393	BMEN	499	001	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	1	9	Ann F Ramsdell (P)	08/24-12/08	TBA	GLD: Research
+NR	15476	BMEN	499	002	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	1	9	Tarek Michael Shazly (P)	08/24-12/08	TBA	GLD: Research
+NR	16320	BMEN	499	003	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	1	9	Esmaiel Jabbari (P)	08/24-12/08	TBA	GLD: Research
+NR	21776	BMEN	499	004	COL	3.000	30 - Columbia Full Term	Independent Research	 	TBA	50	1	49	Mark Jacob Uline (P)	08/24-12/08	TBA	GLD: Research
+NR	21790	BMEN	499	005	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	5	5	Melissa A. Moss (P)	08/24-12/08	TBA	GLD: Research
+NR	21792	BMEN	499	006	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	50	3	47	Guiren Wang (P)	08/24-12/08	TBA	GLD: Research
+NR	29346	BMEN	499	007	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	50	1	49	John Robert Regalbuto (P)	08/24-12/08	TBA	GLD: Research
+NR	30147	BMEN	499	008	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	1	9	Robert Michael Gower (P)	08/24-12/08	TBA	GLD: Research
+NR	30411	BMEN	499	009	COL	1.000-3.000	30 - Columbia Full Term	Advanced Neuroscience	 	TBA	10	1	9	Rosemarie M Booze (P)	08/24-12/08	TBA	GLD: Research
+NR	23638	BMEN	499	010	COL	3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	1	9	Melissa A. Moss (P)	08/24-12/08	TBA	GLD: Research
+NR	24291	BMEN	499	011	COL	1.000-3.000	30 - Columbia Full Term	Independent Research	 	TBA	10	1	9	Susan Marie Lessner (P)	08/24-12/08	TBA	GLD: Research
+C	30470	BMEN	499	012	COL	3.000	30 - Columbia Full Term	Independent Research	 	TBA	1	1	0	Adam Hartstone-Rose (P)	08/24-12/08	TBA	GLD: Research
+NR	13950	BMEN	589	001	COL	3.000	30 - Columbia Full Term	Special Topics in Biomedical Engineering	TR	02:50 pm-04:05 pm	32	13	19	Tarek Michael Shazly (P)	08/24-12/08	300MN B102	 
+NR	18746	BMEN	589	002	COL	3.000	30 - Columbia Full Term	Special Topics in Biomedical Engineering	TR	04:25 pm-05:40 pm	34	10	24	Guiren Wang (P)	08/24-12/08	300MN B102	 
+C	14055	BMEN	589	H10	COL	3.000	30 - Columbia Full Term	HNRS: Special Topics in Biomedical Engineering	TR	02:50 pm-04:05 pm	8	8	0	Tarek Michael Shazly (P)	08/24-12/08	300MN B102	SC Honors College
+C	18747	BMEN	589	H11	COL	3.000	30 - Columbia Full Term	HNRS: Special Topics in Biomedical Engineering	TR	04:25 pm-05:40 pm	1	1	0	Guiren Wang (P)	08/24-12/08	300MN B102	SC Honors College
+NR	16889	BMEN	710	001	COL	3.000	30 - Columbia Full Term	Modeling and Simulation of Biomedical System	MWF	10:50 am-11:40 am	14	11	3	James Otto Blanchette (P)	08/24-12/08	SWGN 2A19	 
+NR	13967	BMEN	713	001	COL	3.000	30 - Columbia Full Term	Human Cell and Molecular Biology for Biomedical Engineers	TR	01:15 pm-02:30 pm	20	10	10	Chandrashekh V. Patel (P)	08/24-12/08	SOM1 B01	 
+NR	13968	BMEN	720	001	COL	3.000	30 - Columbia Full Term	Transport Phenomena in Biomedical Systems	TR	11:40 am-12:55 pm	20	10	10	Guiren Wang (P)	08/24-12/08	SWGN 2A22	 
+NR	12495	BMEN	797	001	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	2	48	John F Eberth (P)	08/24-12/08	TBA	 
+NR	12497	BMEN	797	002	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	1	49	Richard L Goodwin (P)	08/24-12/08	TBA	 
+NR	12499	BMEN	797	003	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Ehsan Jabbarzadeh (P)	08/24-12/08	TBA	 
+NR	12502	BMEN	797	004	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	1	49	Susan Marie Lessner (P)	08/24-12/08	TBA	 
+NR	15699	BMEN	797	005	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Michael A. Matthews (P)	08/24-12/08	TBA	 
+NR	16506	BMEN	797	006	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	1	49	Melissa A. Moss (P)	08/24-12/08	TBA	 
+NR	16532	BMEN	797	007	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Tarek Michael Shazly (P)	08/24-12/08	TBA	 
+NR	17973	BMEN	797	008	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Mark Jacob Uline (P)	08/24-12/08	TBA	 
+NR	18037	BMEN	797	009	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Guiren Wang (P)	08/24-12/08	TBA	 
+NR	20643	BMEN	797	010	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Robert Michael Gower (P)	08/24-12/08	TBA	 
+NR	21904	BMEN	797	011	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Homayoun Valafar (P)	08/24-12/08	TBA	 
+NR	22748	BMEN	797	012	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Research	 	TBA	50	0	50	Esmaiel Jabbari (P)	08/24-12/08	TBA	 
+NR	12488	BMEN	799	001	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Abdel-Moez E. Bayoumi (P)	08/24-12/08	TBA	 
+NR	12491	BMEN	799	002	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Taixing Cui (P)	08/24-12/08	TBA	 
+NR	12492	BMEN	799	003	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Richard L Goodwin (P)	08/24-12/08	TBA	 
+NR	12493	BMEN	799	004	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Esmaiel Jabbari (P)	08/24-12/08	TBA	 
+NR	12494	BMEN	799	005	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Holly A. Lavoie (P)	08/24-12/08	TBA	 
+NR	15738	BMEN	799	006	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Susan Marie Lessner (P)	08/24-12/08	TBA	 
+NR	15739	BMEN	799	007	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Melissa A. Moss (P)	08/24-12/08	TBA	 
+NR	15799	BMEN	799	008	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Jay D Potts (P)	08/24-12/08	TBA	 
+NR	16490	BMEN	799	009	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Tarek Michael Shazly (P)	08/24-12/08	TBA	 
+NR	16628	BMEN	799	010	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	2	48	Guiren Wang (P)	08/24-12/08	TBA	 
+NR	16913	BMEN	799	011	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	David N. Rocheleau (P)	08/24-12/08	TBA	 
+NR	21646	BMEN	799	012	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Edward P. Gatzke (P)	08/24-12/08	TBA	 
+NR	24810	BMEN	799	013	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Masters Thesis Preparation	 	TBA	50	0	50	Ehsan Jabbarzadeh (P)	08/24-12/08	TBA	 
+NR	12503	BMEN	899	001	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	Richard L Goodwin (P)	08/24-12/08	TBA	 
+NR	12506	BMEN	899	002	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	0	50	Ehsan Jabbarzadeh (P)	08/24-12/08	TBA	 
+NR	12515	BMEN	899	003	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	Susan Marie Lessner (P)	08/24-12/08	TBA	 
+NR	15917	BMEN	899	004	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	2	48	Melissa A. Moss (P)	08/24-12/08	TBA	 
+NR	16157	BMEN	899	005	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	0	50	Jay D Potts (P)	08/24-12/08	TBA	 
+NR	16488	BMEN	899	006	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	Tarek Michael Shazly (P)	08/24-12/08	TBA	 
+NR	16507	BMEN	899	007	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	0	50	Mark Jacob Uline (P)	08/24-12/08	TBA	 
+NR	18382	BMEN	899	008	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	Guiren Wang (P)	08/24-12/08	TBA	 
+NR	21647	BMEN	899	009	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	John F Eberth (P)	08/24-12/08	TBA	 
+NR	30380	BMEN	899	010	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	Homayoun Valafar (P)	08/24-12/08	TBA	 
+NR	30393	BMEN	899	011	COL	1.000-12.000	30 - Columbia Full Term	Biomedical Engineering Doctoral Dissertation Preparation	 	TBA	50	1	49	Robert Michael Gower (P)	08/24-12/08	TBA	 

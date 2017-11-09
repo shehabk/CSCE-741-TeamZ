@@ -1,0 +1,114 @@
+NR	12287	ECIV	101	001	COL	3.000	30 - Columbia Full Term	Introduction to Civil Engineering	MW	02:20 pm-04:40 pm	129	115	14	Juan M. Caicedo (P)	08/24-12/08	CLHIPP 002	 
+NR	12291	ECIV	111	001	COL	1.000	30 - Columbia Full Term	Introduction to Engineering Graphics and Visualization	MW	10:50 am-12:50 pm	33	31	2	Hassan Ismail (P)	08/24-12/08	300MN B205	 
+NR	10025	ECIV	200	001	COL	3.000	30 - Columbia Full Term	Statics	MWF	09:40 am-10:30 am	60	40	20	Juan M. Caicedo (P)	08/24-12/08	300MN B103	 
+NR	25118	ECIV	201	001	COL	3.000	30 - Columbia Full Term	Computational Methods for Civil Engineering	TR	08:30 am-09:45 am	35	34	1	Elena Bastianon (P)	08/24-12/08	300MN B111	 
+NR	18044	ECIV	201	002	COL	3.000	30 - Columbia Full Term	Computational Methods for Civil Engineering	MW	05:30 pm-06:45 pm	22	13	9	Sanaz Borhani (P)	08/24-12/08	300MN B101	 
+NR	12294	ECIV	210	001	COL	3.000	30 - Columbia Full Term	Dynamics	MW	08:05 am-09:20 am	55	51	4	Joseph V. Flora (P)	08/24-12/08	300MN B110	 
+NR	12296	ECIV	220	001	COL	3.000	30 - Columbia Full Term	Mechanics of Solids	TR	10:05 am-11:20 am	55	51	4	Emad Gheibi (P), Samaneh Shiri	08/24-12/08	300MN B103	 
+NR	12297	ECIV	303	001	COL	3.000	30 - Columbia Full Term	Civil Engineering Materials	TR	11:40 am-12:55 pm	60	57	3	Fabio Matta (P)	08/24-12/08	300MN B103	 
+C	12300	ECIV	303L	001	COL	1.000	30 - Columbia Full Term	Civil Engineering Materials Laboratory	R	01:15 pm-04:15 pm	24	24	0	Fabio Matta (P)	08/24-12/08	300MN B111	 
+C	23479	ECIV	303L	002	COL	1.000	30 - Columbia Full Term	Civil Engineering Materials Laboratory	R	01:15 pm-04:15 pm	10	12	-2	Sina Khodaie (P)	08/24-12/08	300MN B205	 
+NR	12302	ECIV	320	001	COL	3.000	30 - Columbia Full Term	Structural Analysis I	TR	10:05 am-11:20 am	37	33	4	Robert Louis Mullen (P)	08/24-12/08	300MN B101	 
+NR	12305	ECIV	327	001	COL	3.000	30 - Columbia Full Term	Reinforced Concrete Design	TR	01:15 pm-02:30 pm	39	38	1	Paul H. Ziehl (P)	08/24-12/08	300MN B102	 
+C	12306	ECIV	340	001	COL	3.000	30 - Columbia Full Term	Introduction to Transportation Engineering	MW	02:20 pm-03:35 pm	57	57	0	Nathan Nhan Huynh (P), Samaneh Shiri	08/24-12/08	SWGN 2A14	 
+C	25621	ECIV	340	H10	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Transportation Engineering	MW	02:20 pm-03:35 pm	3	3	0	Nathan Nhan Huynh (P), Samaneh Shiri	08/24-12/08	SWGN 2A14	SC Honors College
+C	25120	ECIV	340L	001	COL	1.000	30 - Columbia Full Term	Transportation Engineering Laboratory	T	01:15 pm-04:15 pm	12	12	0	Md Majbah Uddin (P)	08/24-12/08	300MN B111	 
+NR	12307	ECIV	350	001	COL	3.000	30 - Columbia Full Term	Introduction to Environmental Engineering	TR	08:30 am-09:45 am	45	44	1	Anthony Stephen McAnally (P)	08/24-12/08	300MN B103	 
+NR	28743	ECIV	350	002	COL	3.000	30 - Columbia Full Term	Introduction to Environmental Engineering	TR	08:30 am-09:45 am	10	9	1	Anthony Stephen McAnally (P)	08/24-12/08	300MN B103	 
+NR	25623	ECIV	350	H10	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Environmental Engineering	TR	08:30 am-09:45 am	3	1	2	Anthony Stephen McAnally (P)	08/24-12/08	300MN B103	SC Honors College
+C	12308	ECIV	350L	001	COL	1.000	30 - Columbia Full Term	Introduction to Environmental Engineering Laboratory	T	01:15 pm-04:15 pm	16	16	0	Yeomin Yoon (P)	08/24-12/08	300MN B112	 
+NR	12309	ECIV	360	001	COL	3.000	30 - Columbia Full Term	Fluid Mechanics	TR	11:40 am-12:55 pm	40	39	1	Enrica Viparelli (P)	08/24-12/08	300MN B101	 
+NR	12311	ECIV	362	001	COL	3.000	30 - Columbia Full Term	Introduction to Water Resources Engineering	MWF	10:50 am-11:40 am	39	37	2	Michael Edward Meadows (P)	08/24-12/08	300MN B102	 
+NR	12312	ECIV	470	001	COL	4.000	30 - Columbia Full Term	Civil Engineering Design	MWF	12:00 pm-12:50 pm	39	23	16	Michael Edward Meadows (P), Jeffrey Scott Mulliken	08/24-12/08	300MN B102	INT Integrative
+ 	 	 	 	 	 	 	 	 	W	01:10 pm-02:00 pm	 	 	 	Michael Edward Meadows (P), Jeffrey Scott Mulliken	08/24-12/08	300MN B102	INT Integrative
+NR	12284	ECIV	490	001	COL	3.000	30 - Columbia Full Term	Topic: Industrial Sustainability	F	08:40 am-11:40 am	23	8	15	Paul H. Ziehl (P)	08/27-09/14	SWGN 1A20	GLD: Research
+ 	 	 	 	 	 	 	 	 	F	08:40 am-11:40 am	 	 	 	Paul H. Ziehl (P)	09/17-10/19	SWGN 1A20	GLD: Research
+ 	 	 	 	 	 	 	 	 	F	08:40 am-11:40 am	 	 	 	Paul H. Ziehl (P)	10/22-11/02	SWGN 1A20	GLD: Research
+ 	 	 	 	 	 	 	 	 	F	08:40 am-11:40 am	 	 	 	Paul H. Ziehl (P)	11/05-11/30	SWGN 1A20	GLD: Research
+ 	 	 	 	 	 	 	 	 	F	08:40 am-11:40 am	 	 	 	Paul H. Ziehl (P)	12/03-12/08	SWGN 1A20	GLD: Research
+NR	12387	ECIV	490	002	COL	3.000	30 - Columbia Full Term	Topic: River Basin Management	MW	08:05 am-09:20 am	15	4	11	Seyedehzahra Samadi (P), Enrica Viparelli	08/24-12/08	300MN B205	GLD: Research
+NR	21949	ECIV	490	003	COL	3.000	30 - Columbia Full Term	Topic: Earth Structures	MW	08:05 am-09:20 am	30	28	2	Sarah Lyn Gassman Pierce (P)	08/24-12/08	300MN B102	GLD: Research
+NR	25969	ECIV	490	004	COL	3.000	30 - Columbia Full Term	Topic: Geographical Information Systems in Water Resources	MWF	09:40 am-10:30 am	12	5	7	Seyedehzahra Samadi (P)	08/24-12/08	300MN B205	GLD: Research
+NR	12293	ECIV	497	001	COL	1.000	30 - Columbia Full Term	Fundamentals of Engineering Preparation	TR	04:25 pm-05:40 pm	25	4	21	Joseph V. Flora (P)	08/24-12/08	300MN B101	 
+C	24290	ECIV	499	001	COL	1.000-3.000	30 - Columbia Full Term	Independent Study/Research in Civil and Environmental Engineering	 	TBA	1	1	0	Inthuorn Sasanakul (P)	08/24-12/08	TBA	GLD: Research
+C	30198	ECIV	499	002	COL	1.000-3.000	30 - Columbia Full Term	Independent Study/Research in Civil and Environmental Engineering.	 	TBA	1	1	0	Charles Edward Pierce (P)	08/24-12/08	TBA	GLD: Research
+NR	12295	ECIV	520	001	COL	3.000	30 - Columbia Full Term	Structural Analysis II	TR	11:40 am-12:55 pm	26	19	7	Dimitrios C Rizos (P)	08/24-12/08	SWGN 2A05	 
+NR	12303	ECIV	520	006	COL	3.000	30 - Columbia Full Term	Structural Analysis II	TR	11:40 am-12:55 pm	28	3	25	Dimitrios C Rizos (P)	08/24-12/08	WEB COLUMBIA	 
+C	12298	ECIV	520	H10	COL	3.000	30 - Columbia Full Term	HNRS: Structural Analysis II	TR	11:40 am-12:55 pm	2	2	0	Dimitrios C Rizos (P)	08/24-12/08	SWGN 2A05	SC Honors College
+NR	16891	ECIV	526	001	COL	3.000	30 - Columbia Full Term	Timber and Masonry Design	MW	03:55 pm-05:10 pm	39	35	4	Chimin Jimmy Chao (P)	08/24-12/08	300MN B102	 
+NR	12310	ECIV	540	001	COL	3.000	30 - Columbia Full Term	Transportation Systems Planning	TR	11:40 am-12:55 pm	38	12	26	Lee L Tupper (P)	08/24-12/08	300MN B111	 
+C	20585	ECIV	541	001	COL	3.000	30 - Columbia Full Term	Highway Design	TR	08:30 am-09:45 am	26	27	-1	Susan M. Ruinen (P)	08/24-12/08	300MN B102	 
+C	20586	ECIV	541	H10	COL	3.000	30 - Columbia Full Term	HNRS: Highway Design	TR	08:30 am-09:45 am	2	3	-1	Susan M. Ruinen (P)	08/24-12/08	300MN B102	SC Honors College
+NR	21929	ECIV	551	001	COL	3.000	30 - Columbia Full Term	Elements of Water and Wastewater Treatment	MW	02:20 pm-03:35 pm	34	19	15	Anthony Stephen McAnally (P)	08/24-12/08	300MN B102	 
+C	21930	ECIV	551	H10	COL	3.000	30 - Columbia Full Term	HNRS: Elements of Water and Wastewater Treatment	MW	02:20 pm-03:35 pm	2	2	0	Anthony Stephen McAnally (P)	08/24-12/08	300MN B102	SC Honors College
+NR	25150	ECIV	558	001	COL	3.000	30 - Columbia Full Term	Environmental Engineering Process Modeling	TR	01:15 pm-02:30 pm	28	7	21	Shamia Hoque (P)	08/24-12/08	SWGN 1A20	 
+NR	25154	ECIV	558	006	COL	3.000	30 - Columbia Full Term	Environmental Engineering Process Modeling	TR	01:15 pm-02:30 pm	23	2	21	Shamia Hoque (P)	08/24-12/08	WEB COLUMBIA	 
+NR	13342	ECIV	560	001	COL	3.000	30 - Columbia Full Term	Open Channel Hydraulics	TR	10:05 am-11:20 am	36	29	7	M. Hanif Chaudhry (P)	08/24-12/08	300MN B112	 
+NR	12318	ECIV	580	001	COL	3.000	30 - Columbia Full Term	Railway Engineering I	TR	02:50 pm-04:05 pm	28	24	4	Dallas R Richards (P)	08/24-12/08	SWGN 2A11	 
+NR	12329	ECIV	580	006	COL	3.000	30 - Columbia Full Term	Railway Engineering I	TR	02:50 pm-04:05 pm	28	2	26	Dallas R Richards (P)	08/24-12/08	WEB COLUMBIA	 
+NR	30180	ECIV	720	001	COL	3.000	30 - Columbia Full Term	Advanced Structural Mechanics and Analysis	 	TBA	5	2	3	Robert Louis Mullen (P)	08/24-12/08	TBA	 
+C	30181	ECIV	725	001	COL	3.000	30 - Columbia Full Term	Advanced Analysis and Design in Structural Metals	 	TBA	2	2	0	Dimitrios C Rizos (P)	08/24-12/08	TBA	 
+NR	12315	ECIV	728	001	COL	3.000	30 - Columbia Full Term	Prestressed Concrete Analysis and Design	TR	10:05 am-11:20 am	28	2	26	Paul H. Ziehl (P)	08/24-12/08	SWGN 2A05	 
+NR	16895	ECIV	728	006	COL	3.000	30 - Columbia Full Term	Prestressed Concrete Analysis and Design	TR	10:05 am-11:20 am	28	2	26	Paul H. Ziehl (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25189	ECIV	730	001	COL	3.000	30 - Columbia Full Term	Advanced Soil Mechanics	MW	11:00 am-12:15 pm	23	2	21	Sarah Lyn Gassman Pierce (P)	08/24-12/08	SWGN 2A07	 
+NR	25190	ECIV	730	006	COL	3.000	30 - Columbia Full Term	Advanced Soil Mechanics	MW	11:00 am-12:15 pm	23	5	18	Sarah Lyn Gassman Pierce (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25177	ECIV	734	001	COL	3.000	30 - Columbia Full Term	Dynamics of Soils and Foundations	TR	10:05 am-11:20 am	28	3	25	Inthuorn Sasanakul (P)	08/24-12/08	SWGN 2A11	 
+NR	25178	ECIV	734	006	COL	3.000	30 - Columbia Full Term	Dynamics of Soils and Foundations	TR	10:05 am-11:20 am	28	1	27	Inthuorn Sasanakul (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25176	ECIV	752	006	COL	3.000	30 - Columbia Full Term	Water and Wastewater Treatment Theory II	MW	09:30 am-10:45 am	28	1	27	Nicole D Berge (P)	08/24-12/08	WEB COLUMBIA	 
+NR	18052	ECIV	765	001	COL	3.000	30 - Columbia Full Term	Erosion and Sediment Control	TR	11:40 am-12:55 pm	39	1	38	Michael Edward Meadows (P)	08/24-12/08	300MN B102	 
+NR	25179	ECIV	784	001	COL	3.000	30 - Columbia Full Term	Dynamic Analysis of Railway Systems	TR	08:30 am-09:45 am	22	2	20	Dimitrios C Rizos (P)	08/24-12/08	SWGN 2A07	 
+NR	25180	ECIV	784	006	COL	3.000	30 - Columbia Full Term	Dynamic Analysis of Railway Systems	TR	08:30 am-09:45 am	22	2	20	Dimitrios C Rizos (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25183	ECIV	790	001	COL	3.000-9.000	30 - Columbia Full Term	Selected Topics in Civil Engineering	MW	09:30 am-10:45 am	28	2	26	Nathan Nhan Huynh (P)	08/24-12/08	SWGN 2A05	 
+NR	25187	ECIV	790	003	COL	3.000	30 - Columbia Full Term	Topic: Advanced Technologies for Emerging Contaminants in Water Treatment	TR	10:05 am-11:20 am	10	3	7	Yeomin Yoon (P)	08/24-12/08	300MN B111	 
+NR	25185	ECIV	790	006	COL	3.000-9.000	30 - Columbia Full Term	Selected Topics in Civil Engineering	MW	09:30 am-10:45 am	28	0	28	Nathan Nhan Huynh (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12388	ECIV	797	001	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Nicole D Berge (P)	08/24-12/08	TBA	 
+NR	16032	ECIV	797	002	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	1	49	Juan M. Caicedo (P)	08/24-12/08	TBA	 
+NR	16587	ECIV	797	003	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Sarah Lyn Gassman Pierce (P)	08/24-12/08	TBA	 
+NR	17018	ECIV	797	004	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	1	49	Nathan Nhan Huynh (P)	08/24-12/08	TBA	 
+NR	17019	ECIV	797	005	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	2	48	Fabio Matta (P)	08/24-12/08	TBA	 
+NR	17021	ECIV	797	006	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Enrica Viparelli (P)	08/24-12/08	TBA	 
+NR	17743	ECIV	797	007	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Yeomin Yoon (P)	08/24-12/08	TBA	 
+NR	18032	ECIV	797	008	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Paul H. Ziehl (P)	08/24-12/08	TBA	 
+NR	21552	ECIV	797	009	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	1	49	Charles Edward Pierce (P)	08/24-12/08	TBA	 
+NR	21771	ECIV	797	010	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	1	49	Inthuorn Sasanakul (P)	08/24-12/08	TBA	 
+NR	21800	ECIV	797	011	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Anthony Stephen McAnally (P)	08/24-12/08	TBA	 
+NR	24063	ECIV	797	012	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	0	50	Shamia Hoque (P)	08/24-12/08	TBA	 
+NR	30228	ECIV	797	013	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	1	49	Joseph V. Flora (P)	08/24-12/08	TBA	 
+NR	30273	ECIV	797	014	COL	1.000-12.000	30 - Columbia Full Term	Research in Civil Engineering	 	TBA	50	1	49	Dimitrios C Rizos (P)	08/24-12/08	TBA	 
+NR	12317	ECIV	798	001	COL	0.000	30 - Columbia Full Term	Seminar in Civil and Environmental Engineering	F	11:00 am-01:00 pm	45	33	12	TBA	08/24-12/08	SWGN 1A03	 
+NR	12320	ECIV	799	001	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Nicole D Berge (P)	08/24-12/08	TBA	 
+NR	12326	ECIV	799	002	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	1	49	Juan M. Caicedo (P)	08/24-12/08	TBA	 
+NR	12332	ECIV	799	003	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	M. Hanif Chaudhry (P)	08/24-12/08	TBA	 
+NR	12338	ECIV	799	004	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Joseph V. Flora (P)	08/24-12/08	TBA	 
+NR	12346	ECIV	799	005	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Sarah Lyn Gassman Pierce (P)	08/24-12/08	TBA	 
+NR	12349	ECIV	799	006	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Nathan Nhan Huynh (P)	08/24-12/08	TBA	 
+NR	12351	ECIV	799	007	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Jasim Imran (P)	08/24-12/08	TBA	 
+NR	12355	ECIV	799	008	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Fabio Matta (P)	08/24-12/08	TBA	 
+NR	12360	ECIV	799	009	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Michael Edward Meadows (P)	08/24-12/08	TBA	 
+NR	12363	ECIV	799	010	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Robert Louis Mullen (P)	08/24-12/08	TBA	 
+NR	12366	ECIV	799	011	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Charles Edward Pierce (P)	08/24-12/08	TBA	 
+NR	12368	ECIV	799	012	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	2	48	Dimitrios C Rizos (P)	08/24-12/08	TBA	 
+NR	12374	ECIV	799	013	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Inthuorn Sasanakul (P)	08/24-12/08	TBA	 
+NR	12377	ECIV	799	014	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	1	49	Enrica Viparelli (P)	08/24-12/08	TBA	 
+NR	12379	ECIV	799	015	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Yeomin Yoon (P)	08/24-12/08	TBA	 
+NR	12382	ECIV	799	016	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	2	48	Paul H. Ziehl (P)	08/24-12/08	TBA	 
+NR	18448	ECIV	799	017	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	0	50	Anthony Stephen McAnally (P)	08/24-12/08	TBA	 
+NR	29957	ECIV	799	018	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation in Civil Engineering	 	TBA	50	1	49	Shamia Hoque (P)	08/24-12/08	TBA	 
+NR	12322	ECIV	899	001	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	2	48	Nicole D Berge (P)	08/24-12/08	TBA	 
+NR	12328	ECIV	899	002	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	2	48	Juan M. Caicedo (P)	08/24-12/08	TBA	 
+NR	12336	ECIV	899	003	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	2	48	M. Hanif Chaudhry (P)	08/24-12/08	TBA	 
+NR	12340	ECIV	899	004	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	1	49	Joseph V. Flora (P)	08/24-12/08	TBA	 
+NR	12348	ECIV	899	005	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	3	47	Sarah Lyn Gassman Pierce (P)	08/24-12/08	TBA	 
+NR	12350	ECIV	899	006	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	1	49	Shamia Hoque (P)	08/24-12/08	TBA	 
+NR	12353	ECIV	899	007	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	3	47	Nathan Nhan Huynh (P)	08/24-12/08	TBA	 
+NR	12357	ECIV	899	008	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	3	47	Jasim Imran (P)	08/24-12/08	TBA	 
+NR	12361	ECIV	899	009	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	2	48	Fabio Matta (P)	08/24-12/08	TBA	 
+NR	12365	ECIV	899	010	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	0	50	Anthony Stephen McAnally (P)	08/24-12/08	TBA	 
+NR	12367	ECIV	899	011	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	1	49	Michael Edward Meadows (P)	08/24-12/08	TBA	 
+NR	12370	ECIV	899	012	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	1	49	Robert Louis Mullen (P)	08/24-12/08	TBA	 
+NR	12375	ECIV	899	013	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	2	48	Charles Edward Pierce (P)	08/24-12/08	TBA	 
+NR	12378	ECIV	899	014	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	1	49	Dimitrios C Rizos (P)	08/24-12/08	TBA	 
+NR	12380	ECIV	899	015	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	3	47	Inthuorn Sasanakul (P)	08/24-12/08	TBA	 
+NR	18469	ECIV	899	016	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	5	45	Enrica Viparelli (P)	08/24-12/08	TBA	 
+NR	20628	ECIV	899	017	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	1	49	Yeomin Yoon (P)	08/24-12/08	TBA	 
+NR	21907	ECIV	899	018	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation in Civil Engineering	 	TBA	50	3	47	Paul H. Ziehl (P)	08/24-12/08	TBA	 

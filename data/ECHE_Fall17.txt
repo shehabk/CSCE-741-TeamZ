@@ -1,0 +1,84 @@
+NR	13973	ECHE	101	001	COL	2.000	30 - Columbia Full Term	Introduction to Chemical Engineering	MW	12:00 pm-12:50 pm	78	61	17	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	300MN B213	 
+NR	13972	ECHE	101	H01	COL	2.000	30 - Columbia Full Term	HNRS: Introduction to Chemical Engineering	MW	08:30 am-09:20 am	24	23	1	John Walter Weidner (P)	08/24-12/08	SWGN 2A22	SC Honors College
+NR	28333	ECHE	202	001	COL	1.000	3AM - Columbia	Exploring the Chemical Engineering Workplace	W	03:55 pm-05:10 pm	36	31	5	William Earl Mustain (P)	08/24-11/02	SWGN 2A21	GLD: PCE Internships
+NR	13975	ECHE	300	001	COL	3.000	30 - Columbia Full Term	Chemical Process Principles	MWF	09:40 am-10:30 am	60	38	22	Christopher T. Williams (P)	08/24-12/08	HZNPG 210	 
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-04:50 pm	 	 	 	Christopher T. Williams (P)	08/24-12/08	HZNPG 210	 
+NR	13977	ECHE	310	001	COL	3.000	30 - Columbia Full Term	Introductory Chemical Engineering Thermodynamics	MWF	08:30 am-09:20 am	60	30	30	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	HZNPG 210	 
+ 	 	 	 	 	 	 	 	 	W	06:00 pm-08:00 pm	 	 	 	Ivelisse Ortiz-Hernandez (P)	08/24-12/08	HZNPG 210	 
+NR	13979	ECHE	311	001	COL	3.000	30 - Columbia Full Term	Chemical Engineering Thermodynamics	TR	11:40 am-12:55 pm	45	36	9	Michael A. Matthews (P)	08/24-12/08	SWGN 2A31	 
+NR	13981	ECHE	320	001	COL	3.000	30 - Columbia Full Term	Chemical Engineering Fluid Mechanics	TR	08:30 am-09:45 am	68	37	31	Miao Yu (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	T	06:00 pm-07:30 pm	 	 	 	Miao Yu (P)	08/24-12/08	300MN B213	 
+NR	13982	ECHE	321	001	COL	3.000	30 - Columbia Full Term	Heat-Flow Analysis	MWF	09:40 am-10:30 am	49	47	2	Thomas G. Stanford (P)	08/24-12/08	SWGN 2A31	 
+NR	24924	ECHE	321	H01	COL	3.000	30 - Columbia Full Term	HNRS: Heat-Flow Analysis	TR	11:40 am-12:55 pm	12	3	9	Douglas S. Byrd (P)	08/24-12/08	SWGN 2A24	SC Honors College
+NR	22237	ECHE	372	001	COL	3.000	30 - Columbia Full Term	Introduction to Materials	TR	01:15 pm-02:30 pm	49	28	21	Xiao-Dong Zhou (P), Kenneth Lawrence Roberts	08/24-12/08	SWGN 2A31	 
+NR	13985	ECHE	430	001	COL	3.000	30 - Columbia Full Term	Chemical Engineering Kinetics	MWF	08:30 am-09:20 am	78	71	7	Andreas Heyden (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	F	03:30 pm-06:30 pm	 	 	 	Andreas Heyden (P)	08/24-12/08	300MN B205	 
+ 	 	 	 	 	 	 	 	 	F	03:31 pm-06:31 pm	 	 	 	Andreas Heyden (P)	08/24-12/08	300MN B202	 
+ 	 	 	 	 	 	 	 	 	F	03:32 pm-06:32 pm	 	 	 	Andreas Heyden (P)	08/24-12/08	300MN B201	 
+NR	13987	ECHE	440	001	COL	3.000	30 - Columbia Full Term	Separation Process Design	TR	08:30 am-09:45 am	90	81	9	Vincent Van Brunt (P)	08/24-12/08	GAMBRL 152	 
+C	13989	ECHE	461	001	COL	3.000	30 - Columbia Full Term	Chemical Engineering Laboratory II	MW	02:20 pm-05:20 pm	40	40	0	James A. Ritter (P)	08/24-12/08	HZNPG 210	 
+ 	 	 	 	 	 	 	 	 	F	02:20 pm-03:10 pm	 	 	 	James A. Ritter (P)	08/24-12/08	SWGN 1C01	 
+NR	13992	ECHE	461	002	COL	3.000	30 - Columbia Full Term	Chemical Engineering Laboratory II	TR	02:50 pm-05:50 pm	36	27	9	James A. Ritter (P)	08/24-12/08	SWGN 2A21	 
+ 	 	 	 	 	 	 	 	 	F	02:20 pm-03:10 pm	 	 	 	James A. Ritter (P)	08/24-12/08	SWGN 1C01	 
+NR	13995	ECHE	465	001	COL	3.000	30 - Columbia Full Term	Chemical-Process Analysis and Design I	M	06:00 pm-08:00 pm	80	73	7	Bihter Padak (P)	08/24-12/08	SWGN 1C01	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Bihter Padak (P)	08/24-12/08	GAMBRL 152	 
+NR	15677	ECHE	499	001	COL	1.000	3AM - Columbia	Topic: Research in Chemical Engineering	M	03:55 pm-05:10 pm	30	7	23	Jochen Anton Lauterbach (P)	08/24-11/03	SWGN 2A21	GLD: Research
+NR	12469	ECHE	499	002	COL	1.000-3.000	30 - Columbia Full Term	Special Problems	 	TBA	10	1	9	Christopher T. Williams (P)	08/24-12/08	TBA	GLD: Research
+NR	16602	ECHE	499	003	COL	1.000-3.000	30 - Columbia Full Term	Special Problems	 	TBA	10	1	9	James A. Ritter (P)	08/24-12/08	TBA	GLD: Research
+NR	30441	ECHE	499	004	COL	1.000	30 - Columbia Full Term	Special Problems	 	TBA	10	2	8	Edward P. Gatzke (P)	08/24-12/08	TBA	GLD: Research
+NR	13998	ECHE	550	001	COL	3.000	30 - Columbia Full Term	Chemical-Process Dynamics and Control	MWF	12:00 pm-12:50 pm	75	60	15	Edward P. Gatzke (P)	08/24-12/08	GAMBRL 151	 
+NR	17116	ECHE	550	H10	COL	3.000	30 - Columbia Full Term	HNRS: Chemical-Process Dynamics and Control	MWF	12:00 pm-12:50 pm	10	9	1	Edward P. Gatzke (P)	08/24-12/08	GAMBRL 151	SC Honors College
+NR	14001	ECHE	571	001	COL	3.000	30 - Columbia Full Term	Corrosion Engineering	MW	02:20 pm-03:35 pm	38	20	18	Branko N. Popov (P)	08/24-12/08	300MN B111	 
+C	17118	ECHE	571	H10	COL	3.000	30 - Columbia Full Term	HNRS: Corrosion Engineering	MW	02:20 pm-03:35 pm	1	1	0	Branko N. Popov (P)	08/24-12/08	300MN B111	SC Honors College
+NR	14004	ECHE	700	001	COL	3.000	30 - Columbia Full Term	Chemical Process Analysis	MW	03:55 pm-05:10 pm	25	20	5	Ralph E. White (P)	08/24-12/08	SWGN 2A18	 
+NR	14013	ECHE	710	001	COL	3.000	30 - Columbia Full Term	Advanced Chemical Engineering Thermodynamics	MWF	10:50 am-11:40 am	25	21	4	Mark Jacob Uline (P)	08/24-12/08	SWGN 2A22	 
+NR	14016	ECHE	720	001	COL	3.000	30 - Columbia Full Term	Advanced Fluid Flow Analysis	MWF	09:40 am-10:30 am	25	24	1	Francis A Gadala-Maria (P), Kenneth Lawrence Roberts	08/24-12/08	SWGN 2A19	 
+NR	22601	ECHE	789	001	COL	3.000	30 - Columbia Full Term	Selected Topics in Chemical Engineering	TBA	5	0	5	TBA	08/24-12/08	TBA	 
+NR	11424	ECHE	797	001	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Edward P. Gatzke (P)	08/24-12/08	TBA	 
+NR	11427	ECHE	797	002	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Jason Ryan Hattrick-Simpers (P)	08/24-12/08	TBA	 
+NR	11435	ECHE	797	003	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	3	47	Andreas Heyden (P)	08/24-12/08	TBA	 
+NR	11437	ECHE	797	004	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Esmaiel Jabbari (P)	08/24-12/08	TBA	 
+NR	11440	ECHE	797	005	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Ehsan Jabbarzadeh (P)	08/24-12/08	TBA	 
+NR	11443	ECHE	797	006	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	3	47	Jochen Anton Lauterbach (P)	08/24-12/08	TBA	 
+NR	11444	ECHE	797	007	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Melissa A. Moss (P)	08/24-12/08	TBA	 
+NR	11446	ECHE	797	008	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Bihter Padak (P)	08/24-12/08	TBA	 
+NR	11447	ECHE	797	009	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	2	48	John Robert Regalbuto (P)	08/24-12/08	TBA	 
+NR	11448	ECHE	797	010	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	James A. Ritter (P)	08/24-12/08	TBA	 
+NR	11450	ECHE	797	011	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Mark Jacob Uline (P)	08/24-12/08	TBA	 
+NR	11451	ECHE	797	012	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	John Walter Weidner (P)	08/24-12/08	TBA	 
+NR	11452	ECHE	797	013	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Ralph E. White (P)	08/24-12/08	TBA	 
+NR	11455	ECHE	797	014	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Christopher T. Williams (P)	08/24-12/08	TBA	 
+NR	16560	ECHE	797	017	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	2	48	Robert Michael Gower (P)	08/24-12/08	TBA	 
+NR	22767	ECHE	797	018	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	William Earl Mustain (P)	08/24-12/08	TBA	 
+NR	11509	ECHE	798	001	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar in Chemcial Engineering	R	03:30 pm-04:45 pm	49	2	47	William Earl Mustain (P)	08/24-12/08	SWGN 1A03	 
+NR	11497	ECHE	799	001	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Esmaiel Jabbari (P)	08/24-12/08	TBA	 
+NR	11498	ECHE	799	002	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jochen Anton Lauterbach (P)	08/24-12/08	TBA	 
+NR	11499	ECHE	799	003	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Melissa A. Moss (P)	08/24-12/08	TBA	 
+NR	11500	ECHE	799	004	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Branko N. Popov (P)	08/24-12/08	TBA	 
+NR	11501	ECHE	799	005	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	John Robert Regalbuto (P)	08/24-12/08	TBA	 
+NR	11502	ECHE	799	006	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	James A. Ritter (P)	08/24-12/08	TBA	 
+NR	11504	ECHE	799	007	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	John Walter Weidner (P)	08/24-12/08	TBA	 
+NR	30135	ECHE	799	009	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Xiao-Dong Zhou (P)	08/24-12/08	TBA	 
+NR	30154	ECHE	799	010	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Edward P. Gatzke (P)	08/24-12/08	TBA	 
+NR	11377	ECHE	899	001	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Edward P. Gatzke (P)	08/24-12/08	TBA	 
+NR	11378	ECHE	899	002	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Jason Ryan Hattrick-Simpers (P)	08/24-12/08	TBA	 
+NR	11379	ECHE	899	003	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Andreas Heyden (P)	08/24-12/08	TBA	 
+NR	11381	ECHE	899	004	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Esmaiel Jabbari (P)	08/24-12/08	TBA	 
+NR	11382	ECHE	899	005	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Ehsan Jabbarzadeh (P)	08/24-12/08	TBA	 
+NR	11383	ECHE	899	006	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	5	45	Jochen Anton Lauterbach (P)	08/24-12/08	TBA	 
+NR	11384	ECHE	899	007	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Michael A. Matthews (P)	08/24-12/08	TBA	 
+NR	11385	ECHE	899	008	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	John Monnier (P)	08/24-12/08	TBA	 
+NR	11387	ECHE	899	009	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Melissa A. Moss (P)	08/24-12/08	TBA	 
+NR	11388	ECHE	899	010	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Bihter Padak (P)	08/24-12/08	TBA	 
+NR	11390	ECHE	899	011	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Harry J. Ploehn (P)	08/24-12/08	TBA	 
+NR	11392	ECHE	899	012	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Branko N. Popov (P)	08/24-12/08	TBA	 
+NR	11393	ECHE	899	013	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	5	45	John Robert Regalbuto (P)	08/24-12/08	TBA	 
+NR	11395	ECHE	899	014	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	James A. Ritter (P)	08/24-12/08	TBA	 
+NR	11397	ECHE	899	015	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Mark Jacob Uline (P)	08/24-12/08	TBA	 
+NR	11401	ECHE	899	016	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	John William Van Zee (P)	08/24-12/08	TBA	 
+NR	11403	ECHE	899	017	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	John Walter Weidner (P)	08/24-12/08	TBA	 
+NR	11406	ECHE	899	018	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Ralph E. White (P)	08/24-12/08	TBA	 
+NR	11410	ECHE	899	019	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Christopher T. Williams (P)	08/24-12/08	TBA	 
+NR	11413	ECHE	899	020	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Miao Yu (P)	08/24-12/08	TBA	 
+NR	11416	ECHE	899	021	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Xiao-Dong Zhou (P)	08/24-12/08	TBA	 
+NR	16504	ECHE	899	022	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Robert Michael Gower (P)	08/24-12/08	TBA	 

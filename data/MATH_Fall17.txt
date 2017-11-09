@@ -1,0 +1,368 @@
+NR	10020	MATH	111	001	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	08:30 am-09:20 am	40	39	1	Josiah Jude Reiswig (P)	08/24-12/08	CLLCTT 003	 
+C	10060	MATH	111	002	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	09:40 am-10:30 am	40	40	0	Alicia Mae Lamarche (P)	08/24-12/08	CLLCTT 201	 
+NR	10068	MATH	111	003	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	10:50 am-11:40 am	60	59	1	Elena Boguslavsky (P)	08/24-12/08	WMBB 127	 
+NR	10072	MATH	111	004	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	08:30 am-09:20 am	38	25	13	Alexander Keith Wiedemann (P)	08/24-12/08	LCONTE 112	 
+NR	25033	MATH	111	006	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	06:00 pm-07:15 pm	40	38	2	Blake Alexander Farman (P)	08/24-12/08	CLLCTT 003	 
+NR	10290	MATH	111	007	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	10:05 am-11:20 am	50	48	2	Bruce Douglas Jones (P)	08/24-12/08	HUMCB 202	 
+NR	10293	MATH	111	008	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	08:30 am-09:45 am	60	59	1	Bruce Douglas Jones (P)	08/24-12/08	HUMCB 202	 
+NR	23973	MATH	111	010	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	08:30 am-09:20 am	40	24	16	Xueping Zhao (P)	08/24-12/08	FLINN 207	 
+C	10302	MATH	111	011	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	01:15 pm-02:30 pm	35	35	0	Larita Barnwell Hipp (P)	08/24-12/08	SMWALT 305	 
+C	10307	MATH	111	013	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	11:40 am-12:55 pm	40	40	0	Brandy Amanda Barnette (P)	08/24-12/08	GAMBRL 201	 
+NR	24019	MATH	111	014	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	11:40 am-12:55 pm	40	36	4	Erik Tracey Palmer (P)	08/24-12/08	FLINN 107	 
+NR	17130	MATH	111	015	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	08:30 am-09:20 am	62	25	37	Larita Barnwell Hipp (P)	08/24-12/08	LCONTE 412	 
+NR	18588	MATH	111	016	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	09:40 am-10:30 am	70	69	1	Brandy Amanda Barnette (P)	08/24-12/08	HUMCB 201	 
+NR	22325	MATH	111	018	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	W	10:50 am-11:40 am	70	65	5	Ronda M Sanders (P)	08/24-12/08	WMBB 125	 
+ 	 	 	 	 	 	 	 	 	 	TBA	 	 	 	Ronda M Sanders (P)	08/24-12/08	WEB COLUMBIA	 
+NR	28528	MATH	111	S03	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MWF	10:50 am-11:40 am	10	2	8	Elena Boguslavsky (P)	08/24-12/08	WMBB 127	 
+NR	28531	MATH	111	S07	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	10:05 am-11:20 am	20	17	3	Bruce Douglas Jones (P)	08/24-12/08	HUMCB 202	 
+NR	28532	MATH	111	S08	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	08:30 am-09:45 am	10	2	8	Bruce Douglas Jones (P)	08/24-12/08	HUMCB 202	 
+NR	28533	MATH	111	S11	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	01:15 pm-02:30 pm	35	19	16	Larita Barnwell Hipp (P)	08/24-12/08	SMWALT 305	 
+C	13029	MATH	111	T01	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	10:05 am-11:20 am	20	21	-1	Jennifer S Crooks-Monastra (P)	08/24-12/08	GAMBRL 123	 
+NR	13033	MATH	111	T02	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	11:40 am-12:55 pm	20	15	5	Jennifer S Crooks-Monastra (P)	08/24-12/08	WMBB 132	 
+NR	13553	MATH	111	Y01	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	MW	03:55 pm-05:10 pm	40	39	1	Joshua Thomas Grice (P)	08/24-12/08	JONES 205	 
+NR	13555	MATH	111	Y02	COL	3.000	30 - Columbia Full Term	Basic College Mathematics	TR	04:25 pm-05:40 pm	40	31	9	Jaree Marenda Hudson (P)	08/24-12/08	LCONTE 101	 
+NR	25536	MATH	111	Z01	COL	3.000	3B7 - Columbia	Basic College Mathematics	 	TBA	25	21	4	Sharon M Shackelford (P)	08/28-10/17	WEB COLUMBIA	Ft. Jackson Location
+NR	10326	MATH	111I	001	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	08:30 am-09:20 am	30	29	1	Joshua Cain Thompson (P)	08/24-12/08	LCONTE 101	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Joshua Cain Thompson (P)	08/24-12/08	LCONTE 101	 
+NR	10332	MATH	111I	002	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	08:30 am-09:20 am	30	23	7	Gabriel Kenneth Staton (P)	08/24-12/08	LCONTE 405	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Gabriel Kenneth Staton (P)	08/24-12/08	LCONTE 405	 
+NR	10337	MATH	111I	003	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	09:40 am-10:30 am	35	34	1	Trevor Vincent Olsen (P)	08/24-12/08	CRRELL 204	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Trevor Vincent Olsen (P)	08/24-12/08	SLOAN 104	 
+NR	10348	MATH	111I	004	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	08:30 am-09:20 am	60	32	28	Kathleen E. Kustin (P)	08/24-12/08	LCONTE 113	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Kathleen E. Kustin (P)	08/24-12/08	LCONTE 113	 
+NR	10349	MATH	111I	005	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	09:40 am-10:30 am	60	59	1	Kathleen E. Kustin (P)	08/24-12/08	LCONTE 113	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Kathleen E. Kustin (P)	08/24-12/08	LCONTE 113	 
+NR	10353	MATH	111I	006	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	04:40 pm-05:30 pm	35	33	2	Joseph C Foster (P)	08/24-12/08	LCONTE 112	 
+ 	 	 	 	 	 	 	 	 	TR	04:25 pm-05:40 pm	 	 	 	Joseph C Foster (P)	08/24-12/08	LCONTE 112	 
+NR	28534	MATH	111I	S01	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	08:30 am-09:20 am	5	4	1	Joshua Cain Thompson (P)	08/24-12/08	LCONTE 101	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Joshua Cain Thompson (P)	08/24-12/08	LCONTE 101	 
+NR	28535	MATH	111I	S02	COL	4.000	30 - Columbia Full Term	Intensive Basic College Mathematics	MW	08:30 am-09:20 am	5	2	3	Gabriel Kenneth Staton (P)	08/24-12/08	LCONTE 405	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Gabriel Kenneth Staton (P)	08/24-12/08	LCONTE 405	 
+NR	10358	MATH	115	001	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	08:30 am-09:20 am	38	37	1	Michael Robert Levet (P)	08/24-12/08	LCONTE 115	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Michael Robert Levet (P)	08/24-12/08	LCONTE 112	 
+NR	10387	MATH	115	002	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	08:30 am-09:20 am	38	37	1	Jeremiah T. Southwick (P)	08/24-12/08	HUMCB 302	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Jeremiah T. Southwick (P)	08/24-12/08	GAMBRL 124	 
+NR	10390	MATH	115	003	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	08:30 am-09:20 am	38	37	1	Xiaofei Yi (P)	08/24-12/08	HUMCB 403	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Xiaofei Yi (P)	08/24-12/08	HUMCB 301	 
+NR	10395	MATH	115	005	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	08:30 am-09:20 am	38	25	13	Jacob Juillerat (P)	08/24-12/08	HAMLTN 140	 
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	Jacob Juillerat (P)	08/24-12/08	HUMCB 403	 
+NR	10399	MATH	115	006	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	09:40 am-10:30 am	38	36	2	Erin Patricia Hanna (P)	08/24-12/08	LCONTE 101	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Erin Patricia Hanna (P)	08/24-12/08	GAMBRL 124	 
+NR	10402	MATH	115	007	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	09:40 am-10:30 am	38	37	1	Michael Adam Huggins (P)	08/24-12/08	HUMCB 301	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Michael Adam Huggins (P)	08/24-12/08	HUMCB 403	 
+NR	10404	MATH	115	008	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	09:40 am-10:30 am	24	23	1	James Patrick Sweeney (P)	08/24-12/08	HUMCB 403	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	James Patrick Sweeney (P)	08/24-12/08	FLINN 207	 
+C	10407	MATH	115	010	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	10:50 am-11:40 am	38	38	0	Christopher David Edgar (P)	08/24-12/08	LCONTE 101	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Christopher David Edgar (P)	08/24-12/08	HAMLTN 236	 
+NR	30051	MATH	115	011	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	09:40 am-10:30 am	38	28	10	Rade Robert Musulin (P)	08/24-12/08	CLLCTT 102	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Rade Robert Musulin (P)	08/24-12/08	LCONTE 112	 
+NR	30079	MATH	115	012	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	04:40 pm-05:30 pm	38	26	12	Thomas Alton Schnibben (P)	08/24-12/08	JONES 201	 
+ 	 	 	 	 	 	 	 	 	TR	04:25 pm-05:40 pm	 	 	 	Thomas Alton Schnibben (P)	08/24-12/08	PETIGR 212	 
+NR	28544	MATH	115	S08	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	09:40 am-10:30 am	14	1	13	James Patrick Sweeney (P)	08/24-12/08	HUMCB 403	 
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	James Patrick Sweeney (P)	08/24-12/08	FLINN 207	 
+NR	13043	MATH	115	T01	COL	4.000	30 - Columbia Full Term	Precalculus Mathematics	MW	01:10 pm-02:00 pm	20	12	8	Kelvin Terrell Pompey (P)	08/24-12/08	BTWASH 211	 
+ 	 	 	 	 	 	 	 	 	TR	01:15 pm-02:30 pm	 	 	 	Kelvin Terrell Pompey (P)	08/24-12/08	BTWASH 211	 
+SR	13556	MATH	116	Y1B	COL	2.000	3B - Columbia Second Half Term	Brief Precalculus Mathematics	MW	05:50 pm-06:40 pm	20	2	18	Garner Paul Cochran (P)	10/23-12/08	LCONTE 121	 
+ 	 	 	 	 	 	 	 	 	TR	06:00 pm-06:50 pm	 	 	 	Garner Paul Cochran (P)	10/23-12/08	LCONTE 121	 
+SR	13557	MATH	116	Y2B	COL	2.000	3B - Columbia Second Half Term	Brief Precalculus Mathematics	MW	07:00 pm-07:50 pm	20	0	20	Garner Paul Cochran (P)	10/23-12/08	LCONTE 121	 
+ 	 	 	 	 	 	 	 	 	TR	07:35 pm-08:25 pm	 	 	 	Garner Paul Cochran (P)	10/23-12/08	LCONTE 121	 
+NR	10067	MATH	122	001	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	12:00 pm-12:50 pm	71	70	1	Francisco Javier Blanco-Silva (P)	08/24-12/08	GAMBRL 152	ARP Analytical Reasoning
+C	11858	MATH	122	003	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	10:50 am-11:40 am	60	60	0	Francisco Javier Blanco-Silva (P)	08/24-12/08	GAMBRL 152	ARP Analytical Reasoning
+C	25066	MATH	122	004	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	10:50 am-11:40 am	38	38	0	Robert Richard Vandermolen (P)	08/24-12/08	CLLCTT 102	ARP Analytical Reasoning
+NR	11862	MATH	122	005	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	11:40 am-12:55 pm	57	54	3	Stephen Gagola (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+C	22326	MATH	122	006	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	08:30 am-09:20 am	38	38	0	Gregory James Clark (P)	08/24-12/08	CLLCTT 102	ARP Analytical Reasoning
+NR	11866	MATH	122	007	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	12:00 pm-12:50 pm	70	69	1	Brandy Amanda Barnette (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+NR	11868	MATH	122	008	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	01:15 pm-02:30 pm	56	54	2	Stephen Gagola (P)	08/24-12/08	DAVIS 209	ARP Analytical Reasoning
+C	11870	MATH	122	009	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	08:30 am-09:45 am	70	70	0	Donald M Jordan (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+C	11874	MATH	122	011	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	01:10 pm-02:00 pm	70	70	0	Elena Boguslavsky (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+C	11877	MATH	122	012	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	09:40 am-10:30 am	70	70	0	Larita Barnwell Hipp (P)	08/24-12/08	HUMCB 202	ARP Analytical Reasoning
+C	25067	MATH	122	013	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	12:00 pm-12:50 pm	70	70	0	Neil Bornstein (P)	08/24-12/08	HUMCB 201	ARP Analytical Reasoning
+C	16514	MATH	122	014	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	08:30 am-09:20 am	70	70	0	Neil Bornstein (P)	08/24-12/08	HUMCB 202	ARP Analytical Reasoning
+C	21710	MATH	122	015	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MW	08:05 am-09:20 am	70	70	0	Melissa Kate Atkins (P)	08/24-12/08	HUMCB 201	ARP Analytical Reasoning
+NR	21797	MATH	122	016	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	10:50 am-11:40 am	38	36	2	Inne Singgih (P)	08/24-12/08	JONES 203	ARP Analytical Reasoning
+NR	22583	MATH	122	019	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	01:10 pm-02:00 pm	70	68	2	Larita Barnwell Hipp (P)	08/24-12/08	HUMCB 201	ARP Analytical Reasoning
+NR	22584	MATH	122	020	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	08:30 am-09:45 am	70	69	1	Michael Lane (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+C	23945	MATH	122	021	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MW	03:55 pm-05:10 pm	70	70	0	John Hardwick (P)	08/24-12/08	HUMCB 201	ARP Analytical Reasoning
+NR	11872	MATH	122	022	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	04:25 pm-05:40 pm	70	69	1	Alexandru Gabriel Atim (P)	08/24-12/08	HUMCB 202	ARP Analytical Reasoning
+NR	25198	MATH	122	023	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	04:25 pm-05:40 pm	61	57	4	Neil Bornstein (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+C	29153	MATH	122	024	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	10:05 am-11:20 am	60	60	0	Donald M Jordan (P)	08/24-12/08	COKER 510	ARP Analytical Reasoning
+NR	29812	MATH	122	029	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MW	05:30 pm-06:45 pm	70	69	1	John Hardwick (P)	08/24-12/08	HUMCB 201	ARP Analytical Reasoning
+NR	29813	MATH	122	030	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	02:50 pm-04:05 pm	70	69	1	John Hardwick (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+C	28547	MATH	122	S03	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	10:50 am-11:40 am	10	10	0	Francisco Javier Blanco-Silva (P)	08/24-12/08	GAMBRL 152	ARP Analytical Reasoning
+NR	28548	MATH	122	S05	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	11:40 am-12:55 pm	13	12	1	Stephen Gagola (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+C	28549	MATH	122	S08	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	01:15 pm-02:30 pm	17	17	0	Stephen Gagola (P)	08/24-12/08	DAVIS 209	ARP Analytical Reasoning
+NR	13048	MATH	122	T01	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	09:40 am-10:30 am	20	15	5	Kelvin Terrell Pompey (P)	08/24-12/08	LCONTE 303B	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	M	09:41 am-10:31 am	 	 	 	Kelvin Terrell Pompey (P)	08/28-08/28	DAVIS 216	ARP Analytical Reasoning
+NR	25251	MATH	122	T02	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	10:50 am-11:40 am	20	18	2	Larita Barnwell Hipp (P)	08/24-12/08	LCONTE 303B	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	M	10:51 am-11:41 am	 	 	 	Larita Barnwell Hipp (P)	08/28-08/28	GAMBRL 321	ARP Analytical Reasoning
+C	13559	MATH	122	Y01	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MW	05:30 pm-06:45 pm	70	70	0	Steven Joseph Derochers (P)	08/24-12/08	WMBB 125	ARP Analytical Reasoning
+C	13560	MATH	122	Y02	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	04:25 pm-05:40 pm	72	72	0	Steven Joseph Derochers (P)	08/24-12/08	SLOAN 112	ARP Analytical Reasoning
+NR	18113	MATH	122	Y03	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	06:00 pm-07:15 pm	72	69	3	Steven Joseph Derochers (P)	08/24-12/08	SLOAN 112	ARP Analytical Reasoning
+C	24069	MATH	122	Y04	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	09:40 am-10:30 am	70	70	0	Ann Wells Clifton (P)	08/24-12/08	GAMBRL 152	ARP Analytical Reasoning
+C	21612	MATH	122	Y05	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	MWF	10:50 am-11:40 am	70	70	0	Ann Wells Clifton (P)	08/24-12/08	CLHIPP 008	ARP Analytical Reasoning
+NR	29799	MATH	122	Y06	COL	3.000	30 - Columbia Full Term	Calculus for Business Administration and Social Sciences	TR	06:00 pm-07:15 pm	70	65	5	Alexandru Gabriel Atim (P)	08/24-12/08	WMBB 127	ARP Analytical Reasoning
+SR	23109	MATH	122	Z1B	COL	3.000	3B8 - Columbia	Calculus for Business Administration and Social Sciences	TR	05:20 pm-07:50 pm	20	3	17	Sharon M Shackelford (P)	10/23-12/12	FJAC 1	ARP Analytical Reasoning and Ft. Jackson Location
+NR	10018	MATH	141	001	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	09:40 am-10:30 am	30	28	2	John Hardwick (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	08:30 am-09:20 am	 	 	 	Zengyan ZHANG	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	08:30 am-09:20 am	 	 	 	Zengyan ZHANG	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+NR	10070	MATH	141	002	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	09:40 am-10:30 am	30	24	6	John Hardwick (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	10:05 am-10:55 am	 	 	 	Zengyan ZHANG	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	10:05 am-10:55 am	 	 	 	Zengyan ZHANG	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+NR	25037	MATH	141	003	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	02:20 pm-03:10 pm	31	29	2	Brandy Amanda Barnette (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	01:15 pm-02:05 pm	 	 	 	Chenfei Zhang	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	01:15 pm-02:05 pm	 	 	 	Chenfei Zhang	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	25038	MATH	141	004	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	02:20 pm-03:10 pm	30	29	1	Brandy Amanda Barnette (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-03:40 pm	 	 	 	Chenfei Zhang	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	02:50 pm-03:40 pm	 	 	 	Chenfei Zhang	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+C	11889	MATH	141	005	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	10:50 am-11:40 am	31	31	0	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	08:30 am-09:20 am	 	 	 	Keller Lee VandeBogert	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	08:30 am-09:20 am	 	 	 	Keller Lee VandeBogert	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+NR	11891	MATH	141	006	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	10:50 am-11:40 am	27	26	1	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	10:05 am-10:55 am	 	 	 	Keller Lee VandeBogert	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	10:05 am-10:55 am	 	 	 	Keller Lee VandeBogert	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+NR	11892	MATH	141	007	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	10:50 am-11:40 am	31	30	1	Stephen Gagola (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	08:30 am-09:20 am	 	 	 	Haley Noelle Dewey	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	08:30 am-09:20 am	 	 	 	Haley Noelle Dewey	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	11893	MATH	141	008	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	10:50 am-11:40 am	30	28	2	Stephen Gagola (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	10:05 am-10:55 am	 	 	 	Haley Noelle Dewey	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	10:05 am-10:55 am	 	 	 	Haley Noelle Dewey	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+C	11895	MATH	141	009	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	12:00 pm-12:50 pm	29	29	0	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	11:40 am-12:30 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	11:40 am-12:30 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+C	11898	MATH	141	010	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	12:00 pm-12:50 pm	28	28	0	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	01:15 pm-02:05 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	01:15 pm-02:05 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+C	11901	MATH	141	011	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	12:00 pm-12:50 pm	31	31	0	Patrick McFaddin (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	08:30 am-09:20 am	 	 	 	Jack Robert Dalton	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	08:30 am-09:20 am	 	 	 	Jack Robert Dalton	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	11932	MATH	141	012	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	12:00 pm-12:50 pm	30	28	2	Patrick McFaddin (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	10:05 am-10:55 am	 	 	 	Jack Robert Dalton	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	10:05 am-10:55 am	 	 	 	Jack Robert Dalton	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	11937	MATH	141	013	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	01:10 pm-02:00 pm	31	30	1	Patrick McFaddin (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	11:40 am-12:30 pm	 	 	 	Hays Wimsatt Whitlatch	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	11:40 am-12:30 pm	 	 	 	Hays Wimsatt Whitlatch	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+NR	11939	MATH	141	014	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	01:10 pm-02:00 pm	30	29	1	Patrick McFaddin (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	01:15 pm-02:05 pm	 	 	 	Hays Wimsatt Whitlatch	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	01:15 pm-02:05 pm	 	 	 	Hays Wimsatt Whitlatch	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+C	11941	MATH	141	015	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	01:10 pm-02:00 pm	32	32	0	Yi Sun (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-03:40 pm	 	 	 	Shuliang Bai	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	02:50 pm-03:40 pm	 	 	 	Shuliang Bai	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	11944	MATH	141	016	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	01:10 pm-02:00 pm	31	29	2	Yi Sun (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	04:25 pm-05:15 pm	 	 	 	Shuliang Bai	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	04:25 pm-05:15 pm	 	 	 	Shuliang Bai	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+C	11961	MATH	141	018	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	02:20 pm-03:10 pm	32	32	0	Geoffrey Robert Dillon (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	04:25 pm-05:15 pm	 	 	 	Demmas Salim	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	04:25 pm-05:15 pm	 	 	 	Demmas Salim	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	11965	MATH	141	019	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	02:20 pm-03:10 pm	31	30	1	Geoffrey Robert Dillon (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	06:00 pm-06:50 pm	 	 	 	Demmas Salim	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	06:00 pm-06:50 pm	 	 	 	Demmas Salim	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	11979	MATH	141	H01	COL	4.000	30 - Columbia Full Term	HNRS: Calculus I	M	12:00 pm-12:50 pm	25	24	1	Rade Robert Musulin	08/24-12/08	LCONTE 401	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Courtney Leigh Baber (P)	08/24-12/08	LCONTE 405	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	W	12:00 pm-12:50 pm	 	 	 	Courtney Leigh Baber (P)	08/24-12/08	LCONTE 121	ARP Analytical Reasoning and SC Honors College
+NR	17331	MATH	141	H02	COL	4.000	30 - Columbia Full Term	HNRS: Calculus I	M	10:50 am-11:40 am	25	24	1	Jeremiah T. Southwick	08/24-12/08	LCONTE 401	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Courtney Leigh Baber (P)	08/24-12/08	LCONTE 405	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	W	10:50 am-11:40 am	 	 	 	Courtney Leigh Baber (P)	08/24-12/08	LCONTE 121	ARP Analytical Reasoning and SC Honors College
+NR	28550	MATH	141	S06	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	10:50 am-11:40 am	5	4	1	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	10:05 am-10:55 am	 	 	 	Keller Lee VandeBogert	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	10:05 am-10:55 am	 	 	 	Keller Lee VandeBogert	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+NR	28551	MATH	141	S09	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	12:00 pm-12:50 pm	3	2	1	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	11:40 am-12:30 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	11:40 am-12:30 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+NR	28552	MATH	141	S10	COL	4.000	30 - Columbia Full Term	Calculus I	MWF	12:00 pm-12:50 pm	3	2	1	Xian Wu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	01:15 pm-02:05 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	01:15 pm-02:05 pm	 	 	 	Aditya Kiran Gundaboina Harish	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+NR	11880	MATH	141	Y02	COL	4.000	30 - Columbia Full Term	Calculus I	MW	03:55 pm-05:10 pm	32	31	1	Ann Wells Clifton (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	11:40 am-12:30 pm	 	 	 	Anton Strizhov	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	11:40 am-12:30 pm	 	 	 	Anton Strizhov	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	11885	MATH	141	Y03	COL	4.000	30 - Columbia Full Term	Calculus I	MW	03:55 pm-05:10 pm	31	30	1	Ann Wells Clifton (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	01:15 pm-02:05 pm	 	 	 	Anton Strizhov	08/24-12/08	LCONTE 115	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	01:15 pm-02:05 pm	 	 	 	Anton Strizhov	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	21652	MATH	141	Y04	COL	4.000	30 - Columbia Full Term	Calculus I	MW	05:30 pm-06:45 pm	32	29	3	Ann Wells Clifton (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	04:25 pm-05:15 pm	 	 	 	Harsh Akshay Mehta	08/24-12/08	LCONTE 405	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	04:25 pm-05:15 pm	 	 	 	Harsh Akshay Mehta	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+C	21653	MATH	141	Y05	COL	4.000	30 - Columbia Full Term	Calculus I	MW	05:30 pm-06:45 pm	31	31	0	Ann Wells Clifton (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	06:00 pm-06:50 pm	 	 	 	Harsh Akshay Mehta	08/24-12/08	LCONTE 405	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	06:00 pm-06:50 pm	 	 	 	Harsh Akshay Mehta	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning
+NR	24067	MATH	141	Y06	COL	4.000	30 - Columbia Full Term	Calculus I	MW	03:55 pm-05:10 pm	30	29	1	Steven Joseph Derochers (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	04:25 pm-05:15 pm	 	 	 	Shuang Liu	08/24-12/08	LCONTE 401	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	04:25 pm-05:15 pm	 	 	 	Shuang Liu	08/24-12/08	LCONTE 310	ARP Analytical Reasoning
+NR	24068	MATH	141	Y07	COL	4.000	30 - Columbia Full Term	Calculus I	MW	03:55 pm-05:10 pm	30	29	1	Steven Joseph Derochers (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	06:00 pm-06:50 pm	 	 	 	Shuang Liu	08/24-12/08	LCONTE 401	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	06:00 pm-06:50 pm	 	 	 	Shuang Liu	08/24-12/08	LCONTE 310	ARP Analytical Reasoning
+NR	11994	MATH	142	001	COL	4.000	30 - Columbia Full Term	Calculus II	M	03:30 pm-04:20 pm	32	28	4	Hannah Melissa Kimbrell	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	02:50 pm-04:05 pm	 	 	 	Maria K. Girardi (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	03:30 pm-04:20 pm	 	 	 	Hannah Melissa Kimbrell	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	12021	MATH	142	002	COL	4.000	30 - Columbia Full Term	Calculus II	M	04:40 pm-05:30 pm	31	26	5	Hannah Melissa Kimbrell	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	02:50 pm-04:05 pm	 	 	 	Maria K. Girardi (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	04:40 pm-05:30 pm	 	 	 	Hannah Melissa Kimbrell	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	12027	MATH	142	003	COL	4.000	30 - Columbia Full Term	Calculus II	M	08:30 am-09:20 am	32	29	3	Bailey Thomas Hall	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Alexander Rhys Duncan (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	08:30 am-09:20 am	 	 	 	Bailey Thomas Hall	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12030	MATH	142	004	COL	4.000	30 - Columbia Full Term	Calculus II	M	09:40 am-10:30 am	31	27	4	Bailey Thomas Hall	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Alexander Rhys Duncan (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	09:40 am-10:30 am	 	 	 	Bailey Thomas Hall	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12032	MATH	142	005	COL	4.000	30 - Columbia Full Term	Calculus II	TR	11:40 am-12:55 pm	32	23	9	Alexander Rhys Duncan (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	08:30 am-09:20 am	 	 	 	Andrew Meier	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	08:30 am-09:20 am	 	 	 	Andrew Meier	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12036	MATH	142	006	COL	4.000	30 - Columbia Full Term	Calculus II	TR	11:40 am-12:55 pm	31	29	2	Alexander Rhys Duncan (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	09:40 am-10:30 am	 	 	 	Andrew Meier	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	09:40 am-10:30 am	 	 	 	Andrew Meier	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12044	MATH	142	007	COL	4.000	30 - Columbia Full Term	Calculus II	M	10:50 am-11:40 am	30	29	1	Peter Joseph Gartland	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Xiaofeng Yang (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	10:50 am-11:40 am	 	 	 	Peter Joseph Gartland	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12047	MATH	142	008	COL	4.000	30 - Columbia Full Term	Calculus II	M	12:00 pm-12:50 pm	31	29	2	Peter Joseph Gartland	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Xiaofeng Yang (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	12:00 pm-12:50 pm	 	 	 	Peter Joseph Gartland	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12048	MATH	142	009	COL	4.000	30 - Columbia Full Term	Calculus II	TR	01:15 pm-02:30 pm	31	30	1	Xinfeng Liu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	10:50 am-11:40 am	 	 	 	Dylana Ashton Wilhelm	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	10:50 am-11:40 am	 	 	 	Dylana Ashton Wilhelm	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	12049	MATH	142	010	COL	4.000	30 - Columbia Full Term	Calculus II	TR	01:15 pm-02:30 pm	32	30	2	Xinfeng Liu (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	12:00 pm-12:50 pm	 	 	 	Dylana Ashton Wilhelm	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	12:00 pm-12:50 pm	 	 	 	Dylana Ashton Wilhelm	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	16534	MATH	142	011	COL	4.000	30 - Columbia Full Term	Calculus II	M	08:30 am-09:20 am	30	19	11	Aaron Fowlkes	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	George Androulakis (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	08:30 am-09:20 am	 	 	 	Aaron Fowlkes	08/24-12/08	LCONTE 401	ARP Analytical Reasoning
+NR	16535	MATH	142	012	COL	4.000	30 - Columbia Full Term	Calculus II	M	09:40 am-10:30 am	30	29	1	Aaron Fowlkes	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:45 am	 	 	 	George Androulakis (P)	08/24-12/08	LCONTE 412	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	09:40 am-10:30 am	 	 	 	Aaron Fowlkes	08/24-12/08	LCONTE 401	ARP Analytical Reasoning
+C	29665	MATH	142	015	COL	4.000	30 - Columbia Full Term	Calculus II	M	01:10 pm-02:00 pm	32	32	0	Nicholas James Stevenson	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Ognian Trifonov (P)	08/24-12/08	WRDLAW 126	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	01:10 pm-02:00 pm	 	 	 	Nicholas James Stevenson	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	29666	MATH	142	016	COL	4.000	30 - Columbia Full Term	Calculus II	M	02:20 pm-03:10 pm	32	31	1	Nicholas James Stevenson	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Ognian Trifonov (P)	08/24-12/08	WRDLAW 126	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	02:20 pm-03:10 pm	 	 	 	Nicholas James Stevenson	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+NR	29674	MATH	142	017	COL	4.000	30 - Columbia Full Term	Calculus II	M	01:10 pm-02:00 pm	32	29	3	Cuyler Daniel Warnock	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	02:50 pm-04:05 pm	 	 	 	Douglas B. Meade (P)	08/24-12/08	WRDLAW 126	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	01:10 pm-02:00 pm	 	 	 	Cuyler Daniel Warnock	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	29675	MATH	142	018	COL	4.000	30 - Columbia Full Term	Calculus II	M	02:20 pm-03:10 pm	32	23	9	Cuyler Daniel Warnock	08/24-12/08	LCONTE 102	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	02:50 pm-04:05 pm	 	 	 	Douglas B. Meade (P)	08/24-12/08	WRDLAW 126	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	02:20 pm-03:10 pm	 	 	 	Cuyler Daniel Warnock	08/24-12/08	LCONTE 121	ARP Analytical Reasoning
+NR	12051	MATH	142	H01	COL	4.000	30 - Columbia Full Term	HNRS: Calculus II	M	12:00 pm-12:50 pm	25	24	1	Ronda M Sanders (P)	08/24-12/08	LCONTE 121	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Ronda M Sanders (P)	08/24-12/08	LCONTE 310	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	F	12:00 pm-12:50 pm	 	 	 	Xiangcheng Zheng	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning and SC Honors College
+NR	12053	MATH	142	H02	COL	4.000	30 - Columbia Full Term	HNRS: Calculus II	M	12:00 pm-12:50 pm	25	16	9	Scott Michael Dunn (P)	08/24-12/08	LCONTE 405	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	TR	11:40 am-12:55 pm	 	 	 	Scott Michael Dunn (P)	08/24-12/08	GAMBRL 321	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	W	12:00 pm-12:50 pm	 	 	 	Xiangcheng Zheng	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning and SC Honors College
+C	17334	MATH	142	H03	COL	4.000	30 - Columbia Full Term	HNRS: Calculus II	M	10:50 am-11:40 am	25	25	0	Ronda M Sanders (P)	08/24-12/08	LCONTE 121	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	TR	10:05 am-11:20 am	 	 	 	Ronda M Sanders (P)	08/24-12/08	LCONTE 310	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	F	10:50 am-11:40 am	 	 	 	Xiangcheng Zheng	08/24-12/08	LCONTE 303A	ARP Analytical Reasoning and SC Honors College
+NR	12057	MATH	170	001	COL	3.000	30 - Columbia Full Term	Finite Mathematics	MWF	09:40 am-10:30 am	37	36	1	Duncan Wright (P)	08/24-12/08	GAMBRL 124	ARP Analytical Reasoning
+NR	30126	MATH	170	003	COL	3.000	30 - Columbia Full Term	Finite Mathematics	MW	05:30 pm-06:45 pm	62	56	6	Neil Bornstein (P)	08/24-12/08	LCONTE 113	ARP Analytical Reasoning
+C	28555	MATH	170	S01	COL	3.000	30 - Columbia Full Term	Finite Mathematics	MWF	09:40 am-10:30 am	1	1	0	Duncan Wright (P)	08/24-12/08	GAMBRL 124	ARP Analytical Reasoning
+NR	13569	MATH	170	Y02	COL	3.000	30 - Columbia Full Term	Finite Mathematics	TR	06:00 pm-07:15 pm	38	36	2	Candace Adia Bethea (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+NR	12061	MATH	172	001	COL	3.000	30 - Columbia Full Term	Mathematical Modeling for the Life Sciences	TR	02:50 pm-04:05 pm	55	46	9	Paula Andrea Vasquez (P)	08/24-12/08	WMBB 127	ARP Analytical Reasoning
+NR	28556	MATH	172	S01	COL	3.000	30 - Columbia Full Term	Mathematical Modeling for the Life Sciences	TR	02:50 pm-04:05 pm	10	0	10	Paula Andrea Vasquez (P)	08/24-12/08	WMBB 127	ARP Analytical Reasoning
+NR	18404	MATH	174	001	COL	3.000	30 - Columbia Full Term	Discrete Mathematics for Computer Science	MW	03:55 pm-05:10 pm	60	57	3	Courtney Leigh Baber (P)	08/24-12/08	CLLCTT 201	ARP Analytical Reasoning
+C	12062	MATH	221	001	COL	3.000	30 - Columbia Full Term	Basic Concepts of Elementary Mathematics I	TR	01:15 pm-02:30 pm	42	42	0	Scott Michael Dunn (P)	08/24-12/08	LCONTE 101	 
+NR	12063	MATH	221	002	COL	3.000	30 - Columbia Full Term	Basic Concepts of Elementary Mathematics I	TR	02:50 pm-04:05 pm	40	39	1	Scott Michael Dunn (P)	08/24-12/08	LCONTE 101	 
+NR	25214	MATH	221	P19	COL	3.000	3A - Columbia First Half Term	Basic Concepts of Elementary Mathematics I	 	TBA	25	11	14	Sharon M Shackelford (P)	08/24-10/16	WEB COLUMBIA	Regional Palmetto
+NR	12066	MATH	222	001	COL	3.000	30 - Columbia Full Term	Basic Concepts of Elementary Mathematics II	TR	10:05 am-11:20 am	40	24	16	Debra Geddings (P)	08/24-12/08	LCONTE 101	 
+NR	12068	MATH	222	002	COL	3.000	30 - Columbia Full Term	Basic Concepts of Elementary Mathematics II	TR	11:40 am-12:55 pm	40	24	16	Debra Geddings (P)	08/24-12/08	LCONTE 101	 
+SR	25215	MATH	222	P19	COL	3.000	3AX - Columbia	Basic Concepts of Elementary Mathematics II	 	TBA	25	12	13	Sharon M Shackelford (P)	10/23-12/18	WEB COLUMBIA	Regional Palmetto
+NR	12069	MATH	241	001	COL	3.000	30 - Columbia Full Term	Vector Calculus	MWF	09:40 am-10:30 am	39	35	4	Joshua Nathan Cooper (P)	08/24-12/08	LCONTE 405	 
+NR	12070	MATH	241	002	COL	3.000	30 - Columbia Full Term	Vector Calculus	MWF	10:50 am-11:40 am	45	43	2	Joshua Nathan Cooper (P)	08/24-12/08	FLINN 107	 
+C	12072	MATH	241	003	COL	3.000	30 - Columbia Full Term	Vector Calculus	MWF	10:50 am-11:40 am	39	39	0	Jerrold Robinson Griggs (P)	08/24-12/08	LCONTE 405	 
+NR	12073	MATH	241	004	COL	3.000	30 - Columbia Full Term	Vector Calculus	MWF	09:40 am-10:30 am	45	44	1	Daniel B. Dix (P)	08/24-12/08	FLINN 107	 
+NR	12075	MATH	241	006	COL	3.000	30 - Columbia Full Term	Vector Calculus	TR	11:40 am-12:55 pm	42	41	1	Andrew Richard Kustin (P)	08/24-12/08	LCONTE 112	 
+NR	18116	MATH	241	007	COL	3.000	30 - Columbia Full Term	Vector Calculus	TR	01:15 pm-02:30 pm	45	44	1	Andrew Richard Kustin (P)	08/24-12/08	LCONTE 113	 
+NR	21416	MATH	241	009	COL	3.000	30 - Columbia Full Term	Vector Calculus	MWF	01:10 pm-02:00 pm	45	44	1	Peter Jospeh Nyikos (P)	08/24-12/08	FLINN 107	 
+NR	21811	MATH	241	010	COL	3.000	30 - Columbia Full Term	Vector Calculus	MWF	01:10 pm-02:00 pm	45	41	4	Daniel B. Dix (P)	08/24-12/08	GAMBRL 201	 
+SR	22203	MATH	241	01B	COL	3.000	3B - Columbia Second Half Term	Vector Calculus	MW	02:20 pm-03:35 pm	42	41	1	Vladimir N. Temlyakov (P)	10/23-12/08	LCONTE 112	 
+ 	 	 	 	 	 	 	 	 	TR	02:50 pm-04:05 pm	 	 	 	Vladimir N. Temlyakov (P)	10/23-12/08	LCONTE 112	 
+NR	12076	MATH	241	H01	COL	3.000	30 - Columbia Full Term	HNRS: Vector Calculus	MWF	12:00 pm-12:50 pm	25	24	1	Matthew Garrett Boylan (P)	08/24-12/08	LCONTE 112	SC Honors College
+C	12077	MATH	241	H02	COL	3.000	30 - Columbia Full Term	HNRS: Vector Calculus	MWF	12:00 pm-12:50 pm	25	25	0	Sean P Yee (P)	08/24-12/08	LCONTE 115	SC Honors College
+NR	17335	MATH	241	H03	COL	3.000	30 - Columbia Full Term	HNRS: Vector Calculus	MWF	10:50 am-11:40 am	25	23	2	Sean P Yee (P)	08/24-12/08	LCONTE 115	SC Honors College
+C	23645	MATH	241	H04	COL	3.000	30 - Columbia Full Term	HNRS: Vector Calculus	F	12:00 pm-12:50 pm	25	25	0	Matthew Robert Ballard (P)	08/24-08/25	SJMC 310	SC Honors College
+ 	 	 	 	 	 	 	 	 	MWF	12:00 pm-12:50 pm	 	 	 	Matthew Robert Ballard (P)	08/26-12/08	CLLCTT 101	SC Honors College
+NR	12135	MATH	242	001	COL	3.000	30 - Columbia Full Term	Elementary Differential Equations	MWF	09:40 am-10:30 am	42	41	1	Geoffrey Robert Dillon (P)	08/24-12/08	LCONTE 112	 
+NR	12144	MATH	242	002	COL	3.000	30 - Columbia Full Term	Elementary Differential Equations	TR	02:50 pm-04:05 pm	45	42	3	Thi Thao Phu Hoang (P)	08/24-12/08	FLINN 107	 
+NR	12145	MATH	242	003	COL	3.000	30 - Columbia Full Term	Elementary Differential Equations	TR	01:15 pm-02:30 pm	42	40	2	Peter Georgiev Binev (P)	08/24-12/08	LCONTE 112	 
+C	15757	MATH	242	004	COL	3.000	30 - Columbia Full Term	Elementary Differential Equations	TR	02:50 pm-04:05 pm	45	45	0	Siwei Duo (P)	08/24-12/08	LCONTE 113	 
+NR	17981	MATH	242	005	COL	3.000	30 - Columbia Full Term	Elementary Differential Equations	TR	11:40 am-12:55 pm	45	43	2	Qi Wang (P)	08/24-12/08	CLHIPP 363	 
+NR	24070	MATH	242	007	COL	3.000	30 - Columbia Full Term	Elementary Differential Equations	MWF	10:50 am-11:40 am	42	41	1	Geoffrey Robert Dillon (P)	08/24-12/08	LCONTE 112	 
+NR	12147	MATH	300	001	COL	3.000	30 - Columbia Full Term	Transition to Advanced Mathematics	TR	10:05 am-11:20 am	25	24	1	Jesse Leo Kass (P)	08/24-12/08	HUMCB 312	 
+NR	18403	MATH	300	002	COL	3.000	30 - Columbia Full Term	Transition to Advanced Mathematics	MWF	01:10 pm-02:00 pm	25	20	5	Ralph Elwood Howard (P)	08/24-12/08	LCONTE 112	 
+NR	22062	MATH	300	H01	COL	3.000	30 - Columbia Full Term	HNRS: Transition to Advanced Mathematics	MWF	01:10 pm-02:00 pm	20	12	8	George F McNulty (P)	08/24-12/08	LCONTE 115	SC Honors College
+NR	22436	MATH	344	001	COL	3.000	30 - Columbia Full Term	Applied Linear Algebra	TR	11:40 am-12:55 pm	45	43	2	Zhu Wang (P)	08/24-12/08	CLHIPP 351	 
+C	24944	MATH	344	002	COL	3.000	30 - Columbia Full Term	Applied Linear Algebra	TR	10:05 am-11:20 am	39	39	0	Xinfeng Liu (P)	08/24-12/08	CLLCTT 003	 
+C	22439	MATH	344L	001	COL	1.000	30 - Columbia Full Term	Applied Linear Algebra Lab	W	10:50 am-11:40 am	25	25	0	Sameed Ahmed (P)	08/24-12/08	LCONTE 401	 
+C	24945	MATH	344L	002	COL	1.000	30 - Columbia Full Term	Applied Linear Algebra Lab	W	12:00 pm-12:50 pm	25	25	0	Sameed Ahmed (P)	08/24-12/08	LCONTE 401	 
+NR	24946	MATH	344L	003	COL	1.000	30 - Columbia Full Term	Applied Linear Algebra Lab	W	01:10 pm-02:00 pm	25	11	14	Sameed Ahmed (P)	08/24-12/08	LCONTE 401	 
+NR	12150	MATH	374	001	COL	3.000	30 - Columbia Full Term	Discrete Structures	MWF	09:40 am-10:30 am	45	44	1	Frank Henry Thorne (P)	08/24-12/08	GAMBRL 201	 
+NR	18036	MATH	374	002	COL	3.000	30 - Columbia Full Term	Discrete Structures	MWF	12:00 pm-12:50 pm	45	44	1	Linyuan Lu (P)	08/24-12/08	LCONTE 101	 
+NR	29485	MATH	490	001	COL	1.000-3.000	30 - Columbia Full Term	Mathematics Internship	 	TBA	5	1	4	Matthew Miller (P)	08/24-12/08	TBA	 
+NR	29428	MATH	499	001	COL	1.000-3.000	30 - Columbia Full Term	Undergraduate Research	 	TBA	5	2	3	Joshua Nathan Cooper (P)	08/24-12/08	TBA	GLD: Research
+C	13969	MATH	511	001	COL	3.000	30 - Columbia Full Term	Probability	TR	01:15 pm-02:30 pm	30	27	3	Karl Gregory (P)	08/24-12/08	LCONTE 210	 
+NR	11000	MATH	514	001	COL	3.000	30 - Columbia Full Term	Financial Mathematics I	TR	11:40 am-12:55 pm	20	13	7	Hong Wang (P)	08/24-12/08	LCONTE 401	 
+NR	10725	MATH	520	001	COL	3.000	30 - Columbia Full Term	Ordinary Differential Equations	TR	11:40 am-12:55 pm	39	32	7	Douglas B. Meade (P)	08/24-12/08	CLHIPP 463	 
+NR	25023	MATH	524	001	COL	3.000	30 - Columbia Full Term	Nonlinear Optimization	TR	10:05 am-11:20 am	20	15	5	Francisco Javier Blanco-Silva (P)	08/24-12/08	LCONTE 303B	 
+NR	21984	MATH	531	001	COL	3.000	30 - Columbia Full Term	Foundations of Geometry	MWF	09:40 am-10:30 am	25	21	4	Matthew Garrett Boylan (P)	08/24-12/08	LCONTE 310	 
+NR	25024	MATH	534	001	COL	3.000	30 - Columbia Full Term	Elements of General Topology	MWF	09:40 am-10:30 am	30	8	22	Peter Jospeh Nyikos (P)	08/24-12/08	LCONTE 115	 
+NR	10990	MATH	544	001	COL	3.000	30 - Columbia Full Term	Linear Algebra	TR	11:40 am-12:55 pm	40	27	13	Matthew Miller (P)	08/24-12/08	HUMCB 404	 
+C	24947	MATH	544L	001	COL	1.000	30 - Columbia Full Term	Linear Algebra Lab	W	10:50 am-11:40 am	5	5	0	Sameed Ahmed (P)	08/24-12/08	LCONTE 401	 
+NR	24948	MATH	544L	002	COL	1.000	30 - Columbia Full Term	Linear Algebra Lab	W	12:00 pm-12:50 pm	5	4	1	Sameed Ahmed (P)	08/24-12/08	LCONTE 401	 
+NR	25291	MATH	544L	003	COL	1.000	30 - Columbia Full Term	Linear Algebra Lab	W	01:10 pm-02:00 pm	5	2	3	Sameed Ahmed (P)	08/24-12/08	LCONTE 401	 
+NR	11696	MATH	546	H01	COL	3.000	30 - Columbia Full Term	HNRS: Algebraic Structures I	MWF	12:00 pm-12:50 pm	15	9	6	Matthew Miller (P)	08/24-12/08	LCONTE 310	SC Honors College
+NR	10987	MATH	550	001	COL	3.000	30 - Columbia Full Term	Vector Analysis	TR	10:05 am-11:20 am	42	18	24	Peter Georgiev Binev (P)	08/24-12/08	FLINN 107	 
+NR	24942	MATH	554	001	COL	3.000	30 - Columbia Full Term	Analysis I	MW	02:20 pm-03:35 pm	25	23	2	Pencho Petrushev (P)	08/24-12/08	LCONTE 310	INT Integrative
+NR	11037	MATH	554	H01	COL	3.000	30 - Columbia Full Term	HNRS: Analysis I	MWF	10:50 am-11:40 am	15	9	6	Anton R. Schep (P)	08/24-12/08	LCONTE 310	SC Honors College and INT Integrative
+NR	10979	MATH	574	H01	COL	3.000	30 - Columbia Full Term	HNRS: Discrete Mathematics I	MWF	01:10 pm-02:00 pm	15	10	5	Jerrold Robinson Griggs (P)	08/24-12/08	LCONTE 310	SC Honors College
+NR	11699	MATH	580	001	COL	3.000	30 - Columbia Full Term	Elementary Number Theory	TR	01:15 pm-02:30 pm	28	18	10	Adela N. Vraciu (P)	08/24-12/08	LCONTE 405	 
+NR	10973	MATH	602	001	COL	3.000	30 - Columbia Full Term	An Inductive Approach to Geometry	MW	02:20 pm-03:35 pm	40	17	23	Debra Geddings (P)	08/24-12/08	LCONTE 101	 
+NR	11032	MATH	701	001	COL	3.000	30 - Columbia Full Term	Algebra I	MWF	12:00 pm-12:50 pm	18	12	6	Frank Henry Thorne (P)	08/24-12/08	LCONTE 303B	 
+NR	11700	MATH	701I	001	COL	3.000	30 - Columbia Full Term	Foundations of Algebra I	MWF	12:00 pm-12:50 pm	5	2	3	Matthew Miller (P)	08/24-12/08	LCONTE 310	 
+NR	10940	MATH	703	001	COL	3.000	30 - Columbia Full Term	Analysis I	TR	11:40 am-12:55 pm	30	14	16	George Androulakis (P)	08/24-12/08	HAMLTN 143	 
+C	11042	MATH	703I	001	COL	3.000	30 - Columbia Full Term	Foundations of Analysis I	MWF	10:50 am-11:40 am	4	4	0	Anton R. Schep (P)	08/24-12/08	LCONTE 310	 
+NR	11697	MATH	708	001	COL	3.000	30 - Columbia Full Term	Foundations of Computational Mathematics I	TR	01:15 pm-02:30 pm	10	3	7	Xiaofeng Yang (P)	08/24-12/08	LCONTE 303B	 
+NR	24935	MATH	726	001	COL	3.000	30 - Columbia Full Term	Numerical Differential Equations I	TR	02:50 pm-04:05 pm	10	4	6	Qi Wang (P)	08/24-12/08	LCONTE 303B	 
+NR	24936	MATH	733	001	COL	3.000	30 - Columbia Full Term	Algebraic Topology II	TR	02:50 pm-04:05 pm	15	9	6	Ralph Elwood Howard (P)	08/24-12/08	LCONTE 310	 
+NR	24937	MATH	737	001	COL	3.000	30 - Columbia Full Term	Introduction to Complex Geometry	MWF	01:10 pm-02:00 pm	15	8	7	Matthew Robert Ballard (P)	08/24-12/08	LCONTE 303B	 
+NR	24938	MATH	756	001	COL	3.000	30 - Columbia Full Term	Functional Analysis I	TR	11:40 am-12:55 pm	15	8	7	Maria K. Girardi (P)	08/24-12/08	LCONTE 303B	 
+NR	24939	MATH	761	001	COL	3.000	30 - Columbia Full Term	The Theory of Computable Functions	MW	03:55 pm-05:10 pm	15	10	5	George F McNulty (P)	08/24-12/08	LCONTE 303B	 
+NR	24940	MATH	776	001	COL	3.000	30 - Columbia Full Term	Graph Theory I	MW	02:20 pm-03:35 pm	15	10	5	Linyuan Lu (P)	08/24-12/08	LCONTE 303B	 
+NR	14325	MATH	780I	001	COL	3.000	30 - Columbia Full Term	Theory of Numbers	TR	01:15 pm-02:30 pm	5	3	2	Adela N. Vraciu (P)	08/24-12/08	LCONTE 405	 
+NR	24941	MATH	785	001	COL	3.000	30 - Columbia Full Term	Transcendental Number Theory	TR	01:15 pm-02:30 pm	15	14	1	Ognian Trifonov (P)	08/24-12/08	LCONTE 310	 
+NR	22328	MATH	792	001	COL	0.000-1.000	30 - Columbia Full Term	Mathematics Pedagogy II	F	02:20 pm-03:10 pm	25	10	15	Sean P Yee (P)	08/24-12/08	LCONTE 310	 
+NR	24886	MATH	890	001	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	1	4	George F McNulty (P)	08/24-12/08	TBA	 
+NR	29090	MATH	890	002	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	1	4	Andrew Richard Kustin (P)	08/24-12/08	TBA	 
+NR	29364	MATH	890	003	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	3	2	George Androulakis (P)	08/24-12/08	TBA	 
+NR	30186	MATH	890	004	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	1	4	Matthew Robert Ballard (P)	08/24-12/08	TBA	 
+NR	30210	MATH	890	005	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	1	4	Joshua Nathan Cooper (P)	08/24-12/08	TBA	 
+NR	30250	MATH	890	006	COL	1.000-3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	1	4	Zhu Wang (P)	08/24-12/08	TBA	 
+NR	30301	MATH	890	007	COL	3.000	30 - Columbia Full Term	Graduate Seminar	 	TBA	5	1	4	Paula Andrea Vasquez (P)	08/24-12/08	TBA	 
+NR	15479	MATH	899	001	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	3	2	George Androulakis (P)	08/24-12/08	TBA	 
+NR	15480	MATH	899	002	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Matthew Robert Ballard (P)	08/24-12/08	TBA	 
+NR	15481	MATH	899	003	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Peter Georgiev Binev (P)	08/24-12/08	TBA	 
+NR	15482	MATH	899	004	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Matthew Garrett Boylan (P)	08/24-12/08	TBA	 
+NR	15483	MATH	899	005	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	3	2	Joshua Nathan Cooper (P)	08/24-12/08	TBA	 
+NR	15484	MATH	899	006	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Eva Czabarka (P)	08/24-12/08	TBA	 
+NR	15485	MATH	899	007	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Stephen James Dilworth (P)	08/24-12/08	TBA	 
+NR	15486	MATH	899	008	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Daniel B. Dix (P)	08/24-12/08	TBA	 
+NR	15487	MATH	899	009	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Alexander Rhys Duncan (P)	08/24-12/08	TBA	 
+NR	15488	MATH	899	010	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Michael Anthony Filaseta (P)	08/24-12/08	TBA	 
+NR	15489	MATH	899	011	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Maria K. Girardi (P)	08/24-12/08	TBA	 
+NR	15490	MATH	899	012	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Jerrold Robinson Griggs (P)	08/24-12/08	TBA	 
+NR	22329	MATH	899	013	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Ralph Elwood Howard (P)	08/24-12/08	TBA	 
+NR	22330	MATH	899	014	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Lili Ju (P)	08/24-12/08	TBA	 
+NR	20666	MATH	899	015	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	2	3	Jesse Leo Kass (P)	08/24-12/08	TBA	 
+NR	20667	MATH	899	016	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Andrew Richard Kustin (P)	08/24-12/08	TBA	 
+NR	20668	MATH	899	017	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Xinfeng Liu (P)	08/24-12/08	TBA	 
+NR	20700	MATH	899	018	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	2	3	Linyuan Lu (P)	08/24-12/08	TBA	 
+NR	22331	MATH	899	019	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	George F McNulty (P)	08/24-12/08	TBA	 
+NR	22332	MATH	899	020	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Douglas B. Meade (P)	08/24-12/08	TBA	 
+NR	22333	MATH	899	021	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Matthew Miller (P)	08/24-12/08	TBA	 
+NR	22334	MATH	899	022	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Peter Jospeh Nyikos (P)	08/24-12/08	TBA	 
+NR	22335	MATH	899	023	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Pencho Petrushev (P)	08/24-12/08	TBA	 
+NR	22336	MATH	899	024	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Anton R. Schep (P)	08/24-12/08	TBA	 
+NR	22337	MATH	899	025	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Yi Sun (P)	08/24-12/08	TBA	 
+NR	22338	MATH	899	026	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Laszlo A. Szekely (P)	08/24-12/08	TBA	 
+NR	22339	MATH	899	027	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Vladimir N. Temlyakov (P)	08/24-12/08	TBA	 
+NR	22340	MATH	899	028	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Frank Henry Thorne (P)	08/24-12/08	TBA	 
+NR	22341	MATH	899	029	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Ognian Trifonov (P)	08/24-12/08	TBA	 
+NR	22342	MATH	899	030	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Paula Andrea Vasquez (P)	08/24-12/08	TBA	 
+NR	25192	MATH	899	031	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Hong Wang (P)	08/24-12/08	TBA	 
+NR	25193	MATH	899	032	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	1	4	Qi Wang (P)	08/24-12/08	TBA	 
+NR	25194	MATH	899	033	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Zhu Wang (P)	08/24-12/08	TBA	 
+NR	25195	MATH	899	034	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Xian Wu (P)	08/24-12/08	TBA	 
+NR	25196	MATH	899	035	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Xiaofeng Yang (P)	08/24-12/08	TBA	 
+NR	25197	MATH	899	036	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	5	0	5	Sean P Yee (P)	08/24-12/08	TBA	 
