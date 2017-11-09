@@ -173,7 +173,7 @@ public class CourseService {
 			int numberOfStudents = 0 ;
 			int studentCreditHours =0;
 			double FTE = 0 ;
-			
+//			Loop through each course and collect information of 
 			for (int k = 0 ; k< coursesInDept.size() ; k++ ) {
 				numberOfSection++;
 				
