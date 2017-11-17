@@ -1,4 +1,4 @@
-package io.javabrains.springbootstarter.course;
+package io.teamz.course;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
