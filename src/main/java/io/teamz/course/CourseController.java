@@ -40,18 +40,24 @@ public class CourseController {
 		courseService.writeTeachingSummary();
 		return "Summary Written to Files in Data Folder";
 	}
-//	This method writes the teaching summa
+//	This method returns the teaching summary by department to the web client
 	@RequestMapping("/teachingSummarybyDept")
 	public String getTeachingSummarybyDept() {
 		return courseService.getTeachingSummarybyDept();
 		
 	}
-	
+//	This method returns the teaching summary by courses to the web client
 	@RequestMapping("/teachingSummary")
 	public String getTeachingSummary() {
 		return courseService.getTeachingSummary();
 		
 	}
+	
+//	
+//	The following methods were copied from the preivous projects
+//	I am not sure if they are necessary for our final project
+//	
+	
 	@RequestMapping("/courses/{id}")
 	public Course getCourse(@PathVariable String id ) {
 		return courseService.getCourse(id);
