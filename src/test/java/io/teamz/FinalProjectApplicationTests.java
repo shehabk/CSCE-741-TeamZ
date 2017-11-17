@@ -1,4 +1,4 @@
-package io.javabrains;
+package io.teamz;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

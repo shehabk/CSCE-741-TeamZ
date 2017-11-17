@@ -20,25 +20,27 @@ public class CourseController {
 	@Autowired
 	private CourseService courseService;
 	
-	
+//	This returns a list of all courses to the web client
 	@RequestMapping("/courses")
 	public List<Course> getAllCourses() {
 		return courseService.getAllCourses();
 	}
-	
+//	This method reads the files from ./data and
+//	stores them into database.
 	@RequestMapping("/ReadFiles")
 	public void readAllCourses() {
 		courseService.readAllCourses();
 		return;
 	}
 
-	
+//	This method writes the teaching summary to
+//	teachingSummary.html and teachingSummarybyDept file in ./data folder
 	@RequestMapping("/writeteachingSummary")
 	public String writeTeachingSummary() {
 		courseService.writeTeachingSummary();
 		return "Summary Written to Files in Data Folder";
 	}
-	
+//	This method writes the teaching summa
 	@RequestMapping("/teachingSummarybyDept")
 	public String getTeachingSummarybyDept() {
 		return courseService.getTeachingSummarybyDept();
