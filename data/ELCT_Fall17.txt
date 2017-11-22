@@ -1,0 +1,103 @@
+NR	10766	ELCT	101	001	COL	3.000	30 - Columbia Full Term	Electrical and Electronics Engineering	TR	01:15 pm-02:30 pm	66	61	5	Krishna C Mandal (P)	08/24-12/08	SWGN 2A14	 
+NR	10769	ELCT	102	001	COL	3.000	30 - Columbia Full Term	Electrical Science	TR	11:40 am-12:55 pm	80	66	14	Jamie M. Steadman (P)	08/24-12/08	DAVIS 209	 
+NR	10950	ELCT	201	001	COL	3.000	30 - Columbia Full Term	Introductory Electrical Engineering Laboratory	M	02:20 pm-04:20 pm	15	7	8	David Milton Metts (P)	08/24-12/08	SWGN 2A15	 
+ 	 	 	 	 	 	 	 	 	T	03:30 pm-06:30 pm	 	 	 	David Milton Metts (P)	08/24-12/08	SWGN 2D36	 
+NR	10953	ELCT	201	002	COL	3.000	30 - Columbia Full Term	Introductory Electrical Engineering Laboratory	M	02:20 pm-04:20 pm	15	5	10	David Milton Metts (P)	08/24-12/08	SWGN 2A15	 
+ 	 	 	 	 	 	 	 	 	R	03:30 pm-06:30 pm	 	 	 	David Milton Metts (P)	08/24-12/08	SWGN 2D36	 
+NR	10878	ELCT	220	001	COL	3.000	30 - Columbia Full Term	Electrical Engineering for Non-Majors	MWF	08:30 am-09:20 am	150	104	46	Yinchao Chen (P)	08/24-12/08	CLLCTT 011	 
+NR	10879	ELCT	221	001	COL	3.000	30 - Columbia Full Term	Circuits	MWF	10:50 am-11:40 am	48	39	9	Grigory S Simin (P)	08/24-12/08	HZNPG 210	 
+NR	25270	ELCT	221	H10	COL	3.000	30 - Columbia Full Term	HNRS: Circuits	MWF	10:50 am-11:40 am	12	11	1	Grigory S Simin (P)	08/24-12/08	HZNPG 210	SC Honors College
+NR	10880	ELCT	222	001	COL	3.000	30 - Columbia Full Term	Signals and Systems	MWF	09:40 am-10:30 am	60	40	20	Bin Zhang (P)	08/24-12/08	SWGN 2A14	 
+NR	11019	ELCT	301	001	COL	3.000	30 - Columbia Full Term	Electronics Laboratory	M	03:30 pm-06:30 pm	15	12	3	Enrico Santi (P)	08/24-12/08	SWGN 2D32	 
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-04:50 pm	 	 	 	Enrico Santi (P)	08/24-12/08	SWGN 2A19	 
+C	11023	ELCT	301	002	COL	3.000	30 - Columbia Full Term	Electronics Laboratory	T	02:50 pm-04:50 pm	15	15	0	Enrico Santi (P)	08/24-12/08	SWGN 2A19	 
+ 	 	 	 	 	 	 	 	 	W	03:30 pm-06:30 pm	 	 	 	Enrico Santi (P)	08/24-12/08	SWGN 2D36	 
+NR	10882	ELCT	302	001	COL	3.000	30 - Columbia Full Term	Real Time Systems Laboratory	W	02:20 pm-03:10 pm	30	16	14	Xiaofeng Wang (P)	08/24-12/08	SWGN 2A15	 
+NR	10883	ELCT	321	001	COL	3.000	30 - Columbia Full Term	Digital Signal Processing	TR	10:05 am-11:20 am	28	24	4	David William Matolak (P)	08/24-12/08	SWGN 2A22	 
+NR	10885	ELCT	331	001	COL	3.000	30 - Columbia Full Term	Control Systems	TR	08:30 am-09:45 am	40	21	19	Md Moinul Islam (P)	08/24-12/08	SWGN 2A27	 
+NR	10886	ELCT	332	001	COL	3.000	30 - Columbia Full Term	Fundamentals of Communication Systems	MW	02:20 pm-03:35 pm	25	9	16	Yinchao Chen (P)	08/24-12/08	SWGN 2A05	 
+NR	22131	ELCT	350	001	COL	3.000	30 - Columbia Full Term	Computer Modeling of Electrical Systems	MWF	12:00 pm-12:50 pm	45	21	24	Joseph Micah Hood (P)	08/24-12/08	SWGN 2A31	 
+NR	22132	ELCT	361	001	COL	3.000	30 - Columbia Full Term	Electromagnetics	TR	08:30 am-09:45 am	35	21	14	Mohammod Ali (P)	08/24-12/08	HZNPG 210	 
+NR	10887	ELCT	363	001	COL	3.000	30 - Columbia Full Term	Introduction to Microelectronics	TR	01:15 pm-02:30 pm	45	12	33	Seongtae Bae (P)	08/24-12/08	SWGN 2A27	 
+NR	10888	ELCT	371	001	COL	3.000	30 - Columbia Full Term	Electronics	TR	11:40 am-12:55 pm	50	34	16	Md Moinul Islam (P)	08/24-12/08	SWGN 2A14	 
+NR	25285	ELCT	371	H10	COL	3.000	30 - Columbia Full Term	HNRS: Electronics	TR	11:40 am-12:55 pm	10	5	5	Md Moinul Islam (P)	08/24-12/08	SWGN 2A14	SC Honors College
+NR	11057	ELCT	403	001	COL	3.000	30 - Columbia Full Term	Capstone Design Project I	T	02:50 pm-04:05 pm	45	26	19	Roger Adelbert Dougal (P)	08/24-12/08	SWGN 2A31	GLD: Research and INT Integrative
+NR	11058	ELCT	404	001	COL	3.000	30 - Columbia Full Term	Capstone Design Project II	T	02:50 pm-04:05 pm	15	12	3	Mvs Chandrashekhar (P)	08/24-12/08	SWGN 2A24	GLD: Research
+C	30231	ELCT	499	001	COL	1.000-3.000	30 - Columbia Full Term	Special Problems	 	TBA	1	1	0	Asif W. Khan (P)	08/24-12/08	TBA	GLD: Research
+NR	10975	ELCT	521	001	COL	3.000	30 - Columbia Full Term	Introduction to Microwaves	MWF	09:40 am-10:30 am	24	17	7	Guoan Wang (P)	08/24-12/08	SWGN 2A22	 
+NR	12151	ELCT	521	H10	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Microwaves	MWF	09:40 am-10:30 am	1	0	1	Guoan Wang (P)	08/24-12/08	SWGN 2A22	SC Honors College
+NR	10986	ELCT	530	001	COL	3.000	30 - Columbia Full Term	Industrial Controls	TR	11:40 am-12:55 pm	35	33	2	Herbert Luther Ginn (P)	08/24-12/08	SWGN 2A21	 
+NR	10991	ELCT	551	001	COL	3.000	30 - Columbia Full Term	Power Systems Design and Analysis	MW	11:00 am-12:15 pm	49	31	18	Md Moinul Islam (P)	08/24-12/08	SWGN 2A27	 
+NR	29111	ELCT	559	052	COL	3.000	30 - Columbia Full Term	Special Topics in Distributed Energy Resources for Electric Energy Systems	TR	04:25 pm-05:40 pm	20	4	16	Md Moinul Islam (P)	08/24-12/08	SWGN 2A07	 
+NR	11007	ELCT	566	001	COL	3.000	30 - Columbia Full Term	Semiconductor Optoelectronics	TR	01:15 pm-02:30 pm	26	9	17	Asif W. Khan (P)	08/24-12/08	SWGN 2A18	 
+NR	12156	ELCT	566	H10	COL	3.000	30 - Columbia Full Term	HNRS: Semiconductor Optoelectronics	TR	01:15 pm-02:30 pm	1	0	1	Asif W. Khan (P)	08/24-12/08	SWGN 2A18	SC Honors College
+NR	11014	ELCT	572	001	COL	3.000	30 - Columbia Full Term	Power Electronics	TR	10:05 am-11:20 am	27	16	11	Enrico Santi (P)	08/24-12/08	SWGN 2A18	 
+NR	22138	ELCT	572	H10	COL	3.000	30 - Columbia Full Term	HNRS: Power Electronics	TR	10:05 am-11:20 am	1	0	1	Enrico Santi (P)	08/24-12/08	SWGN 2A18	SC Honors College
+NR	11049	ELCT	797	001	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Mohammod Ali (P)	08/24-12/08	TBA	 
+NR	11046	ELCT	797	002	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Seongtae Bae (P)	08/24-12/08	TBA	 
+NR	11048	ELCT	797	003	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Andrea Benigni (P)	08/24-12/08	TBA	 
+NR	12535	ELCT	797	004	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Mvs Chandrashekhar (P)	08/24-12/08	TBA	 
+NR	12536	ELCT	797	005	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Yinchao Chen (P)	08/24-12/08	TBA	 
+NR	12537	ELCT	797	006	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Roger Adelbert Dougal (P)	08/24-12/08	TBA	 
+NR	12538	ELCT	797	007	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Herbert Luther Ginn (P)	08/24-12/08	TBA	 
+NR	12539	ELCT	797	008	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Paul Gordon Huray (P)	08/24-12/08	TBA	 
+NR	12542	ELCT	797	009	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Asif W. Khan (P)	08/24-12/08	TBA	 
+NR	14930	ELCT	797	010	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Krishna C Mandal (P)	08/24-12/08	TBA	 
+NR	16493	ELCT	797	011	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	David William Matolak (P)	08/24-12/08	TBA	 
+NR	16537	ELCT	797	012	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Enrico Santi (P)	08/24-12/08	TBA	 
+NR	16630	ELCT	797	013	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Grigory S Simin (P)	08/24-12/08	TBA	 
+NR	17040	ELCT	797	014	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Guoan Wang (P)	08/24-12/08	TBA	 
+NR	17041	ELCT	797	015	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Xiaofeng Wang (P)	08/24-12/08	TBA	 
+NR	17042	ELCT	797	016	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Bin Zhang (P)	08/24-12/08	TBA	 
+NR	12392	ELCT	799	001	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	2	48	Mohammod Ali (P)	08/24-12/08	TBA	 
+NR	12394	ELCT	799	002	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Seongtae Bae (P)	08/24-12/08	TBA	 
+NR	12395	ELCT	799	003	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Andrea Benigni (P)	08/24-12/08	TBA	 
+NR	12397	ELCT	799	004	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Mvs Chandrashekhar (P)	08/24-12/08	TBA	 
+NR	12400	ELCT	799	005	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Yinchao Chen (P)	08/24-12/08	TBA	 
+NR	12402	ELCT	799	006	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Roger Adelbert Dougal (P)	08/24-12/08	TBA	 
+NR	12403	ELCT	799	007	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Herbert Luther Ginn (P)	08/24-12/08	TBA	 
+NR	12406	ELCT	799	008	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Paul Gordon Huray (P)	08/24-12/08	TBA	 
+NR	12408	ELCT	799	009	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Asif W. Khan (P)	08/24-12/08	TBA	 
+NR	12409	ELCT	799	010	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Krishna C Mandal (P)	08/24-12/08	TBA	 
+NR	12410	ELCT	799	011	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	2	48	David William Matolak (P)	08/24-12/08	TBA	 
+NR	12411	ELCT	799	012	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Enrico Santi (P)	08/24-12/08	TBA	 
+NR	12412	ELCT	799	013	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Grigory S Simin (P)	08/24-12/08	TBA	 
+NR	12413	ELCT	799	014	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Guoan Wang (P)	08/24-12/08	TBA	 
+NR	12415	ELCT	799	015	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Xiaofeng Wang (P)	08/24-12/08	TBA	 
+NR	12417	ELCT	799	016	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Bin Zhang (P)	08/24-12/08	TBA	 
+NR	25331	ELCT	864	001	COL	3.000	30 - Columbia Full Term	Microwave Devices and Circuits	TR	02:50 pm-04:05 pm	23	7	16	Mohammod Ali (P)	08/24-12/08	SWGN 1A20	 
+NR	25332	ELCT	864	006	COL	3.000	30 - Columbia Full Term	Microwave Devices and Circuits	TR	02:50 pm-04:05 pm	28	1	27	Mohammod Ali (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25333	ELCT	870	001	COL	3.000	30 - Columbia Full Term	Computing Methods for System Simulation	TR	11:40 am-12:55 pm	23	22	1	Andrea Benigni (P)	08/24-12/08	SWGN 1A20	 
+NR	25335	ELCT	870	006	COL	3.000	30 - Columbia Full Term	Computing Methods for System Simulation	TR	11:40 am-12:55 pm	23	3	20	Andrea Benigni (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12544	ELCT	897	001	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	1	49	Mohammod Ali (P)	08/24-12/08	TBA	 
+NR	12548	ELCT	897	002	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Seongtae Bae (P)	08/24-12/08	TBA	 
+NR	12553	ELCT	897	003	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	2	48	Andrea Benigni (P)	08/24-12/08	TBA	 
+NR	12568	ELCT	897	004	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Mvs Chandrashekhar (P)	08/24-12/08	TBA	 
+NR	12570	ELCT	897	005	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Yinchao Chen (P)	08/24-12/08	TBA	 
+NR	12573	ELCT	897	006	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Roger Adelbert Dougal (P)	08/24-12/08	TBA	 
+NR	12574	ELCT	897	007	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	1	49	Herbert Luther Ginn (P)	08/24-12/08	TBA	 
+NR	15614	ELCT	897	008	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Paul Gordon Huray (P)	08/24-12/08	TBA	 
+NR	16133	ELCT	897	009	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Asif W. Khan (P)	08/24-12/08	TBA	 
+NR	16134	ELCT	897	010	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	1	49	Krishna C Mandal (P)	08/24-12/08	TBA	 
+NR	16135	ELCT	897	011	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	2	48	David William Matolak (P)	08/24-12/08	TBA	 
+NR	16137	ELCT	897	012	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Enrico Santi (P)	08/24-12/08	TBA	 
+NR	16456	ELCT	897	013	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Grigory S Simin (P)	08/24-12/08	TBA	 
+NR	16484	ELCT	897	014	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Guoan Wang (P)	08/24-12/08	TBA	 
+NR	17050	ELCT	897	015	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	0	50	Xiaofeng Wang (P)	08/24-12/08	TBA	 
+NR	17051	ELCT	897	016	COL	1.000-3.000	30 - Columbia Full Term	Directed Individual Study	 	TBA	50	2	48	Bin Zhang (P)	08/24-12/08	TBA	 
+NR	12421	ELCT	899	001	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Mohammod Ali (P)	08/24-12/08	TBA	 
+NR	12423	ELCT	899	002	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Seongtae Bae (P)	08/24-12/08	TBA	 
+NR	12425	ELCT	899	003	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Andrea Benigni (P)	08/24-12/08	TBA	 
+NR	12427	ELCT	899	004	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Mvs Chandrashekhar (P)	08/24-12/08	TBA	 
+NR	12428	ELCT	899	005	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Yinchao Chen (P)	08/24-12/08	TBA	 
+NR	12430	ELCT	899	006	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Roger Adelbert Dougal (P)	08/24-12/08	TBA	 
+NR	12432	ELCT	899	007	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Herbert Luther Ginn (P)	08/24-12/08	TBA	 
+NR	12434	ELCT	899	008	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Paul Gordon Huray (P)	08/24-12/08	TBA	 
+NR	12437	ELCT	899	009	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Asif W. Khan (P)	08/24-12/08	TBA	 
+NR	12438	ELCT	899	010	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Krishna C Mandal (P)	08/24-12/08	TBA	 
+NR	12440	ELCT	899	011	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	David William Matolak (P)	08/24-12/08	TBA	 
+NR	12442	ELCT	899	012	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	4	46	Enrico Santi (P)	08/24-12/08	TBA	 
+NR	12443	ELCT	899	013	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Grigory S Simin (P)	08/24-12/08	TBA	 
+NR	12445	ELCT	899	014	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Guoan Wang (P)	08/24-12/08	TBA	 
+NR	12446	ELCT	899	015	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Xiaofeng Wang (P)	08/24-12/08	TBA	 
+NR	12448	ELCT	899	016	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Bin Zhang (P)	08/24-12/08	TBA	 

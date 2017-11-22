@@ -1,0 +1,246 @@
+NR	21890	EMCH	101	001	COL	3.000	30 - Columbia Full Term	Introduction to Mechanical Engineering	TR	01:15 pm-02:30 pm	240	129	111	Walter Hamilton Peters (P)	08/24-12/08	SWGN 1C01	 
+NR	10473	EMCH	111	001	COL	3.000	30 - Columbia Full Term	Introduction to Engineering Graphics and Visualization	MW	02:20 pm-03:35 pm	40	39	1	Andrew R Sabalowsky (P)	08/24-12/08	300MN B202	 
+NR	11041	EMCH	111	002	COL	3.000	30 - Columbia Full Term	Introduction to Engineering Graphics and Visualization	MW	03:55 pm-05:10 pm	40	19	21	Andrew R Sabalowsky (P)	08/24-12/08	300MN B202	 
+NR	18064	EMCH	111	003	COL	3.000	30 - Columbia Full Term	Introduction to Engineering Graphics and Visualization	TR	02:50 pm-04:05 pm	40	39	1	Nikolaos Vitzilaios (P)	08/24-12/08	300MN B202	 
+NR	21705	EMCH	111	004	COL	3.000	30 - Columbia Full Term	Introduction to Engineering Graphics and Visualization	TR	04:25 pm-05:40 pm	40	31	9	Nikolaos Vitzilaios (P)	08/24-12/08	300MN B202	 
+NR	24585	EMCH	200	001	COL	3.000	30 - Columbia Full Term	Statics	MWF	08:30 am-09:20 am	40	33	7	Xingjian Xue (P)	08/24-12/08	300MN B103	 
+NR	11091	EMCH	200	002	COL	3.000	30 - Columbia Full Term	Statics	MWF	10:50 am-11:40 am	40	34	6	Sreehari Rajan kattil (P)	08/24-12/08	300MN B103	 
+C	11093	EMCH	200	003	COL	3.000	30 - Columbia Full Term	Statics	MWF	02:20 pm-03:10 pm	40	40	0	Odell Lender Glenn (P)	08/24-12/08	300MN B103	 
+NR	16860	EMCH	200	004	COL	3.000	30 - Columbia Full Term	Statics	MWF	04:40 pm-05:30 pm	40	36	4	Farzana Yasmeen (P)	08/24-12/08	300MN B103	 
+NR	11094	EMCH	201	001	COL	3.000	30 - Columbia Full Term	Introduction to Applied Numerical Methods	MWF	10:50 am-11:40 am	77	74	3	Md. Riaz Uddin Ahmed (P)	08/24-12/08	300MN B213	 
+C	11096	EMCH	201	002	COL	3.000	30 - Columbia Full Term	Introduction to Applied Numerical Methods	MWF	03:30 pm-04:20 pm	78	80	-2	Sourav Banerjee (P)	08/24-12/08	300MN B213	 
+NR	21958	EMCH	220	001	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Fundamentals for Non-Majors	MW	08:05 am-09:20 am	40	28	12	Stephen R McNeill (P)	08/24-12/08	300MN B101	 
+NR	11103	EMCH	260	001	COL	3.000	30 - Columbia Full Term	Introduction to the Mechanics of Solids	MWF	12:00 pm-12:50 pm	45	40	5	Jingjing Bao (P)	08/24-12/08	300MN B103	 
+NR	11105	EMCH	260	002	COL	3.000	30 - Columbia Full Term	Introduction to the Mechanics of Solids	TR	10:05 am-11:20 am	45	42	3	Prasun Kanti Majumdar (P)	08/24-12/08	300MN B110	 
+NR	11107	EMCH	290	001	COL	3.000	30 - Columbia Full Term	Thermodynamic Fundamentals	MWF	09:40 am-10:30 am	45	29	16	Odell Lender Glenn (P)	08/24-12/08	300MN B110	 
+NR	11109	EMCH	290	002	COL	3.000	30 - Columbia Full Term	Thermodynamic Fundamentals	MWF	10:50 am-11:40 am	45	33	12	Cyrus Khezr Riahi-Nezhad (P)	08/24-12/08	SWGN 2A31	 
+NR	21888	EMCH	290	003	COL	3.000	30 - Columbia Full Term	Thermodynamic Fundamentals	MWF	01:10 pm-02:00 pm	45	18	27	Odell Lender Glenn (P)	08/24-12/08	300MN B110	 
+C	11110	EMCH	310	001	COL	3.000	30 - Columbia Full Term	Dynamics	TR	08:30 am-09:45 am	70	72	-2	Walter Hamilton Peters (P)	08/24-12/08	300MN B201	 
+NR	21889	EMCH	310	002	COL	3.000	30 - Columbia Full Term	Dynamics	TR	11:40 am-12:55 pm	70	61	9	Michael Johannes L Van Tooren (P)	08/24-12/08	300MN B213	 
+NR	11112	EMCH	327	001	COL	3.000	30 - Columbia Full Term	Design of Mechanical Elements	MWF	10:50 am-11:40 am	150	123	27	Xingjian Xue (P)	08/24-12/08	SWGN 1C01	GLD: Research
+NR	13082	EMCH	330	001	COL	3.000	30 - Columbia Full Term	Mechanical Vibrations	TR	01:15 pm-02:30 pm	78	74	4	Lingyu Yu (P)	08/24-12/08	300MN B201	 
+NR	11114	EMCH	332	001	COL	3.000	30 - Columbia Full Term	Kinematics and Dynamics of Machines	MW	03:55 pm-05:10 pm	120	91	29	David N. Rocheleau (P)	08/24-12/08	SWGN 1C01	 
+NR	11115	EMCH	354	001	COL	3.000	30 - Columbia Full Term	Heat Transfer	TR	11:40 am-12:55 pm	100	78	22	Mohammad Fah Ebna Alam (P), Jamil A. Khan	08/24-12/08	SWGN 1C01	 
+NR	24922	EMCH	354	H01	COL	3.000	30 - Columbia Full Term	HNRS: Heat Transfer	TR	11:40 am-12:55 pm	12	10	2	Douglas S. Byrd (P)	08/24-12/08	SWGN 2A24	SC Honors College
+NR	11118	EMCH	360	001	COL	3.000	30 - Columbia Full Term	Fluid Mechanics	MWF	12:00 pm-12:50 pm	160	139	21	Cyrus Khezr Riahi-Nezhad (P)	08/24-12/08	SWGN 1C01	 
+C	11119	EMCH	361	001	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	08:30 am-09:20 am	12	12	0	Yuh Jin Chao (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	M	03:30 pm-05:30 pm	 	 	 	Yuh Jin Chao (P)	08/24-12/08	300MN A018	 
+C	11122	EMCH	361	002	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	08:30 am-09:20 am	12	12	0	Yuh Jin Chao (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	M	05:31 pm-07:31 pm	 	 	 	Yuh Jin Chao (P)	08/24-12/08	300MN A018	 
+NR	11125	EMCH	361	003	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	08:30 am-09:20 am	12	11	1	Yuh Jin Chao (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-04:50 pm	 	 	 	Yuh Jin Chao (P)	08/24-12/08	300MN A018	 
+NR	11127	EMCH	361	004	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	08:30 am-09:20 am	12	10	2	Yuh Jin Chao (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	04:51 pm-06:50 pm	 	 	 	Yuh Jin Chao (P)	08/24-12/08	300MN A018	 
+C	11128	EMCH	361	005	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	08:30 am-09:20 am	12	12	0	Yuh Jin Chao (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	06:51 pm-08:50 pm	 	 	 	Yuh Jin Chao (P)	08/24-12/08	300MN A018	 
+C	11129	EMCH	361	006	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	10:50 am-11:40 am	12	12	0	Douglas S. Byrd (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	W	03:30 pm-05:30 pm	 	 	 	Douglas S. Byrd (P)	08/24-12/08	300MN A018	 
+C	15838	EMCH	361	007	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	10:50 am-11:40 am	12	12	0	Douglas S. Byrd (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	W	05:51 pm-07:30 pm	 	 	 	Douglas S. Byrd (P)	08/24-12/08	300MN A018	 
+C	18545	EMCH	361	008	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	10:50 am-11:40 am	12	12	0	Douglas S. Byrd (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	R	02:50 pm-04:50 pm	 	 	 	Douglas S. Byrd (P)	08/24-12/08	300MN A018	 
+NR	18546	EMCH	361	009	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory I	MWF	10:50 am-11:40 am	12	11	1	Douglas S. Byrd (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	F	04:50 pm-06:50 pm	 	 	 	Douglas S. Byrd (P)	08/24-12/08	300MN A018	 
+C	12934	EMCH	362	001	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	02:20 pm-03:10 pm	10	11	-1	Xinyu Huang (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	M	03:30 pm-05:30 pm	 	 	 	Xinyu Huang (P)	08/24-12/08	300MN A235	 
+NR	12943	EMCH	362	002	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	02:20 pm-03:10 pm	10	9	1	Xinyu Huang (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	M	05:51 pm-07:30 pm	 	 	 	Xinyu Huang (P)	08/24-12/08	300MN A235	 
+NR	12944	EMCH	362	003	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	02:20 pm-03:10 pm	10	7	3	Xinyu Huang (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	M	07:31 pm-09:30 pm	 	 	 	Xinyu Huang (P)	08/24-12/08	300MN A235	 
+C	12948	EMCH	362	004	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	02:20 pm-03:10 pm	10	10	0	Xinyu Huang (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-04:50 pm	 	 	 	Xinyu Huang (P)	08/24-12/08	300MN A235	 
+NR	12950	EMCH	362	005	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	02:20 pm-03:10 pm	10	8	2	Xinyu Huang (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	T	04:51 pm-06:50 pm	 	 	 	Xinyu Huang (P)	08/24-12/08	GAMBRL 152	 
+NR	12953	EMCH	362	006	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	02:20 pm-03:10 pm	10	9	1	Xinyu Huang (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	T	06:51 pm-08:50 pm	 	 	 	Xinyu Huang (P)	08/24-12/08	300MN A235	 
+C	12955	EMCH	362	007	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	01:10 pm-02:00 pm	10	10	0	Subramani Sockalingam (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	W	03:30 pm-05:30 pm	 	 	 	Subramani Sockalingam (P)	08/24-12/08	300MN A235	 
+C	12956	EMCH	362	008	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	01:10 pm-02:00 pm	10	10	0	Subramani Sockalingam (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	W	05:31 pm-07:30 pm	 	 	 	Subramani Sockalingam (P)	08/24-12/08	300MN A235	 
+C	18548	EMCH	362	009	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	01:10 pm-02:00 pm	10	10	0	Subramani Sockalingam (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	W	07:31 pm-09:30 pm	 	 	 	Subramani Sockalingam (P)	08/24-12/08	300MN A235	 
+C	18549	EMCH	362	010	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	01:10 pm-02:00 pm	10	11	-1	Subramani Sockalingam (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	R	02:50 pm-04:50 pm	 	 	 	Subramani Sockalingam (P)	08/24-12/08	300MN A235	 
+C	18550	EMCH	362	011	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	01:10 pm-02:00 pm	10	10	0	Subramani Sockalingam (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	R	04:51 pm-06:50 pm	 	 	 	Subramani Sockalingam (P)	08/24-12/08	300MN A235	 
+C	18551	EMCH	362	012	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory II	MWF	01:10 pm-02:00 pm	10	10	0	Subramani Sockalingam (P)	08/24-12/08	300MN B213	 
+ 	 	 	 	 	 	 	 	 	R	06:51 pm-08:50 pm	 	 	 	Subramani Sockalingam (P)	08/24-12/08	300MN A235	 
+C	11065	EMCH	363	001	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	02:20 pm-03:10 pm	10	10	0	Addis Asmelash Kidane (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	M	03:30 pm-05:30 pm	 	 	 	Addis Asmelash Kidane (P)	08/24-12/08	300MN C004	 
+C	11071	EMCH	363	002	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	02:20 pm-03:10 pm	10	10	0	Addis Asmelash Kidane (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	M	05:31 pm-07:30 pm	 	 	 	Addis Asmelash Kidane (P)	08/24-12/08	300MN C004	 
+NR	11074	EMCH	363	003	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	02:20 pm-03:10 pm	10	8	2	Addis Asmelash Kidane (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	M	07:31 pm-09:30 pm	 	 	 	Addis Asmelash Kidane (P)	08/24-12/08	300MN C004	 
+C	11076	EMCH	363	004	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	02:20 pm-03:10 pm	10	10	0	Addis Asmelash Kidane (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	02:50 pm-04:50 pm	 	 	 	Addis Asmelash Kidane (P)	08/24-12/08	300MN C004	 
+NR	11077	EMCH	363	005	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	02:20 pm-03:10 pm	10	7	3	Addis Asmelash Kidane (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	04:51 pm-06:50 pm	 	 	 	Addis Asmelash Kidane (P)	08/24-12/08	300MN C004	 
+NR	11080	EMCH	363	006	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	02:20 pm-03:10 pm	10	5	5	Addis Asmelash Kidane (P)	08/24-12/08	300MN B201	 
+ 	 	 	 	 	 	 	 	 	T	06:51 pm-08:50 pm	 	 	 	Addis Asmelash Kidane (P)	08/24-12/08	300MN C004	 
+NR	11082	EMCH	363	007	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	12:00 pm-12:50 pm	10	5	5	Valmore J Loiselle (P)	08/24-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	W	03:30 pm-05:30 pm	 	 	 	Valmore J Loiselle (P)	08/24-12/08	300MN C004	 
+C	16862	EMCH	363	008	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	12:00 pm-12:50 pm	10	10	0	Valmore J Loiselle (P)	08/24-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	W	05:31 pm-07:30 pm	 	 	 	Valmore J Loiselle (P)	08/24-12/08	300MN C004	 
+NR	18552	EMCH	363	009	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	12:00 pm-12:50 pm	10	8	2	Valmore J Loiselle (P)	08/24-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	W	07:31 pm-09:30 pm	 	 	 	Valmore J Loiselle (P)	08/24-12/08	300MN C004	 
+C	18553	EMCH	363	010	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	12:00 pm-12:50 pm	10	10	0	Valmore J Loiselle (P)	08/24-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	R	02:50 pm-04:50 pm	 	 	 	Valmore J Loiselle (P)	08/24-12/08	300MN C004	 
+C	24952	EMCH	363	011	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Laboratory III	MWF	12:00 pm-12:50 pm	10	10	0	Valmore J Loiselle (P)	08/24-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	R	04:51 pm-06:50 pm	 	 	 	Valmore J Loiselle (P)	08/24-12/08	300MN C004	 
+NR	11097	EMCH	371	001	COL	3.000	30 - Columbia Full Term	Engineering Materials	TR	10:05 am-11:20 am	98	86	12	Fanglin Chen (P)	08/24-12/08	WMBB 125	 
+NR	11100	EMCH	377	001	COL	3.000	30 - Columbia Full Term	Manufacturing Processes	MWF	09:40 am-10:30 am	140	89	51	Ramy Farid Harik (P)	08/24-12/08	SWGN 1C01	 
+NR	11102	EMCH	394	001	COL	3.000	30 - Columbia Full Term	Thermodynamic System Design and Analysis	TR	04:25 pm-05:40 pm	130	122	8	Cyrus Khezr Riahi-Nezhad (P)	08/24-12/08	SWGN 1C01	 
+C	11104	EMCH	427	001	COL	3.000	30 - Columbia Full Term	Mechanical Design I	MWF	10:50 am-11:40 am	56	56	0	Andrew R Sabalowsky (P)	08/24-12/08	SWGN 2A14	GLD: Research and INT Integrative
+NR	17997	EMCH	427	002	COL	3.000	30 - Columbia Full Term	Mechanical Design I	MWF	01:10 pm-02:00 pm	56	51	5	Andrew R Sabalowsky (P)	08/24-12/08	300MN B201	GLD: Research and INT Integrative
+NR	11106	EMCH	428	001	COL	3.000	30 - Columbia Full Term	Mechanical Design II	MWF	12:00 pm-12:50 pm	78	69	9	Xinyu Huang (P)	08/24-12/08	300MN B201	GLD: Research
+NR	20639	EMCH	441	001	COL	3.000	30 - Columbia Full Term	Automotive System Fundamentals	MW	02:20 pm-03:35 pm	200	52	148	Stephen R McNeill (P)	08/24-12/08	SWGN 1C01	 
+NR	24103	EMCH	460	001	COL	1.000-3.000	30 - Columbia Full Term	Special Problems	 	TBA	10	3	7	Victor Giurgiutiu (P)	08/24-12/08	TBA	GLD: Research
+NR	11108	EMCH	499	001	COL	1.000	30 - Columbia Full Term	Fundamentals of Engineering Preparation	MW	03:55 pm-05:10 pm	25	6	19	Stephen R McNeill (P)	08/24-12/08	SWGN 2A24	 
+NR	11924	EMCH	501	001	COL	3.000	30 - Columbia Full Term	Engineering Analysis I	MW	09:30 am-10:45 am	22	13	9	Sourav Banerjee (P)	08/24-12/08	SWGN 2A07	 
+NR	11928	EMCH	501	006	COL	3.000	30 - Columbia Full Term	Engineering Analysis I	MW	09:30 am-10:45 am	22	0	22	Sourav Banerjee (P)	08/24-12/08	WEB COLUMBIA	 
+C	12959	EMCH	507	001	COL	3.000	30 - Columbia Full Term	Computer-Aided Design	MW	02:20 pm-03:35 pm	33	36	-3	David N. Rocheleau (P)	08/24-12/08	300MN B110	 
+NR	16863	EMCH	507	H10	COL	3.000	30 - Columbia Full Term	HNRS: Computer-Aided Design	MW	02:20 pm-03:35 pm	2	1	1	David N. Rocheleau (P)	08/24-12/08	300MN B110	SC Honors College
+NR	11765	EMCH	508	001	COL	3.000	30 - Columbia Full Term	Finite Element Analysis in Mechanical Engineering	TR	01:15 pm-02:30 pm	26	23	3	Xiaomin Deng (P)	08/24-12/08	SWGN 2A11	 
+NR	16132	EMCH	508	002	COL	3.000	30 - Columbia Full Term	Finite Element Analysis in Mechanical Engineering	TR	01:15 pm-02:30 pm	30	19	11	Xiaomin Deng (P)	08/24-09/18	SWGN 2A15	 
+ 	 	 	 	 	 	 	 	 	TR	01:15 pm-02:30 pm	 	 	 	Xiaomin Deng (P)	09/19-12/08	SWGN 2A07	 
+NR	11768	EMCH	508	006	COL	3.000	30 - Columbia Full Term	Finite Element Analysis in Mechanical Engineering	TR	01:15 pm-02:30 pm	22	7	15	Xiaomin Deng (P)	08/24-12/08	WEB COLUMBIA	 
+C	25394	EMCH	508	H10	COL	3.000	30 - Columbia Full Term	HNRS: Finite Element Analysis in Mechanical Engineering	TR	01:15 pm-02:30 pm	2	2	0	Xiaomin Deng (P)	08/24-12/08	SWGN 2A11	SC Honors College
+C	25028	EMCH	509	001	COL	3.000	30 - Columbia Full Term	Computer-Aided Manufacturing	MW	03:55 pm-05:10 pm	18	25	-7	Ramy Farid Harik (P)	08/24-12/08	SWGN 1D29	 
+C	25029	EMCH	509	H10	COL	3.000	30 - Columbia Full Term	HNRS: Computer-Aided Manufacturing	MW	03:55 pm-05:10 pm	2	2	0	Ramy Farid Harik (P)	08/24-12/08	SWGN 1D29	SC Honors College
+NR	25004	EMCH	516	001	COL	3.000	30 - Columbia Full Term	Control Theory in Mechanical Engineering	MW	02:20 pm-03:35 pm	37	30	7	Victor Giurgiutiu (P)	08/24-12/08	300MN B101	 
+NR	25005	EMCH	516	H10	COL	3.000	30 - Columbia Full Term	HNRS: Control Theory in Mechanical Engineering	MW	02:20 pm-03:35 pm	3	2	1	Victor Giurgiutiu (P)	08/24-12/08	300MN B101	SC Honors College
+NR	16864	EMCH	544	001	COL	3.000	30 - Columbia Full Term	Compressible Fluid Flow	TR	08:30 am-09:45 am	34	23	11	Tanvir Igbal Farouk (P)	08/24-12/08	SWGN 2A19	 
+C	18555	EMCH	544	H10	COL	3.000	30 - Columbia Full Term	HNRS: Compressible Fluid Flow	TR	08:30 am-09:45 am	2	2	0	Tanvir Igbal Farouk (P)	08/24-12/08	SWGN 2A19	SC Honors College
+NR	11771	EMCH	552	001	COL	3.000	30 - Columbia Full Term	Introduction to Nuclear Engineering	MW	12:30 pm-01:45 pm	22	15	7	Anthony Michael Scopatz (P)	08/24-12/08	SWGN 2A05	 
+NR	11773	EMCH	552	006	COL	3.000	30 - Columbia Full Term	Introduction to Nuclear Engineering	MW	12:30 pm-01:45 pm	22	4	18	Anthony Michael Scopatz (P)	08/24-12/08	WEB COLUMBIA	 
+NR	16868	EMCH	556	001	COL	3.000	30 - Columbia Full Term	Introduction to Risk Analysis and Reactor Safety	MW	08:05 am-09:20 am	21	11	10	Travis W. Knight (P)	08/24-12/08	SWGN 2A11	 
+NR	16869	EMCH	556	006	COL	3.000	30 - Columbia Full Term	Introduction to Risk Analysis and Reactor Safety	MW	08:05 am-09:20 am	28	1	27	Travis W. Knight (P)	08/24-12/08	WEB COLUMBIA	 
+NR	11774	EMCH	557	001	COL	3.000	30 - Columbia Full Term	Introduction to Radiation Shielding and Sources	MW	02:20 pm-03:35 pm	17	3	14	Travis W. Knight (P)	08/24-12/08	SWGN 2A11	 
+NR	11776	EMCH	557	006	COL	3.000	30 - Columbia Full Term	Introduction to Radiation Shielding and Sources	MW	02:20 pm-03:35 pm	28	0	28	Travis W. Knight (P)	08/24-12/08	WEB COLUMBIA	 
+NR	21988	EMCH	557	H10	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Radiation Shielding and Sources	MW	02:20 pm-03:35 pm	3	2	1	Travis W. Knight (P)	08/24-12/08	SWGN 2A11	SC Honors College
+NR	21991	EMCH	561	001	COL	3.000	30 - Columbia Full Term	Current Topics in Mechanical Engineering	TR	11:40 am-12:55 pm	22	19	3	Theodore Martin Besmann (P)	08/24-12/08	SWGN 2A07	 
+NR	18563	EMCH	561	002	COL	3.000	30 - Columbia Full Term	Current Topics in Mechanical Engineering	TR	10:05 am-11:20 am	22	12	10	Zafer Gurdal (P)	08/24-12/08	SWGN 2A07	 
+NR	21993	EMCH	561	006	COL	3.000	30 - Columbia Full Term	Current Topics in Mechanical Engineering	TR	11:40 am-12:55 pm	22	5	17	Theodore Martin Besmann (P)	08/24-12/08	WEB COLUMBIA	 
+NR	18564	EMCH	561	007	COL	3.000	30 - Columbia Full Term	Current Topics in Mechanical Engineering	TR	10:05 am-11:20 am	28	0	28	Zafer Gurdal (P)	08/24-12/08	WEB COLUMBIA	 
+NR	29189	EMCH	567	001	COL	3.000	30 - Columbia Full Term	Bio Nano/Micro Electro-Mechanical Systems	TR	04:25 pm-05:40 pm	5	2	3	Guiren Wang (P)	08/24-12/08	300MN B102	 
+NR	25008	EMCH	572	001	COL	3.000	30 - Columbia Full Term	Physical Metallurgy	MW	08:05 am-09:20 am	22	16	6	Anthony P. Reynolds (P)	08/24-12/08	SWGN 2A24	 
+NR	25009	EMCH	572	H10	COL	3.000	30 - Columbia Full Term	HNRS: Physical Metallurgy	MW	08:05 am-09:20 am	3	1	2	Anthony P. Reynolds (P)	08/24-12/08	SWGN 2A24	SC Honors College
+NR	18566	EMCH	576	001	COL	3.000	30 - Columbia Full Term	Fundamentals and Applications of Fuel Cells	TR	01:15 pm-02:30 pm	36	8	28	Fanglin Chen (P)	08/24-12/08	300MN B101	 
+NR	11954	EMCH	577	001	COL	3.000	30 - Columbia Full Term	Aerospace Structures I	MW	11:00 am-12:15 pm	24	22	2	Addis Asmelash Kidane (P)	08/24-12/08	SWGN 2A05	 
+NR	11962	EMCH	577	006	COL	3.000	30 - Columbia Full Term	Aerospace Structures I	MW	11:00 am-12:15 pm	22	2	20	Addis Asmelash Kidane (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12179	EMCH	577	H10	COL	3.000	30 - Columbia Full Term	HNRS: Aerospace Structures I	MW	11:00 am-12:15 pm	4	3	1	Addis Asmelash Kidane (P)	08/24-12/08	SWGN 2A05	SC Honors College
+NR	11973	EMCH	584	001	COL	3.000	30 - Columbia Full Term	Advanced Mechanics of Materials	TR	04:25 pm-05:40 pm	19	14	5	Leo A Carrilho (P)	08/24-12/08	SWGN 2A11	 
+NR	11984	EMCH	584	006	COL	3.000	30 - Columbia Full Term	Advanced Mechanics of Materials	TR	04:26 pm-05:41 pm	22	3	19	Leo A Carrilho (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12182	EMCH	584	H10	COL	3.000	30 - Columbia Full Term	HNRS: Advanced Mechanics of Materials	TR	04:25 pm-05:40 pm	3	1	2	Leo A Carrilho (P)	08/24-12/08	SWGN 2A11	SC Honors College
+NR	22927	EMCH	586	001	COL	3.000	30 - Columbia Full Term	Experimental Stress Analysis	MW	08:05 am-09:20 am	30	4	26	Michael Albert Sutton (P)	08/24-12/08	300MN B111	 
+NR	25555	EMCH	592	001	COL	3.000	30 - Columbia Full Term	Introduction to Combustion	MW	02:20 pm-03:35 pm	27	9	18	Sang Hee Won (P)	08/24-12/08	SWGN 2A18	 
+NR	18569	EMCH	721	001	COL	3.000	30 - Columbia Full Term	Aeroelasticity	MW	11:00 am-12:15 pm	28	18	10	Victor Giurgiutiu (P)	08/24-12/08	SWGN 2A11	 
+NR	18574	EMCH	721	006	COL	3.000	30 - Columbia Full Term	Aeroelasticity	MW	11:00 am-12:15 pm	28	4	24	Victor Giurgiutiu (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25010	EMCH	743	001	COL	3.000	30 - Columbia Full Term	Aircraft and Rocket Propulsion	TR	11:40 am-12:55 pm	22	6	16	Tanvir Igbal Farouk (P)	08/24-12/08	SWGN 2A11	 
+NR	25011	EMCH	743	006	COL	3.000	30 - Columbia Full Term	Aircraft and Rocket Propulsion	TR	11:40 am-12:55 pm	28	1	27	Tanvir Igbal Farouk (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12022	EMCH	751	001	COL	3.000	30 - Columbia Full Term	Advanced Heat Transfer	MW	02:20 pm-03:35 pm	22	11	11	Chen Li (P)	08/24-12/08	SWGN 2A07	 
+NR	12028	EMCH	751	006	COL	3.000	30 - Columbia Full Term	Advanced Heat Transfer	MW	02:20 pm-03:35 pm	22	2	20	Chen Li (P)	08/24-12/08	WEB COLUMBIA	 
+C	16870	EMCH	756	001	COL	3.000	30 - Columbia Full Term	Safety Analysis for Energy Systems	MW	08:05 am-09:20 am	5	6	-1	Travis W. Knight (P)	08/24-12/08	SWGN 2A11	 
+NR	16871	EMCH	756	006	COL	3.000	30 - Columbia Full Term	Safety Analysis for Energy Systems	MW	08:05 am-09:20 am	28	6	22	Travis W. Knight (P)	08/24-12/08	WEB COLUMBIA	 
+NR	11778	EMCH	757	001	COL	3.000	30 - Columbia Full Term	Radiation Shielding	MW	02:20 pm-03:35 pm	8	7	1	Travis W. Knight (P)	08/24-12/08	SWGN 2A11	 
+NR	11784	EMCH	757	006	COL	3.000	30 - Columbia Full Term	Radiation Shielding	MW	02:20 pm-03:35 pm	23	3	20	Travis W. Knight (P)	08/24-12/08	WEB COLUMBIA	 
+NR	23396	EMCH	764	001	COL	3.000	30 - Columbia Full Term	Mechanical Engineering Projects	 	TBA	3	2	1	Victor Giurgiutiu (P)	08/24-12/08	TBA	 
+NR	12043	EMCH	785	001	COL	3.000	30 - Columbia Full Term	Design of Composite Materials for Aerospace Structures	TR	02:50 pm-04:05 pm	22	6	16	Prasun Kanti Majumdar (P)	08/24-12/08	SWGN 2A07	 
+NR	12046	EMCH	785	006	COL	3.000	30 - Columbia Full Term	Design of Composite Materials for Aerospace Structures	TR	02:50 pm-04:05 pm	22	2	20	Prasun Kanti Majumdar (P)	08/24-12/08	WEB COLUMBIA	 
+NR	16141	EMCH	797	001	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Sourav Banerjee (P)	08/24-12/08	TBA	 
+NR	16142	EMCH	797	002	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Abdel-Moez E. Bayoumi (P)	08/24-12/08	TBA	 
+NR	16143	EMCH	797	003	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Theodore Martin Besmann (P)	08/24-12/08	TBA	 
+NR	16144	EMCH	797	004	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Dan Gabriel Cacuci (P)	08/24-12/08	TBA	 
+NR	16145	EMCH	797	005	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Yuh Jin Chao (P)	08/24-12/08	TBA	 
+NR	16146	EMCH	797	006	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Fanglin Chen (P)	08/24-12/08	TBA	 
+NR	16147	EMCH	797	007	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Xiaomin Deng (P)	08/24-12/08	TBA	 
+NR	16148	EMCH	797	008	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Tanvir Igbal Farouk (P)	08/24-12/08	TBA	 
+NR	16149	EMCH	797	009	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Victor Giurgiutiu (P)	08/24-12/08	TBA	 
+NR	16150	EMCH	797	010	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Zafer Gurdal (P)	08/24-12/08	TBA	 
+NR	16151	EMCH	797	011	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Ramy Farid Harik (P)	08/24-12/08	TBA	 
+NR	16152	EMCH	797	012	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Kevin Huang (P)	08/24-12/08	TBA	 
+NR	16153	EMCH	797	013	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Xinyu Huang (P)	08/24-12/08	TBA	 
+NR	16154	EMCH	797	014	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Jamil A. Khan (P)	08/24-12/08	TBA	 
+NR	16155	EMCH	797	015	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Addis Asmelash Kidane (P)	08/24-12/08	TBA	 
+NR	16156	EMCH	797	016	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Travis W. Knight (P)	08/24-12/08	TBA	 
+NR	16492	EMCH	797	017	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Prasun Kanti Majumdar (P)	08/24-12/08	TBA	 
+NR	16571	EMCH	797	018	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Dale Allen McCants (P)	08/24-12/08	TBA	 
+NR	17941	EMCH	797	019	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	1	49	Stephen R McNeill (P)	08/24-12/08	TBA	 
+NR	17942	EMCH	797	020	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Walter Hamilton Peters (P)	08/24-12/08	TBA	 
+NR	17952	EMCH	797	021	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Anthony P. Reynolds (P)	08/24-12/08	TBA	 
+NR	18778	EMCH	797	022	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	David N. Rocheleau (P)	08/24-12/08	TBA	 
+NR	18779	EMCH	797	023	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Anthony Michael Scopatz (P)	08/24-12/08	TBA	 
+NR	18780	EMCH	797	024	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Tarek Michael Shazly (P)	08/24-12/08	TBA	 
+NR	18781	EMCH	797	025	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Michael Albert Sutton (P)	08/24-12/08	TBA	 
+NR	18782	EMCH	797	026	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Guiren Wang (P)	08/24-12/08	TBA	 
+NR	18783	EMCH	797	027	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Michael Johannes L Van Tooren (P)	08/24-12/08	TBA	 
+NR	18784	EMCH	797	028	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Xingjian Xue (P)	08/24-12/08	TBA	 
+NR	18787	EMCH	797	029	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Lingyu Yu (P)	08/24-12/08	TBA	 
+NR	18788	EMCH	797	030	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Sang Hee Won (P)	08/24-12/08	TBA	 
+NR	20694	EMCH	797	031	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Chen Li (P)	08/24-12/08	TBA	 
+NR	22038	EMCH	797	032	COL	1.000-12.000	30 - Columbia Full Term	Research	 	TBA	50	0	50	Subramani Sockalingam (P)	08/24-12/08	TBA	 
+NR	12398	EMCH	799	001	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Sourav Banerjee (P)	08/24-12/08	TBA	 
+NR	12401	EMCH	799	002	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Abdel-Moez E. Bayoumi (P)	08/24-12/08	TBA	 
+NR	12404	EMCH	799	003	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Theodore Martin Besmann (P)	08/24-12/08	TBA	 
+NR	12407	EMCH	799	004	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Dan Gabriel Cacuci (P)	08/24-12/08	TBA	 
+NR	12414	EMCH	799	005	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	40	0	40	Yuh Jin Chao (P)	08/24-12/08	TBA	 
+NR	12416	EMCH	799	006	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Fanglin Chen (P)	08/24-12/08	TBA	 
+NR	12418	EMCH	799	007	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Xiaomin Deng (P)	08/24-12/08	TBA	 
+NR	12420	EMCH	799	008	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Tanvir Igbal Farouk (P)	08/24-12/08	TBA	 
+NR	12424	EMCH	799	009	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Victor Giurgiutiu (P)	08/24-12/08	TBA	 
+NR	12426	EMCH	799	010	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Zafer Gurdal (P)	08/24-12/08	TBA	 
+NR	12429	EMCH	799	011	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	2	48	Ramy Farid Harik (P)	08/24-12/08	TBA	 
+NR	12431	EMCH	799	012	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Kevin Huang (P)	08/24-12/08	TBA	 
+NR	12433	EMCH	799	013	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Xinyu Huang (P)	08/24-12/08	TBA	 
+NR	12436	EMCH	799	014	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jamil A. Khan (P)	08/24-12/08	TBA	 
+NR	12444	EMCH	799	015	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Addis Asmelash Kidane (P)	08/24-12/08	TBA	 
+NR	12447	EMCH	799	016	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	3	47	Travis W. Knight (P)	08/24-12/08	TBA	 
+NR	12449	EMCH	799	017	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Chen Li (P)	08/24-12/08	TBA	 
+NR	12450	EMCH	799	018	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Prasun Kanti Majumdar (P)	08/24-12/08	TBA	 
+NR	12451	EMCH	799	019	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Dale Allen McCants (P)	08/24-12/08	TBA	 
+NR	12452	EMCH	799	020	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Stephen R McNeill (P)	08/24-12/08	TBA	 
+NR	12453	EMCH	799	021	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Walter Hamilton Peters (P)	08/24-12/08	TBA	 
+NR	12455	EMCH	799	022	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Anthony P. Reynolds (P)	08/24-12/08	TBA	 
+NR	12456	EMCH	799	023	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	David N. Rocheleau (P)	08/24-12/08	TBA	 
+NR	12458	EMCH	799	024	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Anthony Michael Scopatz (P)	08/24-12/08	TBA	 
+NR	12459	EMCH	799	025	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Tarek Michael Shazly (P)	08/24-12/08	TBA	 
+NR	12460	EMCH	799	026	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Michael Albert Sutton (P)	08/24-12/08	TBA	 
+NR	12461	EMCH	799	027	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Guiren Wang (P)	08/24-12/08	TBA	 
+NR	12462	EMCH	799	028	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Xingjian Xue (P)	08/24-12/08	TBA	 
+NR	12463	EMCH	799	029	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Lingyu Yu (P)	08/24-12/08	TBA	 
+NR	12464	EMCH	799	030	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Sang Hee Won (P)	08/24-12/08	TBA	 
+NR	12465	EMCH	799	031	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Michael Johannes L Van Tooren (P)	08/24-12/08	TBA	 
+NR	22047	EMCH	799	032	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Subramani Sockalingam (P)	08/24-12/08	TBA	 
+NR	13425	EMCH	899	001	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	4	46	Sourav Banerjee (P)	08/24-12/08	TBA	 
+NR	13429	EMCH	899	002	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Abdel-Moez E. Bayoumi (P)	08/24-12/08	TBA	 
+NR	13436	EMCH	899	003	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Theodore Martin Besmann (P)	08/24-12/08	TBA	 
+NR	13440	EMCH	899	004	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Dan Gabriel Cacuci (P)	08/24-12/08	TBA	 
+NR	13445	EMCH	899	005	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Yuh Jin Chao (P)	08/24-12/08	TBA	 
+NR	13449	EMCH	899	006	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Fanglin Chen (P)	08/24-12/08	TBA	 
+NR	13451	EMCH	899	007	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Xiaomin Deng (P)	08/24-12/08	TBA	 
+NR	13452	EMCH	899	008	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	5	45	Tanvir Igbal Farouk (P)	08/24-12/08	TBA	 
+NR	13456	EMCH	899	009	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	6	44	Victor Giurgiutiu (P)	08/24-12/08	TBA	 
+NR	13460	EMCH	899	010	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Zafer Gurdal (P)	08/24-12/08	TBA	 
+NR	13467	EMCH	899	011	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Ramy Farid Harik (P)	08/24-12/08	TBA	 
+NR	13470	EMCH	899	012	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Kevin Huang (P)	08/24-12/08	TBA	 
+NR	13476	EMCH	899	013	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Xinyu Huang (P)	08/24-12/08	TBA	 
+NR	13477	EMCH	899	014	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	6	44	Jamil A. Khan (P)	08/24-12/08	TBA	 
+NR	13481	EMCH	899	015	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Addis Asmelash Kidane (P)	08/24-12/08	TBA	 
+NR	13482	EMCH	899	016	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Travis W. Knight (P)	08/24-12/08	TBA	 
+NR	13484	EMCH	899	017	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	10	40	Chen Li (P)	08/24-12/08	TBA	 
+NR	13486	EMCH	899	018	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Prasun Kanti Majumdar (P)	08/24-12/08	TBA	 
+NR	13488	EMCH	899	019	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Dale Allen McCants (P)	08/24-12/08	TBA	 
+NR	13489	EMCH	899	020	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Stephen R McNeill (P)	08/24-12/08	TBA	 
+NR	13490	EMCH	899	021	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Walter Hamilton Peters (P)	08/24-12/08	TBA	 
+NR	13491	EMCH	899	022	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Anthony P. Reynolds (P)	08/24-12/08	TBA	 
+NR	13494	EMCH	899	023	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	David N. Rocheleau (P)	08/24-12/08	TBA	 
+NR	13496	EMCH	899	024	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Anthony Michael Scopatz (P)	08/24-12/08	TBA	 
+NR	13499	EMCH	899	025	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Tarek Michael Shazly (P)	08/24-12/08	TBA	 
+NR	13500	EMCH	899	026	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Michael Albert Sutton (P)	08/24-12/08	TBA	 
+NR	13501	EMCH	899	027	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Guiren Wang (P)	08/24-12/08	TBA	 
+NR	13502	EMCH	899	028	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Michael Johannes L Van Tooren (P)	08/24-12/08	TBA	 
+NR	13503	EMCH	899	029	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Xingjian Xue (P)	08/24-12/08	TBA	 
+NR	13506	EMCH	899	030	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Lingyu Yu (P)	08/24-12/08	TBA	 
+NR	13508	EMCH	899	031	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Sang Hee Won (P)	08/24-12/08	TBA	 
+NR	22049	EMCH	899	032	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Subramani Sockalingam (P)	08/24-12/08	TBA	 
+NR	22050	EMCH	899	033	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Yi Wang (P)	08/24-12/08	TBA	 

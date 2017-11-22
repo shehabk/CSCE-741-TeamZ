@@ -1,0 +1,274 @@
+NR	11517	CSCE	101	001	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	08:30 am-09:20 am	24	22	2	Phani Krishna Penumarthi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	08:30 am-09:20 am	 	 	 	Bharat Joshi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11519	CSCE	101	002	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	08:30 am-09:20 am	24	4	20	Phani Krishna Penumarthi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	09:40 am-10:30 am	 	 	 	Alaleh Torkjazi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11522	CSCE	101	003	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	08:30 am-09:20 am	24	10	14	Phani Krishna Penumarthi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	08:30 am-09:20 am	 	 	 	Bharat Joshi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11527	CSCE	101	004	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	10:50 am-11:40 am	24	15	9	Alaleh Torkjazi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	03:30 pm-04:20 pm	 	 	 	Natasha Delahunt	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11529	CSCE	101	005	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	10:50 am-11:40 am	24	22	2	Alaleh Torkjazi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	10:50 am-11:40 am	 	 	 	Bharat Joshi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11530	CSCE	101	006	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	10:50 am-11:40 am	24	21	3	Alaleh Torkjazi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	11:40 am-12:30 pm	 	 	 	Yang Mi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11534	CSCE	101	007	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	01:10 pm-02:00 pm	24	11	13	Yang Mi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	12:00 pm-12:50 pm	 	 	 	Alaleh Torkjazi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11537	CSCE	101	008	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	01:10 pm-02:00 pm	24	20	4	Yang Mi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	01:10 pm-02:00 pm	 	 	 	Phani Krishna Penumarthi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11540	CSCE	101	009	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	01:10 pm-02:00 pm	24	18	6	Yang Mi (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	01:15 pm-02:05 pm	 	 	 	Phani Krishna Penumarthi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11545	CSCE	101	010	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	03:30 pm-04:20 pm	24	4	20	Yugendhar Reddy Sarabudla (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	02:20 pm-03:10 pm	 	 	 	Yang Mi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11550	CSCE	101	011	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	03:30 pm-04:20 pm	24	3	21	Yugendhar Reddy Sarabudla (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	04:25 pm-05:15 pm	 	 	 	Bharat Joshi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11552	CSCE	101	012	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	TR	10:05 am-10:55 am	24	10	14	Natasha Delahunt (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	08:30 am-09:20 am	 	 	 	Yugendhar Reddy Sarabudla	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11562	CSCE	101	013	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	TR	10:05 am-10:55 am	24	16	8	Natasha Delahunt (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	09:40 am-10:30 am	 	 	 	Yang Mi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11572	CSCE	101	014	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	TR	10:05 am-10:55 am	24	20	4	Natasha Delahunt (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	10:50 am-11:40 am	 	 	 	Yugendhar Reddy Sarabudla	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11574	CSCE	101	015	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	TR	02:50 pm-03:40 pm	24	23	1	Natasha Delahunt (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	01:10 pm-02:00 pm	 	 	 	Alaleh Torkjazi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	11598	CSCE	101	016	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	TR	02:50 pm-03:40 pm	24	14	10	Natasha Delahunt (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	02:20 pm-03:10 pm	 	 	 	Bharat Joshi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	24654	CSCE	101	017	COL	3.000	30 - Columbia Full Term	Introduction to Computer Concepts	MW	03:30 pm-04:20 pm	24	4	20	Yugendhar Reddy Sarabudla (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	03:30 pm-04:20 pm	 	 	 	Phani Krishna Penumarthi	08/24-12/08	SMWALT 244	ARP Analytical Reasoning
+NR	23511	CSCE	101	Z1A	COL	3.000	3B7 - Columbia	Introduction to Computer Concepts	 	TBA	15	12	3	James Orren McKay (P)	08/28-10/17	WEB COLUMBIA	ARP Analytical Reasoning and Ft. Jackson Location
+NR	11701	CSCE	102	001	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	09:40 am-10:30 am	24	23	1	Catherine T Matthews (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	08:30 am-09:20 am	 	 	 	Adem Coskun	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11702	CSCE	102	002	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	09:40 am-10:30 am	24	23	1	Catherine T Matthews (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	09:40 am-10:30 am	 	 	 	Alireza Nasiri	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11703	CSCE	102	003	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	09:40 am-10:30 am	24	24	0	Catherine T Matthews (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	10:05 am-10:50 am	 	 	 	Md Modasshir	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11704	CSCE	102	004	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	12:00 pm-12:50 pm	24	20	4	Alireza Nasiri (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	10:50 am-11:40 am	 	 	 	Jing Wang	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11705	CSCE	102	005	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	12:00 pm-12:50 pm	24	24	0	Alireza Nasiri (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	12:00 pm-12:50 pm	 	 	 	Taylor Aldon Morris	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11707	CSCE	102	006	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	12:00 pm-12:50 pm	24	24	0	Alireza Nasiri (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	11:40 am-12:30 pm	 	 	 	Adem Coskun	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11710	CSCE	102	007	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	02:20 pm-03:10 pm	24	22	2	Catherine T Matthews (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	01:10 pm-02:00 pm	 	 	 	Jing Wang	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11713	CSCE	102	008	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	02:20 pm-03:10 pm	24	24	0	Catherine T Matthews (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	F	02:20 pm-03:10 pm	 	 	 	Xian Wu	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11717	CSCE	102	009	COL	3.000	30 - Columbia Full Term	General Applications Programming	MW	02:20 pm-03:10 pm	24	23	1	Catherine T Matthews (P)	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	02:50 pm-03:40 pm	 	 	 	Adem Coskun	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11721	CSCE	102	010	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	11:40 am-12:30 pm	24	24	0	Md Modasshir (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	12:00 pm-12:50 pm	 	 	 	Vaishnavi Sunku	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11722	CSCE	102	011	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	11:40 am-12:30 pm	24	24	0	Md Modasshir (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	01:10 pm-02:00 pm	 	 	 	Taylor Aldon Morris	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+C	11724	CSCE	102	012	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	11:40 am-12:30 pm	23	23	0	Md Modasshir (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	02:20 pm-03:10 pm	 	 	 	Alireza Nasiri	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11725	CSCE	102	013	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	06:40 pm-07:30 pm	24	16	8	Xian Wu (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	05:30 pm-06:20 pm	 	 	 	Md Modasshir	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11726	CSCE	102	014	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	06:40 pm-07:30 pm	24	12	12	Xian Wu (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	05:30 pm-06:20 pm	 	 	 	Adem Coskun	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11728	CSCE	102	015	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	06:40 pm-07:30 pm	24	11	13	Xian Wu (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	05:30 pm-06:20 pm	 	 	 	Alireza Nasiri	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	11729	CSCE	102	016	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	05:30 pm-06:20 pm	24	8	16	Xian Wu (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	T	07:00 pm-07:50 pm	 	 	 	Adem Coskun	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	20949	CSCE	102	017	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	05:30 pm-06:20 pm	24	6	18	Xian Wu (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	W	07:00 pm-07:50 pm	 	 	 	Md Modasshir	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	22383	CSCE	102	018	COL	3.000	30 - Columbia Full Term	General Applications Programming	TR	05:30 pm-06:20 pm	24	3	21	Xian Wu (P), Catherine T Matthews	08/24-12/08	SMWALT 305	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	R	07:00 pm-07:50 pm	 	 	 	Vaishnavi Sunku	08/24-12/08	SMWALT 361	ARP Analytical Reasoning
+NR	23509	CSCE	102	Z1A	COL	3.000	3B7 - Columbia	General Applications Programming	 	TBA	15	12	3	James Orren McKay (P)	08/28-10/17	WEB COLUMBIA	ARP Analytical Reasoning and Ft. Jackson Location
+C	23107	CSCE	102	Z1B	COL	3.000	3B8 - Columbia	General Applications Programming	 	TBA	15	15	0	James Orren McKay (P)	10/23-12/12	WEB COLUMBIA	ARP Analytical Reasoning and Ft. Jackson Location
+SR	30559	CSCE	102	Z3B	COL	3.000	3B8 - Columbia	General Applications Programming	 	TBA	15	1	14	James Orren McKay (P)	10/23-12/12	WEB COLUMBIA	ARP Analytical Reasoning and Ft. Jackson Location
+NR	11742	CSCE	145	001	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	23	1	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:00 am-09:40 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+C	11743	CSCE	145	003	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	24	0	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	10:00 am-11:40 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+C	11744	CSCE	145	004	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	24	0	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	10:01 am-11:41 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+NR	11745	CSCE	145	005	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	21	3	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	12:00 pm-01:50 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+NR	11746	CSCE	145	006	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	22	2	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	12:01 pm-01:41 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+C	16555	CSCE	145	008	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	24	0	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	02:01 pm-03:41 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+NR	18035	CSCE	145	009	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	22	2	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	04:00 pm-05:40 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+NR	20945	CSCE	145	013	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:00 am-09:40 am	24	19	5	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+C	20947	CSCE	145	015	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	10:00 am-11:40 am	24	24	0	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+C	20948	CSCE	145	016	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	10:00 am-11:40 am	24	24	0	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+C	21894	CSCE	145	017	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	12:00 pm-01:40 pm	24	24	0	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+NR	21895	CSCE	145	018	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	12:00 pm-01:40 pm	24	23	1	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+NR	21896	CSCE	145	019	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	02:00 pm-03:40 pm	24	22	2	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+NR	21897	CSCE	145	020	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	02:00 pm-03:40 pm	24	15	9	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+NR	21898	CSCE	145	021	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	04:00 pm-05:40 pm	24	19	5	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	08:30 am-09:20 am	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+NR	22909	CSCE	145	025	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	08:30 am-09:20 am	24	15	9	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	06:00 pm-07:40 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+NR	23924	CSCE	145	026	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	01:10 pm-02:00 pm	24	23	1	James Paul O'Reilly (P)	08/24-12/08	300MN B103	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	MW	04:00 pm-05:40 pm	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning
+C	23974	CSCE	145	027	COL	4.000	30 - Columbia Full Term	Algorithmic Design I	MW	01:10 pm-02:00 pm	24	24	0	James Paul O'Reilly (P)	08/24-12/08	300MN B103	ARP Analytical Reasoning
+ 	 	 	 	 	 	 	 	 	TR	02:00 pm-03:40 pm	 	 	 	James Paul O'Reilly (P)	08/24-12/08	SWGN 1D11	ARP Analytical Reasoning
+NR	25219	CSCE	145	H01	COL	4.000	30 - Columbia Full Term	HNRS: Algorithmic Design I	MW	01:10 pm-02:00 pm	24	23	1	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 2A21	ARP Analytical Reasoning and SC Honors College
+ 	 	 	 	 	 	 	 	 	TR	08:00 am-09:40 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D15	ARP Analytical Reasoning and SC Honors College
+NR	11749	CSCE	146	001	COL	4.000	30 - Columbia Full Term	Algorithmic Design II	TR	10:05 am-11:20 am	24	17	7	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	 
+ 	 	 	 	 	 	 	 	 	F	08:00 am-09:40 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	 
+NR	11751	CSCE	146	002	COL	4.000	30 - Columbia Full Term	Algorithmic Design II	TR	10:05 am-11:20 am	24	15	9	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	 
+ 	 	 	 	 	 	 	 	 	F	08:00 am-09:40 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D15	 
+NR	11754	CSCE	146	003	COL	4.000	30 - Columbia Full Term	Algorithmic Design II	TR	10:05 am-11:20 am	24	22	2	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	 
+ 	 	 	 	 	 	 	 	 	F	10:00 am-11:40 am	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	 
+C	11763	CSCE	146	005	COL	4.000	30 - Columbia Full Term	Algorithmic Design II	TR	10:05 am-11:20 am	24	24	0	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	 
+ 	 	 	 	 	 	 	 	 	F	12:00 pm-01:40 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	 
+NR	22313	CSCE	146	007	COL	4.000	30 - Columbia Full Term	Algorithmic Design II	TR	10:05 am-11:20 am	24	22	2	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1C01	 
+ 	 	 	 	 	 	 	 	 	F	02:00 pm-03:40 pm	 	 	 	Jeremiah Jeffrey Shepherd (P)	08/24-12/08	SWGN 1D11	 
+NR	12642	CSCE	190	001	COL	1.000	30 - Columbia Full Term	Computing in the Modern World	T	06:00 pm-06:50 pm	330	315	15	Marco Valtorta (P)	08/24-12/08	SWGN 1C01	 
+NR	11731	CSCE	201	001	COL	3.000	30 - Columbia Full Term	Introduction to Computer Security	MW	04:25 pm-05:40 pm	35	13	22	Neema Jeevan Kanapala (P)	08/24-12/08	300MN B111	 
+NR	20587	CSCE	201	002	COL	3.000	30 - Columbia Full Term	Introduction to Computer Security	TR	02:50 pm-04:05 pm	35	25	10	Neema Jeevan Kanapala (P)	08/24-12/08	300MN B213	 
+C	11730	CSCE	204	001	COL	3.000	30 - Columbia Full Term	Program Design and Development	MW	08:05 am-09:20 am	40	40	0	Mingxiang Zhu (P)	08/24-12/08	SWGN 2A31	 
+NR	12675	CSCE	205	001	COL	3.000	30 - Columbia Full Term	Business Applications Programming	MW	05:30 pm-06:45 pm	60	48	12	Christine M.G. Brown (P)	08/24-12/08	SMWALT 305	 
+NR	12705	CSCE	206	001	COL	3.000	30 - Columbia Full Term	Scientific Applications Programming	TR	10:05 am-11:20 am	60	37	23	Jianjun Hu (P)	08/24-12/08	HZNPG 210	 
+NR	12718	CSCE	210	001	COL	3.000	30 - Columbia Full Term	Computer Hardware Foundations	TR	10:05 am-11:20 am	75	44	31	Matt Eric Thatcher (P)	08/24-12/08	300MN B213	 
+C	12752	CSCE	211	001	COL	3.000	30 - Columbia Full Term	Digital Logic Design	TR	10:05 am-11:20 am	66	66	0	Chin-Tser Huang (P)	08/24-12/08	SWGN 2A14	 
+C	15492	CSCE	211	002	COL	3.000	30 - Columbia Full Term	Digital Logic Design	TR	08:30 am-09:45 am	49	49	0	Jeremy Shane Lewis (P)	08/24-12/08	SWGN 2A31	 
+C	16554	CSCE	211	003	COL	3.000	30 - Columbia Full Term	Digital Logic Design	TR	02:50 pm-04:05 pm	49	49	0	Jeremy Shane Lewis (P)	08/24-12/08	SWGN 2A27	 
+NR	24803	CSCE	211	H01	COL	3.000	30 - Columbia Full Term	HNRS: Digital Logic Design	TR	01:15 pm-02:30 pm	24	19	5	Chin-Tser Huang (P)	08/24-12/08	SWGN 2A24	SC Honors College
+NR	12762	CSCE	212	001	COL	3.000	30 - Columbia Full Term	Introduction to Computer Architecture	TR	01:15 pm-02:30 pm	61	55	6	Song Wang (P)	08/24-12/08	300MN B110	 
+NR	16727	CSCE	212	002	COL	3.000	30 - Columbia Full Term	Introduction to Computer Architecture	MW	05:50 pm-07:05 pm	49	20	29	Dazhou Guo (P)	08/24-12/08	SWGN 2A31	 
+C	14194	CSCE	215	801	COL	1.000	3A - Columbia First Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	16	0	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	09:40 am-10:30 am	 	 	 	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 1D39	 
+NR	14198	CSCE	215	802	COL	1.000	3A - Columbia First Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	15	1	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	10:50 am-11:40 am	 	 	 	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 1D39	 
+NR	14199	CSCE	215	803	COL	1.000	3A - Columbia First Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	15	1	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	12:00 pm-12:50 pm	 	 	 	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 1D39	 
+NR	16721	CSCE	215	804	COL	1.000	3A - Columbia First Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	13	3	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	01:10 pm-02:00 pm	 	 	 	Patrick B. O'Keefe (P)	08/24-10/16	SWGN 1D39	 
+C	14200	CSCE	215	851	COL	1.000	3B - Columbia Second Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	16	0	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	09:40 am-10:30 am	 	 	 	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 1D39	 
+SR	16722	CSCE	215	852	COL	1.000	3B - Columbia Second Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	6	10	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	10:50 am-11:40 am	 	 	 	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 1D39	 
+SR	16723	CSCE	215	853	COL	1.000	3B - Columbia Second Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	6	10	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	12:00 pm-12:50 pm	 	 	 	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 1D39	 
+SR	24735	CSCE	215	854	COL	1.000	3B - Columbia Second Half Term	UNIX/Linux Fundamentals	MW	08:30 am-09:20 am	16	3	13	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 2A14	 
+ 	 	 	 	 	 	 	 	 	MW	01:10 pm-02:00 pm	 	 	 	Patrick B. O'Keefe (P)	10/23-12/08	SWGN 1D39	 
+NR	12774	CSCE	240	001	COL	3.000	30 - Columbia Full Term	Introduction to Software Engineering	TR	02:50 pm-04:05 pm	78	57	21	Duncan A. Buell (P)	08/24-12/08	300MN B201	 
+NR	15493	CSCE	240	002	COL	3.000	30 - Columbia Full Term	Introduction to Software Engineering	MWF	01:10 pm-02:00 pm	66	57	9	Homayoun Valafar (P)	08/24-12/08	SWGN 2A14	 
+NR	17347	CSCE	240	003	COL	3.000	30 - Columbia Full Term	Introduction to Software Engineering	MWF	02:20 pm-03:10 pm	49	22	27	Casey Anne Cole (P)	08/24-12/08	SWGN 2A31	 
+NR	24804	CSCE	240	H01	COL	3.000	30 - Columbia Full Term	HNRS: Introduction to Software Engineering	TR	10:05 am-11:20 am	24	14	10	Duncan A. Buell (P)	08/24-12/08	SWGN 2A24	SC Honors College
+NR	17760	CSCE	274	001	COL	3.000	30 - Columbia Full Term	Robotic Applications and Design	TR	04:25 pm-05:40 pm	36	34	2	Ioannis M Rekleitis (P)	08/24-12/08	300MN B112	 
+NR	20720	CSCE	274	002	COL	3.000	30 - Columbia Full Term	Robotic Applications and Design	TR	06:00 pm-07:15 pm	36	19	17	Alberto Quattrini Li (P)	08/24-12/08	300MN B112	 
+NR	11740	CSCE	311	001	COL	3.000	30 - Columbia Full Term	Operating Systems	TR	08:30 am-09:45 am	66	48	18	Ahmed Shehab Khan (P)	08/24-12/08	SWGN 2A14	 
+NR	17346	CSCE	311	002	COL	3.000	30 - Columbia Full Term	Operating Systems	TR	04:25 pm-05:40 pm	66	65	1	Jeremy Shane Lewis (P)	08/24-12/08	SWGN 2A14	 
+NR	12780	CSCE	330	001	COL	3.000	30 - Columbia Full Term	Programming Language Structures	TR	01:15 pm-02:30 pm	66	64	2	Marco Valtorta (P)	08/24-12/08	300MN B213	 
+NR	17974	CSCE	330	002	COL	3.000	30 - Columbia Full Term	Programming Language Structures	MW	04:40 pm-05:55 pm	66	48	18	James Paul O'Reilly (P)	08/24-12/08	SWGN 2A14	 
+C	13801	CSCE	350	001	COL	3.000	30 - Columbia Full Term	Data Structures and Algorithms	TR	10:05 am-11:20 am	50	59	-9	Gabriel Alin Terejanu (P)	08/24-12/08	300MN B201	 
+NR	17363	CSCE	350	002	COL	3.000	30 - Columbia Full Term	Data Structures and Algorithms	MW	08:05 am-09:20 am	49	46	3	Neema Jeevan Kanapala (P)	08/24-12/08	SWGN 2A27	 
+NR	14193	CSCE	355	001	COL	3.000	30 - Columbia Full Term	Foundations of Computation	TR	11:40 am-12:55 pm	78	73	5	Stephen A. Fenner (P)	08/24-12/08	300MN B201	 
+NR	12791	CSCE	390	001	COL	1.000	30 - Columbia Full Term	Professional Issues in Computer Science and Engineering	R	06:00 pm-06:50 pm	125	123	2	Marco Valtorta (P)	08/24-12/08	SWGN 1C01	VSR Values/Ethics
+C	12795	CSCE	416	001	COL	3.000	30 - Columbia Full Term	Introduction to Computer Networks	TR	02:50 pm-04:05 pm	100	101	-1	Srihari Nelakuditi (P)	08/24-12/08	JONES 002	 
+C	14191	CSCE	490	001	COL	3.000	30 - Columbia Full Term	Capstone Computing Project I	 	TBA	120	120	0	Jose M Vidal (P)	08/24-12/08	TBA	GLD: Research and INT Integrative
+C	15590	CSCE	490	002	COL	3.000	30 - Columbia Full Term	Capstone Computing Project I	 	TBA	40	60	-20	Jose M Vidal (P)	08/24-12/08	TBA	GLD: Research and INT Integrative
+NR	12613	CSCE	498	001	COL	1.000-3.000	30 - Columbia Full Term	Independent Study	 	TBA	2	1	1	Jason Daniel Bakos (P)	08/24-12/08	TBA	GLD: Research
+NR	12797	CSCE	513	001	COL	3.000	30 - Columbia Full Term	Computer Architecture	MW	08:05 am-09:20 am	50	38	12	Manton M. Matthews (P)	08/24-12/08	WMBB 409	 
+NR	25608	CSCE	513	006	COL	3.000	30 - Columbia Full Term	Computer Architecture	MW	08:05 am-09:20 am	23	6	17	Manton M. Matthews (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12798	CSCE	513	H10	COL	3.000	30 - Columbia Full Term	HNRS: Computer Architecture	MW	08:05 am-09:20 am	2	1	1	Manton M. Matthews (P)	08/24-12/08	WMBB 409	SC Honors College
+C	25581	CSCE	518	001	COL	3.000	30 - Columbia Full Term	Ethical Hacking	TR	04:25 pm-05:40 pm	26	26	0	Veronica L. Wilkinson (P)	08/24-12/08	SWGN 2A27	 
+NR	13993	CSCE	520	001	COL	3.000	30 - Columbia Full Term	Database System Design	TR	02:50 pm-04:05 pm	100	56	44	Stephen A. Fenner (P)	08/24-12/08	SWGN 1C01	 
+NR	13997	CSCE	520	H10	COL	3.000	30 - Columbia Full Term	HNRS: Database System Design	TR	02:50 pm-04:05 pm	10	2	8	Stephen A. Fenner (P)	08/24-12/08	SWGN 1C01	SC Honors College
+NR	12829	CSCE	522	001	COL	3.000	30 - Columbia Full Term	Information Security Principles	TR	01:15 pm-02:30 pm	46	44	2	Csilla Farkas (P)	08/24-12/08	WMBB 409	 
+C	29112	CSCE	522	002	COL	3.000	30 - Columbia Full Term	Information Security Principles	TR	01:15 pm-02:30 pm	30	45	-15	Csilla Farkas (P)	08/24-12/08	WEB COLUMBIA	 
+NR	16539	CSCE	522	006	COL	3.000	30 - Columbia Full Term	Information Security Principles	TR	01:15 pm-02:30 pm	9	0	9	Csilla Farkas (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12830	CSCE	522	H10	COL	3.000	30 - Columbia Full Term	HNRS: Information Security Principles	TR	01:15 pm-02:30 pm	6	5	1	Csilla Farkas (P)	08/24-12/08	WMBB 409	SC Honors College
+NR	15161	CSCE	552	001	COL	3.000	30 - Columbia Full Term	Computer Game Development	F	08:30 am-11:15 am	40	36	4	Jijun Tang (P)	08/24-12/08	300MN B112	 
+NR	17362	CSCE	572	001	COL	3.000	30 - Columbia Full Term	Human-Computer Interaction	MW	01:15 pm-02:30 pm	39	32	7	Yan Tong (P)	08/24-12/08	300MN B112	 
+NR	22190	CSCE	574	001	COL	3.000	30 - Columbia Full Term	Robotics	MW	11:40 am-12:55 pm	32	16	16	Alberto Quattrini Li (P)	08/24-12/08	300MN B112	 
+C	18578	CSCE	587	001	COL	3.000	30 - Columbia Full Term	Big Data Analytics	TR	10:05 am-11:20 am	34	34	0	John R. Rose (P)	08/24-12/08	SWGN 1D29	 
+NR	24889	CSCE	587	002	COL	3.000	30 - Columbia Full Term	Big Data Analytics	TR	08:30 am-09:45 am	34	33	1	John R. Rose (P)	08/24-12/08	SWGN 1D29	 
+C	12833	CSCE	611	001	COL	3.000	30 - Columbia Full Term	Advanced Digital Design	MW	03:55 pm-05:10 pm	40	41	-1	Jason Daniel Bakos (P)	08/24-12/08	SWGN 2A31	 
+NR	18629	CSCE	740	001	COL	3.000	30 - Columbia Full Term	Software Engineering	TR	08:30 am-09:45 am	28	20	8	Gregory James Gay (P)	08/24-12/08	SWGN 2A05	 
+NR	18630	CSCE	740	006	COL	3.000	30 - Columbia Full Term	Software Engineering	TR	08:30 am-09:45 am	22	6	16	Gregory James Gay (P)	08/24-12/08	WEB COLUMBIA	 
+NR	25398	CSCE	741	001	COL	3.000	30 - Columbia Full Term	Software Process	MW	02:20 pm-03:35 pm	40	8	32	Manton M. Matthews (P)	08/24-12/08	WMBB 409	 
+NR	25399	CSCE	741	006	COL	3.000	30 - Columbia Full Term	Software Process	MW	02:20 pm-03:35 pm	50	2	48	Manton M. Matthews (P)	08/24-12/08	WEB COLUMBIA	 
+NR	12841	CSCE	750	001	COL	3.000	30 - Columbia Full Term	Analysis of Algorithms	TR	11:40 am-12:55 pm	50	46	4	Jason Matthew Okane (P)	08/24-12/08	WMBB 409	 
+NR	16730	CSCE	750	006	COL	3.000	30 - Columbia Full Term	Analysis of Algorithms	TR	11:40 am-12:55 pm	28	3	25	Jason Matthew Okane (P)	08/24-12/08	WEB COLUMBIA	 
+NR	24816	CSCE	768	001	COL	3.000	30 - Columbia Full Term	Pattern Recognition and Classification	TR	02:50 pm-04:05 pm	28	24	4	Jianjun Hu (P)	08/24-12/08	SWGN 2A05	 
+NR	24818	CSCE	768	006	COL	3.000	30 - Columbia Full Term	Pattern Recognition and Classification	TR	02:50 pm-04:05 pm	28	1	27	Jianjun Hu (P)	08/24-12/08	WEB COLUMBIA	 
+NR	23224	CSCE	790	001	COL	1.000-3.000	30 - Columbia Full Term	Topics in Information Technology	MW	12:00 pm-01:15 pm	20	1	19	Yonghong Yan (P)	08/24-12/08	SWGN 2A19	 
+NR	28374	CSCE	790	002	COL	3.000	30 - Columbia Full Term	Topic: Quantum Computation and Information	TR	01:15 pm-02:30 pm	10	8	2	Stephen A. Fenner (P)	08/24-09/18	SWGN 3A75	 
+ 	 	 	 	 	 	 	 	 	TR	01:15 pm-02:30 pm	 	 	 	Stephen A. Fenner (P)	09/19-12/08	SWGN 2A15	 
+NR	15609	CSCE	791	001	COL	1.000	30 - Columbia Full Term	Seminar in Advances in Computing	F	02:20 pm-03:10 pm	49	25	24	Gregory James Gay (P)	08/24-12/08	SWGN 2A14	 
+C	29908	CSCE	793	001	COL	1.000	30 - Columbia Full Term	Internship in Software Engineering	 	TBA	1	1	0	Jason Matthew Okane (P)	08/24-12/08	TBA	 
+NR	12615	CSCE	798	001	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	2	48	Jason Daniel Bakos (P)	08/24-12/08	TBA	 
+NR	12617	CSCE	798	002	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	Jenay Michelle Beer (P)	08/24-12/08	TBA	 
+NR	12619	CSCE	798	003	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Duncan A. Buell (P)	08/24-12/08	TBA	 
+NR	12620	CSCE	798	004	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	Csilla Farkas (P)	08/24-12/08	TBA	 
+NR	12622	CSCE	798	005	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Stephen A. Fenner (P)	08/24-12/08	TBA	 
+NR	12623	CSCE	798	006	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Gregory James Gay (P)	08/24-12/08	TBA	 
+NR	12624	CSCE	798	007	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Jianjun Hu (P)	08/24-12/08	TBA	 
+NR	18751	CSCE	798	008	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	Chin-Tser Huang (P)	08/24-12/08	TBA	 
+NR	12625	CSCE	798	009	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Michael N. Huhns (P)	08/24-12/08	TBA	 
+NR	12628	CSCE	798	010	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Manton M. Matthews (P)	08/24-12/08	TBA	 
+NR	12630	CSCE	798	011	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Srihari Nelakuditi (P)	08/24-12/08	TBA	 
+NR	12633	CSCE	798	012	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	3	47	Jason Matthew Okane (P)	08/24-12/08	TBA	 
+NR	12634	CSCE	798	013	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	3	47	Ioannis M Rekleitis (P)	08/24-12/08	TBA	 
+NR	12636	CSCE	798	014	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	John R. Rose (P)	08/24-12/08	TBA	 
+NR	12637	CSCE	798	015	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Jijun Tang (P)	08/24-12/08	TBA	 
+NR	12640	CSCE	798	016	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Gabriel Alin Terejanu (P)	08/24-12/08	TBA	 
+NR	12644	CSCE	798	017	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Matt Eric Thatcher (P)	08/24-12/08	TBA	 
+NR	12645	CSCE	798	018	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Yan Tong (P)	08/24-12/08	TBA	 
+NR	12650	CSCE	798	019	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Homayoun Valafar (P)	08/24-12/08	TBA	 
+NR	12655	CSCE	798	020	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	Marco Valtorta (P)	08/24-12/08	TBA	 
+NR	12660	CSCE	798	021	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	Jose M Vidal (P)	08/24-12/08	TBA	 
+NR	12664	CSCE	798	022	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Song Wang (P)	08/24-12/08	TBA	 
+NR	18753	CSCE	798	023	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Wenyuan Xu (P)	08/24-12/08	TBA	 
+NR	21909	CSCE	798	024	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	1	49	Yonghong Yan (P)	08/24-12/08	TBA	 
+NR	30348	CSCE	798	025	COL	1.000-12.000	30 - Columbia Full Term	Directed Study and Research	 	TBA	50	0	50	Lannan Luo (P)	08/24-12/08	TBA	 
+NR	12672	CSCE	799	001	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Jason Daniel Bakos (P)	08/24-12/08	TBA	 
+NR	12680	CSCE	799	002	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jenay Michelle Beer (P)	08/24-12/08	TBA	 
+NR	12690	CSCE	799	003	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Duncan A. Buell (P)	08/24-12/08	TBA	 
+NR	12694	CSCE	799	004	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Csilla Farkas (P)	08/24-12/08	TBA	 
+NR	12697	CSCE	799	005	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Stephen A. Fenner (P)	08/24-12/08	TBA	 
+NR	12701	CSCE	799	006	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	2	48	Gregory James Gay (P)	08/24-12/08	TBA	 
+NR	12704	CSCE	799	007	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jianjun Hu (P)	08/24-12/08	TBA	 
+NR	18758	CSCE	799	008	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Chin-Tser Huang (P)	08/24-12/08	TBA	 
+NR	12711	CSCE	799	009	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Michael N. Huhns (P)	08/24-12/08	TBA	 
+NR	12714	CSCE	799	010	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Manton M. Matthews (P)	08/24-12/08	TBA	 
+NR	12716	CSCE	799	011	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Srihari Nelakuditi (P)	08/24-12/08	TBA	 
+NR	12721	CSCE	799	012	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jason Matthew Okane (P)	08/24-12/08	TBA	 
+NR	12725	CSCE	799	013	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Ioannis M Rekleitis (P)	08/24-12/08	TBA	 
+NR	12731	CSCE	799	014	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	John R. Rose (P)	08/24-12/08	TBA	 
+NR	12740	CSCE	799	015	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jijun Tang (P)	08/24-12/08	TBA	 
+NR	12743	CSCE	799	016	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Gabriel Alin Terejanu (P)	08/24-12/08	TBA	 
+NR	12746	CSCE	799	017	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	1	49	Matt Eric Thatcher (P)	08/24-12/08	TBA	 
+NR	12749	CSCE	799	018	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Yan Tong (P)	08/24-12/08	TBA	 
+NR	12750	CSCE	799	019	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Homayoun Valafar (P)	08/24-12/08	TBA	 
+NR	12751	CSCE	799	020	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Marco Valtorta (P)	08/24-12/08	TBA	 
+NR	12754	CSCE	799	021	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Jose M Vidal (P)	08/24-12/08	TBA	 
+NR	12755	CSCE	799	022	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Song Wang (P)	08/24-12/08	TBA	 
+NR	18760	CSCE	799	023	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Wenyuan Xu (P)	08/24-12/08	TBA	 
+NR	21910	CSCE	799	024	COL	1.000-12.000	30 - Columbia Full Term	Thesis Preparation	 	TBA	50	0	50	Lannan Luo (P)	08/24-12/08	TBA	 
+NR	18577	CSCE	813	001	COL	3.000	30 - Columbia Full Term	Internet Security	TR	01:15 pm-02:30 pm	22	13	9	TBA	08/24-12/08	SWGN 2A05	 
+NR	22202	CSCE	813	006	COL	3.000	30 - Columbia Full Term	Internet Security	TR	01:15 pm-02:30 pm	22	1	21	TBA	08/24-12/08	WEB COLUMBIA	 
+NR	12756	CSCE	899	001	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Jason Daniel Bakos (P)	08/24-12/08	TBA	 
+NR	12757	CSCE	899	002	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Jenay Michelle Beer (P)	08/24-12/08	TBA	 
+NR	12759	CSCE	899	003	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Duncan A. Buell (P)	08/24-12/08	TBA	 
+NR	12760	CSCE	899	004	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	6	44	Csilla Farkas (P)	08/24-12/08	TBA	 
+NR	12763	CSCE	899	005	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Stephen A. Fenner (P)	08/24-12/08	TBA	 
+NR	12764	CSCE	899	006	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Gregory James Gay (P)	08/24-12/08	TBA	 
+NR	12767	CSCE	899	007	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Jianjun Hu (P)	08/24-12/08	TBA	 
+NR	18775	CSCE	899	008	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Chin-Tser Huang (P)	08/24-12/08	TBA	 
+NR	12768	CSCE	899	009	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Michael N. Huhns (P)	08/24-12/08	TBA	 
+NR	12770	CSCE	899	010	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Manton M. Matthews (P)	08/24-12/08	TBA	 
+NR	12772	CSCE	899	011	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	1	49	Srihari Nelakuditi (P)	08/24-12/08	TBA	 
+NR	12775	CSCE	899	012	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Jason Matthew Okane (P)	08/24-12/08	TBA	 
+NR	12776	CSCE	899	013	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Ioannis M Rekleitis (P)	08/24-12/08	TBA	 
+NR	12778	CSCE	899	014	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	John R. Rose (P)	08/24-12/08	TBA	 
+NR	12779	CSCE	899	015	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Jijun Tang (P)	08/24-12/08	TBA	 
+NR	12781	CSCE	899	016	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	4	46	Gabriel Alin Terejanu (P)	08/24-12/08	TBA	 
+NR	12782	CSCE	899	017	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Matt Eric Thatcher (P)	08/24-12/08	TBA	 
+NR	12784	CSCE	899	018	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Yan Tong (P)	08/24-12/08	TBA	 
+NR	12787	CSCE	899	019	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Homayoun Valafar (P)	08/24-12/08	TBA	 
+NR	12788	CSCE	899	020	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	2	48	Marco Valtorta (P)	08/24-12/08	TBA	 
+NR	12790	CSCE	899	021	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	4	46	Jose M Vidal (P)	08/24-12/08	TBA	 
+NR	12792	CSCE	899	022	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	5	45	Song Wang (P)	08/24-12/08	TBA	 
+NR	18776	CSCE	899	023	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	3	47	Wenyuan Xu (P)	08/24-12/08	TBA	 
+NR	21911	CSCE	899	024	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Yonghong Yan (P)	08/24-12/08	TBA	 
+NR	30350	CSCE	899	025	COL	1.000-12.000	30 - Columbia Full Term	Dissertation Preparation	 	TBA	50	0	50	Lannan Luo (P)	08/24-12/08	TBA	 
