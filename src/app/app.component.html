@@ -27,17 +27,31 @@
 <hr>
 <h2>My list of Computed Summaries by Dept:</h2>
 <ul>
-  <li *ngFor="let summary of computedSummaryArray">
+  <li *ngFor="let summary of computedDeptSummaryArray">
     <b>Dept:</b> {{ summary.dept }},
     <!-- <b>Instrutor: </b>{{ summary.instructor }}, -->
     <b>#Sections: </b>{{ summary.sectionTot  | number:'1.0-0'}},
     <b>#Students: </b>{{ summary.studentTot  | number:'1.0-0'}},
-    <b>#FTE: </b>{{ summary.fte | number:'1.0-0'}},
+    <b>#FTE: </b>{{ summary.fte | number:'1.2-2'}},
     <b>#Credit Hours: </b>{{ summary.studentCreditHoursTot  | number:'1.0-0'}}
     </li>
 </ul>
 <hr>
 
+<h2>My list of Computed Summaries by Instructor:</h2>
+<ul>
+  <li *ngFor="let summary of computedInstructorSummaryArray">
+    <b>Dept:</b> {{ summary.dept }},
+    <b>Instrutor: </b>{{ summary.instructor }},
+    <b>#Sections: </b>{{ summary.sectionTot  | number:'1.0-0'}},
+    <b>#Students: </b>{{ summary.studentTot  | number:'1.0-0'}},
+    <b>#FTE: </b>{{ summary.fte | number:'1.2-2'}},
+    <b>#Credit Hours: </b>{{ summary.studentCreditHoursTot  | number:'1.0-0'}}
+    </li>
+</ul>
+<hr>
+
+<!-- 
 <h2>My list of courses:</h2>
 <p>Courses:</p>
 <ul>
@@ -65,4 +79,5 @@
     {{ course.select }}
     </li>
 </ul>
+-->
 
