@@ -1,0 +1,68 @@
+
+
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{title}}!
+  </h1>
+  <img width="300" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+</div>
+<hr>
+<br>
+
+<!--
+  <h2>My list of summaries:</h2>
+  <p>Department Summaries:</p>
+<ul>
+  <li *ngFor="let summary of summaryArray">
+    {{ summary.subject }}
+    {{ summary.instructor }}
+    {{ summary.courseTot }}
+    {{ summary.studentTot }}
+    {{ summary.studentCreditHoursTot }}
+    {{ summary.fte }}
+    </li>
+</ul>
+-->
+<hr>
+<h2>My list of Computed Summaries by Dept:</h2>
+<ul>
+  <li *ngFor="let summary of computedSummaryArray">
+    <b>Dept:</b> {{ summary.dept }},
+    <!-- <b>Instrutor: </b>{{ summary.instructor }}, -->
+    <b>#Sections: </b>{{ summary.sectionTot  | number:'1.0-0'}},
+    <b>#Students: </b>{{ summary.studentTot  | number:'1.0-0'}},
+    <b>#FTE: </b>{{ summary.fte | number:'1.0-0'}},
+    <b>#Credit Hours: </b>{{ summary.studentCreditHoursTot  | number:'1.0-0'}}
+    </li>
+</ul>
+<hr>
+
+<h2>My list of courses:</h2>
+<p>Courses:</p>
+<ul>
+  <li *ngFor="let course of courseArray">
+    {{ course.id }}
+    {{ course.dept }}
+    {{ course.semester }}
+    {{ course.crn }}
+    {{ course.subj }}
+    {{ course.crse }}
+    {{ course.sec }}
+    {{ course.cmp }}
+    {{ course.credits }}
+    {{ course.part_of_term }}
+    {{ course.title }}
+    {{ course.days }}
+    {{ course.time }}
+    {{ course.cap }}
+    {{ course.act }}
+    {{ course.rem }}
+    {{ course.instructor }}
+    {{ course.date }}
+    {{ course.location }}
+    {{ course.attribute }}
+    {{ course.select }}
+    </li>
+</ul>
+
