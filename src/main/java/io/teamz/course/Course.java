@@ -112,12 +112,12 @@ public class Course {
 		this.semester = semester;
 	}
 
-	public String getSelect() {
+	public String getSelection() {
 		return selection;
 	}
 
-	public void setSelect(String select) {
-		this.selection = select;
+	public void setSelection(String selection) {
+		this.selection = selection;
 	}
 
 	public String getCrn() {
@@ -257,7 +257,30 @@ public class Course {
 	}
 
 
-
+	public String toString(){
+		String ret = "";
+		ret += " ID: "+ this.getId();
+		ret += " Selection: " + this.getSelection();
+		ret += " CRN: " + this.getCrn();
+		ret += " Subject: " + this.getSubj();
+		ret += " CRSE: " + this.getCrse();
+		ret += " SEC: " + this.getSec();
+		ret += " CMP: " + this.getCmp();
+		ret += " Cred: " + this.getCred();
+		ret += " Part of Term: " + this.getPart_of_term();
+		ret += " Title: " + this.getTitle();
+		ret += " Days: " + this.getDays();
+		ret += " Time: " + this.getTime();
+		ret += " Cap: " + this.getCap();
+		ret += " Act: " + this.getAct();
+		ret += " Rem: " + this.getRem();
+		ret += " Instructor: " + this.getInstructor();
+		ret += " Date: " + this.getDate();
+		ret += " Location: " + this.getLocation();
+		ret += " Attribute: " + this.getAttribute();
+		ret += "\n";
+		return ret;
+	}
 
 
 

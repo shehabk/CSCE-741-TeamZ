@@ -15,10 +15,43 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 
+
+
 @RestController
 public class CourseController {
 	@Autowired
 	private CourseService courseService;
+	
+	
+	
+	//Loads driver
+	@RequestMapping("/loadDriver")
+	public String loadDriver(){
+		return courseService.loadDriver();
+	}
+	
+	
+	//Gets user's VIP credentials to login to my.sc.edu
+	@RequestMapping(method=RequestMethod.POST, value="/login")
+	public String login(@RequestBody Account credentials){
+		return courseService.login(credentials);
+
+	}
+	
+	@RequestMapping("/saveCourses/{sem}/{subj}")
+	public String saveCourses(@PathVariable String sem, @PathVariable String subj){
+		return courseService.saveCourses(sem, subj);
+
+	}
+	
+	
+	
+	//Saves all courses of my.sc.edu in H2 database
+	@RequestMapping("/saveAllCourses")
+	public String saveAllCourses(){
+		return courseService.saveAllCourses();
+	}
+	
 	
 //	This returns a list of all courses to the web client
 	@RequestMapping("/courses")
