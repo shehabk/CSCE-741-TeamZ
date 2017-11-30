@@ -1,6 +1,8 @@
 # CSCE-741-TeamZ
 
-USING MYSQL DATABASE:(https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line)
+
+
+## USING MYSQL DATABASE:(https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line)
 1) Install MySQL server. (remember the root password)
 2) Do "mysql -u root -p" in the terminal, which will prompt for the password
    use the password you set while installing.
