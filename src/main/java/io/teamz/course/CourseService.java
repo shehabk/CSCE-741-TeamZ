@@ -285,12 +285,12 @@ public class CourseService {
 							course.setLocation(driver.findElement(By.xpath(sectionPath+"//td[17]")).getText());
 							course.setAttribute(driver.findElement(By.xpath(sectionPath+"//td[18]")).getText());
 							
-							courses.add(course);
+//							courses.add(course);
 							//Save to H2 DB
 							courseRepository.save(course);
 							
 						}
-						System.out.print(course.toString());
+//						System.out.print(course.toString());
 					}
 					//After each section of a course has been recorded,
 					//navigate to the previous page to perform the same operation
