@@ -35,5 +35,11 @@
 	4) Quit the mysql terminal
 	5) Login as new user with "mysql -u teamz -p", use teamz as password
 	6) Create a database named teamz "CREATE DATABASE teamz;"
-
+##### Populate database with some pre-scraped data:
+	1) Download [this sql file](https://github.com/shehabk/CSCE-741-TeamZ/blob/master/data/course_small_n.sql) at 
+	your convenient location.
+	2) Navigate your terminal to that location using cd.
+	3) Login as user with "mysql -u teamz -p", use teamz as password
+	4) Do "source course_small_n.sql", this will create the course table and populate it with pre-scraped data from
+	CSCE Fall 17, CSCE Fall 18, BMEN Fall 17, ECHE Fall 17, ECIV Fall 17, ELCT Fall 17,EMCH Fall 17,MATH Fall 17.
 YOU are now set up to use MySQL database for this project.
