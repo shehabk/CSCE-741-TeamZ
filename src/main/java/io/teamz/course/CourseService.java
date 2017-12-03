@@ -247,7 +247,7 @@ public class CourseService {
 	//Scrapes all courses from a department
 	private List<Course> scrapeCourses(WebDriver driver, String sem){
 		List<Course> courses = new ArrayList<Course>();
-		long startTime = System.currentTimeMillis();
+		long startTime = System.nanoTime();
 		//Create a a nested while-loop
 		//The outer for-loop will iterate through each course of the dept
 		//The inner for-loop will iterate through each section of the course
@@ -378,8 +378,8 @@ public class CourseService {
 			//on the next course
 			driver.navigate().back();
 		}
-		long endTime = System.currentTimeMillis();
-		long duration = (endTime - startTime)/1000;
+		long endTime = System.nanoTime();
+		long duration = (endTime - startTime)/1000000000;
 		System.out.println("scrapeCourses took " + Long.toString(duration) + " seconds\n");
 		return courses;
 	}
