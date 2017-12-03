@@ -91,7 +91,7 @@ public class CourseService {
 			
 			try{
 				//Wait 30sec for user to grant DUO access through mobile device
-				driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+				driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 				
 				//SUCCESSFULLY LOGGED INTO MY.SC
 				driver.findElement(By.id("bmenu--P_StuMainMnu___UID1")).click();
@@ -390,8 +390,7 @@ public class CourseService {
 
 	    	  	Scanner scanner = new Scanner(listOfFiles[i]);
 		        while (scanner.hasNextLine()) {
-		        	++i_id ;
-		        	id = String.valueOf(i_id);
+		        	id = UUID.randomUUID().toString();
 		        	line = scanner.nextLine();	
 		        	holderCourseObject = new Course(line,id ,dept,semester) ;
 		        	addCourse(holderCourseObject);

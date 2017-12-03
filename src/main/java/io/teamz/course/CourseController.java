@@ -60,10 +60,10 @@ public class CourseController {
 	}
 //	This method reads the files from ./data and
 //	stores them into database.
-	@RequestMapping("/ReadFiles")
-	public void readAllCourses() {
+	@RequestMapping("/readFiles")
+	public String readAllCourses() {
 		courseService.readAllCourses();
-		return;
+		return "Data Loaded Successfully";
 	}
 
 //	This method writes the teaching summary to
