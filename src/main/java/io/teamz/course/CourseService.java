@@ -30,6 +30,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
+import io.teamz.course.Course;
 
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -129,7 +130,7 @@ public class CourseService {
 		//If the user has chosen a valid semester, continue with program
 		if(semValid){
 			semesterSelect.selectByValue(sem);
-			driver.findElement(By.id("id____UID8")).click();
+			driver.findElement(By.cssSelector("button[type='submit']")).click();
 		}else{
 			return "Semester input is invalid"; 
 		}
@@ -149,7 +150,7 @@ public class CourseService {
 		}
 		if(validSubj){
 			subjSelect.selectByValue(subj);
-			driver.findElement(By.id("id____UID6")).click();
+			driver.findElement(By.cssSelector("button[value='Course Search']")).click();
 		}else{
 			return "Subject entered is invalid";
 		}
@@ -164,140 +165,219 @@ public class CourseService {
 	
 	//Saves all of the courses in my.sc.edu
 	public String saveAllCourses(){
-		String status = "";
-		List<Course> courses = new ArrayList<Course>();
-		
-		//Loop through each semester
-		//Skip the first option of the Semester Select; "None"
-		Select semesterSelect = new Select(driver.findElement(By.id("term_input_id")));
-		List<WebElement> semesterOptions = semesterSelect.getOptions();
-		for (int i = 1; i < semesterOptions.size(); i++) {
-			System.out.println(i);
-			semesterSelect = new Select(driver.findElement(By.id("term_input_id")));
-			semesterSelect.selectByIndex(i);
-			String sem = semesterSelect.getFirstSelectedOption().getText();
+		//Saves all of the courses in my.sc.edu
+		//From Spring 2018 to Fall 2013. That's 14 semesters including
+		//summer semesters
+			long startTime = System.nanoTime();
+			String status = "";
+			List<Course> courses = new ArrayList<Course>();
 			
-			//Remove ' (View Only)' from any selection option text
-			String remove = " (View only)";
-			if(sem.contains(remove)){
-				sem = sem.replace(remove, "");		
-			}
-		
-			driver.findElement(By.id("id____UID8")).click();
-			
-			
-			//Select USC-Columbia campus
-			Select campus = new Select(driver.findElement(By.id("camp_id")));
-			campus.selectByValue("COL");
+			//Loop through each semester
+			//Skip the first option of the Semester Select; "None"
+			Select semesterSelect = new Select(driver.findElement(By.cssSelector("select#term_input_id")));
+			//driver.findElement(By.ByCssSelector)
+			List<WebElement> semesterOptions = semesterSelect.getOptions();
+			for (int i = 1; i < semesterOptions.size(); i++) {
+				driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
+				semesterSelect = new Select(driver.findElement(By.cssSelector("select#term_input_id")));
+				semesterSelect.selectByIndex(i);
+				String sem = semesterSelect.getFirstSelectedOption().getText();
 				
-			//Search each subject/department
-			Select subjSelect = new Select(driver.findElement(By.id("subj_id")));
-			List<WebElement> subjOptions = subjSelect.getOptions();
-			for (int j = 0; j < subjOptions.size(); j++) {
-				subjSelect = new Select(driver.findElement(By.id("subj_id")));
-				subjSelect.deselectAll();
-				subjSelect.selectByIndex(j);
-				driver.findElement(By.id("id____UID6")).click();
-				//scrapeCourses navigates back to department course listing when completed
-				courses.addAll(scrapeCourses(driver, sem));
-				//navigate back to department and campus listing
+				//Remove ' (View Only)' from any selection option text
+				String remove = " (View only)";
+				if(sem.contains(remove)){
+					sem = sem.replace(remove, "");		
+				}
+			
+				status = sem; 
+				driver.findElement(By.cssSelector("button[type='submit']")).click();
+				
+				//Wait 5sec for element to load
+				//driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+				
+				//Select USC-Columbia campus
+				Select campus = new Select(driver.findElement(By.cssSelector("select#camp_id")));
+				campus.selectByValue("COL");
+					
+				//Search each subject/department
+				Select subjSelect = new Select(driver.findElement(By.cssSelector("select#subj_id")));
+				List<WebElement> subjOptions = subjSelect.getOptions();
+				for (int j = 0; j < subjOptions.size(); j++) {
+					driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
+
+					subjSelect = new Select(driver.findElement(By.cssSelector("select#subj_id")));
+					subjSelect.deselectAll();
+					subjSelect.selectByIndex(j);
+					
+					//status = sem + 
+					System.out.println("Reached courses for " + sem + " in the " + 
+					subjSelect.getFirstSelectedOption().getText() + " department");
+					
+					//Find by text
+					driver.findElement(By.cssSelector("button[value='Course Search']")).click();
+					//Some departments don't have any courses listed. Due to this, only scrape 
+					//courses when there are courses listed
+					if(driver.findElements(By.xpath("(//button[@value='View Sections'])")).size() != 0){
+						//scrapeCourses navigates back to department course listing when completed
+						courses.addAll(scrapeCourses(driver, sem));
+					}else
+					{
+						//Don't scrape
+					}
+					
+					driver.navigate().back();
+					
+					//navigate back to department and campus listing
+				}
+			    status = "Courses for " + sem + " saved";
+			    
+			    driver.navigate().back();
 			}
-		    status = "Courses for " + sem + " saved";
-		    
-		    driver.navigate().back();
-		}
-		status = "All courses in my.sc.edu saved to database";
-		return status;
+			status = "All courses in my.sc.edu saved to database";
+			driver.close();
+			long endTime = System.nanoTime();
+			long duration = (endTime-startTime)/1000000000;
+			System.out.println("saveAllCourses took " + Long.toString(duration) + "seconds\n");
+			return status;
 	}
 	
 	//Scrapes all courses from a department
 	private List<Course> scrapeCourses(WebDriver driver, String sem){
 		List<Course> courses = new ArrayList<Course>();
+		long startTime = System.currentTimeMillis();
 		//Create a a nested while-loop
-				//The outer for-loop will iterate through each course of the dept
-				//The inner for-loop will iterate through each section of the course
-				//The inner for-loop will gather the data of each table row and save it 
-				//in a list of Course objects
-				List<WebElement> courseListings = driver.findElements(By.xpath("//tbody/tr[td/form/button]"));
-				List<WebElement> sectionListings;
-				
+		//The outer for-loop will iterate through each course of the dept
+		//The inner for-loop will iterate through each section of the course
+		//The inner for-loop will gather the data of each table row and save it 
+		//in a list of Course objects
+		
+		//Gather all Courses in a Subject/Department
+		List<WebElement> courseListings = driver.findElements(By.xpath("(//button[@value='View Sections'])"));	
 
-				//Loop through each course for that department
-				for(int i = 1; i <= courseListings.size(); i++){
-					String coursePath ="//tbody/tr[td/form/button]["+i+"]";
-					//Find and travel to each course page
-					driver.findElement(By.xpath(coursePath+"//td/form/button")).click();
+		//Loop through each course for that department/subject (Ex. CSCE 101 or CSCE 202)
+		for(int i = 1; i <= courseListings.size(); i++){
+			//String coursePath ="//tbody/tr[td/form/button]["+i+"]";
+			//Find and travel to each course page
+			driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
+			driver.findElement(By.xpath("(//button[@value='View Sections'])["+i+"]")).click();
 					
-					//Get number of sections in each course
-					sectionListings = driver.findElements(By.xpath("//tbody/tr[td/abbr]"));
-					//Create a backup in case we need additional information from a course
-					Course backup = null;
+			//Get number of sections in each course
+			List<WebElement> sectionListings = driver.findElements(By.xpath("(//table[@class='datadisplaytable']/tbody/tr)"));
+			int courseNum = 0;
+			//Create a backup in case we need additional information from a course
+			Course backup = null;
 					
-					//Create class object for every section in the course
-					for(int j = 1; j <= sectionListings.size(); j++){
-						//Initalize Course object
-						String sectionPath = "//tbody/tr[td/abbr]["+j+"]";
-						Course course = new Course();
-						
-						//If there is a new CRN, we don't need a backup 
-						//because that indicates a new section
-						if(driver.findElements(By.xpath(sectionPath+"/td[2]/a")).size() > 0){					
-							backup = null;
-						}
-						//If there is no backup, then it's a new section
-						if(backup == null){
-							course.setId(UUID.randomUUID().toString());
-							course.setDept(driver.findElement(By.xpath(sectionPath+"//td[3]")).getText());
-							course.setSemester(sem);
-							course.setSelection(driver.findElement(By.xpath(sectionPath+"//td[1]")).getText());
-							course.setCrn(driver.findElement(By.xpath(sectionPath+"//td[2]/a")).getText());
-							course.setSubj(driver.findElement(By.xpath(sectionPath+"//td[3]")).getText());
-							course.setCrse(driver.findElement(By.xpath(sectionPath+"//td[4]")).getText());
-							course.setSec(driver.findElement(By.xpath(sectionPath+"//td[5]")).getText());
-							course.setCmp(driver.findElement(By.xpath(sectionPath+"//td[6]")).getText());
-							course.setCred(driver.findElement(By.xpath(sectionPath+"//td[7]")).getText());
-							course.setPart_of_term(driver.findElement(By.xpath(sectionPath+"//td[8]")).getText());
-							course.setTitle(driver.findElement(By.xpath(sectionPath+"//td[9]")).getText());
-							course.setDays(driver.findElement(By.xpath(sectionPath+"//td[10]")).getText());
-							course.setTime(driver.findElement(By.xpath(sectionPath+"//td[11]")).getText());
-							course.setCap(driver.findElement(By.xpath(sectionPath+"//td[12]")).getText());
-							course.setAct(driver.findElement(By.xpath(sectionPath+"//td[13]")).getText());
-							course.setRem(driver.findElement(By.xpath(sectionPath+"//td[14]")).getText());
-							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[15]/abbr")).getText());
-							course.setDate(driver.findElement(By.xpath(sectionPath+"//td[16]")).getText());
-							course.setLocation(driver.findElement(By.xpath(sectionPath+"//td[17]")).getText());
-							course.setAttribute(driver.findElement(By.xpath(sectionPath+"//td[18]")).getText());				
-							
-							courses.add(course);
-							//Save to H2 DB
-							courseRepository.save(course);
-							backup = course;
-						}
-						//If there is a backup, it's a continuation
-						//of a section
-						else{
-							course = backup;
-							course.setId(UUID.randomUUID().toString());
-							course.setDays(driver.findElement(By.xpath(sectionPath+"//td[10]")).getText());
-							course.setTime(driver.findElement(By.xpath(sectionPath+"//td[11]")).getText());
-							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[15]/abbr")).getText());
-							course.setDate(driver.findElement(By.xpath(sectionPath+"//td[16]")).getText());
-							course.setLocation(driver.findElement(By.xpath(sectionPath+"//td[17]")).getText());
-							course.setAttribute(driver.findElement(By.xpath(sectionPath+"//td[18]")).getText());
-							
-//							courses.add(course);
-							//Save to H2 DB
-							courseRepository.save(course);
-							
-						}
-//						System.out.print(course.toString());
-					}
-					//After each section of a course has been recorded,
-					//navigate to the previous page to perform the same operation
-					//on the next course
-					driver.navigate().back();
-				}
+			//Create class object for every section in the course
+			//The first two rows of the table are headers. So skip to the third row
+			for(int j = 3; j <= sectionListings.size(); j++){
 				
+				//Initalize Course object
+				String sectionPath = "(//table[@class='datadisplaytable']/tbody/tr)["+j+"]";
+				List<WebElement> dataCols = driver.findElements(By.xpath(sectionPath +"/td"));
+				Course course = new Course();
+				
+				//If there is a new CRN, we don't need a backup 
+				//because that indicates a new section
+				//Without setting the implicit wait for the driver, searching for an
+				//non-existing element would take minutes
+				driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
+				if(driver.findElements(By.xpath(sectionPath+"/td[2]/a")).size() != 0){					
+					backup = null;
+				}
+				//If there is no backup, then it's a new section
+				if(backup == null){
+					courseNum=1;	
+					course.setDept(driver.findElement(By.xpath(sectionPath+"//td[3]")).getText());
+					course.setSemester(sem);
+					course.setSelection(driver.findElement(By.xpath(sectionPath+"//td[1]")).getText());
+					course.setCrn(driver.findElement(By.xpath(sectionPath+"//td[2]/a")).getText());
+					course.setSubj(driver.findElement(By.xpath(sectionPath+"//td[3]")).getText());
+					course.setCrse(driver.findElement(By.xpath(sectionPath+"//td[4]")).getText());
+					course.setSec(driver.findElement(By.xpath(sectionPath+"//td[5]")).getText());
+					course.setCmp(driver.findElement(By.xpath(sectionPath+"//td[6]")).getText());
+					course.setCred(driver.findElement(By.xpath(sectionPath+"//td[7]")).getText());
+					course.setPart_of_term(driver.findElement(By.xpath(sectionPath+"//td[8]")).getText());
+					course.setTitle(driver.findElement(By.xpath(sectionPath+"//td[9]")).getText());
+					//If some courses, the Time column is empty so there are only 17 data columns per course
+					//Examples include Spring 2018's AFAM 399 course
+					if(dataCols.size() == 17){
+						course.setDays(driver.findElement(By.xpath(sectionPath+"//td[10]/abbr")).getText());
+						course.setTime("");
+						course.setCap(driver.findElement(By.xpath(sectionPath+"//td[11]")).getText());
+						course.setAct(driver.findElement(By.xpath(sectionPath+"//td[12]")).getText());
+						course.setRem(driver.findElement(By.xpath(sectionPath+"//td[13]")).getText());
+						//Most data that defines the instructor is found by the xpath td/abbr
+						//However, some data that dfines the instructor is found by the xpath td
+						//If the text is in the td element, grab it from there
+						if(driver.findElement(By.xpath(sectionPath+"//td[14]")).getText().length() != 0){
+							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[14]")).getText());
+
+						}
+						//Otherwise, grab it from td/abbr
+						else{
+							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[14]/abbr")).getText());
+						}
+						course.setDate(driver.findElement(By.xpath(sectionPath+"//td[15]")).getText());
+						course.setLocation(driver.findElement(By.xpath(sectionPath+"//td[16]")).getText());
+						course.setAttribute(driver.findElement(By.xpath(sectionPath+"//td[17]")).getText());				
+
+					}//Most courses have 18 data columns per section
+					else{
+						course.setDays(driver.findElement(By.xpath(sectionPath+"//td[10]")).getText());
+						course.setTime(driver.findElement(By.xpath(sectionPath+"//td[11]")).getText());
+						course.setCap(driver.findElement(By.xpath(sectionPath+"//td[12]")).getText());
+						course.setAct(driver.findElement(By.xpath(sectionPath+"//td[13]")).getText());
+						course.setRem(driver.findElement(By.xpath(sectionPath+"//td[14]")).getText());
+						if(driver.findElement(By.xpath(sectionPath+"//td[15]")).getText().length() != 0){
+							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[15]")).getText());
+
+						}else{
+							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[15]/abbr")).getText());
+						}
+						course.setDate(driver.findElement(By.xpath(sectionPath+"//td[16]")).getText());
+						course.setLocation(driver.findElement(By.xpath(sectionPath+"//td[17]")).getText());
+						course.setAttribute(driver.findElement(By.xpath(sectionPath+"//td[18]")).getText());
+					}
+				
+					String id = sem +course.getSubj() + course.getCrse() + course.getSec() + "-" + Integer.toString(courseNum);	
+					
+					course.setId(id);
+					courses.add(course);
+					//Save to H2 DB
+					courseRepository.save(course);
+					backup = course;
+				}
+				//If there is a backup, it's a continuation
+				//of a section
+				else{
+					courseNum++;
+					course = backup;
+					course.setDays(driver.findElement(By.xpath(sectionPath+"//td[10]")).getText());
+					course.setTime(driver.findElement(By.xpath(sectionPath+"//td[11]")).getText());
+					if(driver.findElement(By.xpath(sectionPath+"//td[15]")).getText().length() != 0){
+						course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[15]")).getText());
+					}else{
+						course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[15]/abbr")).getText());
+					}
+					course.setDate(driver.findElement(By.xpath(sectionPath+"//td[16]")).getText());
+					course.setLocation(driver.findElement(By.xpath(sectionPath+"//td[17]")).getText());
+					course.setAttribute(driver.findElement(By.xpath(sectionPath+"//td[18]")).getText());
+					String id = sem +course.getSubj() + course.getCrse() +course.getSec() +"-" + Integer.toString(courseNum);	
+					course.setId(id);
+					courses.add(course);
+					//Save to H2 DB
+					courseRepository.save(course);
+				}
+				System.out.print("Course " + course.getId() + " has been saved.\n");
+			}
+			//After each section of a course has been recorded,
+			//navigate to the previous page to perform the same operation
+			//on the next course
+			driver.navigate().back();
+		}
+		long endTime = System.currentTimeMillis();
+		long duration = (endTime - startTime)/1000;
+		System.out.println("scrapeCourses took " + Long.toString(duration) + " seconds\n");
 		return courses;
 	}
 
