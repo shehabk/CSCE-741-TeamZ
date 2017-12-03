@@ -156,7 +156,10 @@ public class CourseService {
 		}
 		
 		courses = scrapeCourses(driver, sem);
-		driver.close();
+		driver.navigate().back();
+		driver.navigate().back();
+		
+//		driver.close();
 		status = "Courses successfully saved to database";
 		
 		return status;
