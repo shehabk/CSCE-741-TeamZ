@@ -4,40 +4,14 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import cucumber.api.java.en.And;
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThat;
-
-
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.web.client.TestRestTemplate;
-import org.springframework.http.HttpMethod;
-import org.springframework.http.ResponseEntity;
-import org.springframework.test.context.ContextConfiguration;
-
-import com.gargoylesoftware.htmlunit.javascript.host.fetch.Response;
-
-import ch.qos.logback.classic.Logger;
-
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.HttpClientBuilder;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import io.restassured.response.*;
 import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
 import io.teamz.course.Account;
-import io.teamz.course.CourseRepository;
-import io.teamz.course.CourseService;
-import org.springframework.http.HttpStatus;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+
 
 public class cucumberTestStep {
-	
+
+///scenario simple test example to see whether cucumber integrate to STS successfully
 	private Account a;
 	@Given("^I have an Account$")
 	public void i_have_an_Account() throws Throwable{
@@ -57,26 +31,59 @@ public class cucumberTestStep {
 		assertEquals(apass, a.getPass());
 	}
 	
-  
+  /////scenario test for loading web driver
   io.restassured.response.Response response;
+ 
   @Given("^the api is running on localhost8080")
   public void the_api_is_running_on_localhost8080() throws Throwable{
 	  RestAssured.baseURI="http://localhost:8080/";
   }
+ 
   @When("^the user perform a get request for loadDriver$")
    public void the_user_perform_a_get_request_for_loadDriver() throws Throwable{
-	  //RestAssured.baseURI="http://localhost:8080/";
+	
 	  RequestSpecification httpRequest = RestAssured.given();
 	  response =httpRequest.get("/loadDriver/");
 	// System.out.println("Response Body is =>  " + response.asString());
    }
-   @Then("^user should see the response from the webpage (.*)$")
+   
+  @Then("^user should see the response from the webpage (.*)$")
    public void user_should_see_the_response_from_the__webpage(String msg) {
 	   
 	   assertEquals(response.asString(),msg);
 	   
-	   
+	}
+
+  //////scenario for testing the credential login to my.sc.edu
+  private String userName;
+  private String passWord;
+  String postbody;
+  
+  @Given("^the web driver is loaded successfully$")
+  public void the_web_driver_is_loaded_successfully()throws Throwable {
+	  RestAssured.baseURI="http://localhost:8080/";
+	
+  }
+  
+  @And("^the user set the username to be (.*) and password to be (.*)$")
+  public void the_user_set_the_username_and_password_to_be(String usrname, String password)throws Throwable {
+	  userName=usrname;
+	  passWord=password;
+	  postbody="{\"username\":\""+userName+"\",\"pass\":\""+passWord+"\"}";
    }
-   
+  
+  @When("^the user send the post request$")
+  public void the_user_send_a_post_request()throws Throwable{
+	  //RequestSpecification httpRequest=RestAssured.given().contentType("application/json").body("{\"username\":\"00372484\",\"pass\":\"Li*****\"}");
+	  RequestSpecification httpRequest=RestAssured.given().contentType("application/json").body(postbody);
+	  response=httpRequest.post("/login/");
+	  System.out.println("Response Body is =>  " + response.asString()); 
+  }
+  @Then("^user should see the pass duo request on their phone and will see (.*)$")
+  public void user_shoud_see_the_webpage_response(String msg) throws Throwable{
+	  assertEquals(response.asString(),msg);
+  }
+
+  
 
 }
