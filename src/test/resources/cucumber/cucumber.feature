@@ -17,7 +17,7 @@ Scenario: set username and pass for an Account
   
   Scenario: login
   Given the web driver is loaded successfully
-  And the user set the username to be 0037**** and password to be Li****
+  And the user set the username to be a*** and password to be pswr***
   When the user send the post request
   Then user should see the pass duo request on their phone and will see Successfully logged into my.sc.edu!
   

@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 
-
+@CrossOrigin()
 @RestController
 public class CourseController {
 	@Autowired
@@ -55,7 +55,7 @@ public class CourseController {
 	
 	
 //	This returns a list of all courses to the web client
-	@CrossOrigin
+	
 	@RequestMapping("/courses")
 	public List<Course> getAllCourses() {
 		return courseService.getAllCourses();
@@ -98,7 +98,7 @@ public class CourseController {
 		return courseService.getCourse(id);
 	}
 	
-	@CrossOrigin
+	
 	@RequestMapping(method=RequestMethod.POST, value= "/courses")
 	public void addCourse(@RequestBody Course course) {
 		courseService.addCourse(course);
