@@ -5,30 +5,39 @@
   <h1>
     Welcome to {{title}}!
   </h1>
-  <img width="300" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+  <div style="text-align:left">
+  This is the Angular Client application for Team Z, CSCE 741, Fall 2018<br>
+  <ul>
+    <li>Allen Bates</li>
+    <li>Ahmed Khan</li>
+    <li>Zhiyuan Li</li>
+    <li>Justin McCreary</li>
+    <li>Rick Stroud</li>
+  </ul>
+  </div>
+  <!-- No need to display the big Angular logo -->
+  <!-- <img width="300" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg=="> -->
 </div>
-<hr>
+<b>US-Task-02</b> is as stated below.<br>
+TASK: Move functionality to client side from Server side<br>
+- Have server side return sections for given semester.<br>
+- Write Angular 4 to print summaries for each dept.<br>
+- Write Angular 4 to print summaries for each faculty in a particular dept.<br>
+<br>
+On initialization, this Angular client loads the complete list of courses from the<br>
+server's ReST service by calling /courses. As required by "Task 5", methods were<br>
+implemented in the Angular client to compute the dept and faculty summaires locally,<br>
+without making return calls to the ReST service. See results listed below.<br>
 <br>
 
-<!--
-  <h2>My list of summaries:</h2>
-  <p>Department Summaries:</p>
-<ul>
-  <li *ngFor="let summary of summaryArray">
-    {{ summary.subject }}
-    {{ summary.instructor }}
-    {{ summary.courseTot }}
-    {{ summary.studentTot }}
-    {{ summary.studentCreditHoursTot }}
-    {{ summary.fte }}
-    </li>
-</ul>
--->
+<!-- The summary dept data was computed on initialization from full /course data retrireved from server -->
+<!-- See app.component.ts for this code. -->
 <hr>
 <h2>My list of Computed Summaries by Dept:</h2>
 <ul>
   <li *ngFor="let summary of computedDeptSummaryArray">
     <b>Dept:</b> {{ summary.dept }},
+    <!-- Instructor not needed for Dept summary -->
     <!-- <b>Instrutor: </b>{{ summary.instructor }}, -->
     <b>#Sections: </b>{{ summary.sectionTot  | number:'1.0-0'}},
     <b>#Students: </b>{{ summary.studentTot  | number:'1.0-0'}},
@@ -38,6 +47,8 @@
 </ul>
 <hr>
 
+<!-- The summary instructor data was computed on initialization from full /course data retrireved from server -->
+<!-- See app.component.ts for this code. -->
 <h2>My list of Computed Summaries by Instructor:</h2>
 <ul>
   <li *ngFor="let summary of computedInstructorSummaryArray">
@@ -50,34 +61,3 @@
     </li>
 </ul>
 <hr>
-
-<!-- 
-<h2>My list of courses:</h2>
-<p>Courses:</p>
-<ul>
-  <li *ngFor="let course of courseArray">
-    {{ course.id }}
-    {{ course.dept }}
-    {{ course.semester }}
-    {{ course.crn }}
-    {{ course.subj }}
-    {{ course.crse }}
-    {{ course.sec }}
-    {{ course.cmp }}
-    {{ course.credits }}
-    {{ course.part_of_term }}
-    {{ course.title }}
-    {{ course.days }}
-    {{ course.time }}
-    {{ course.cap }}
-    {{ course.act }}
-    {{ course.rem }}
-    {{ course.instructor }}
-    {{ course.date }}
-    {{ course.location }}
-    {{ course.attribute }}
-    {{ course.select }}
-    </li>
-</ul>
--->
-

@@ -42,6 +42,7 @@ interface Course {
   crse: string,
   sec: string,
   cmp: string,
+  // Note - Change name of property and datatype from number to string to match integrated code.
   //credits: number,
   cred: string,
   part_of_term: string,
@@ -49,6 +50,7 @@ interface Course {
   days: string,
   time: string,
   cap: string,
+  // Note - Change name of property and datatype from number to string to match integrated code.
   //act: number,
   //rem: number,
   act: string,
@@ -82,48 +84,6 @@ export class AppComponent implements OnInit {
 
   }
   
-  /*
-  computeInstructorSummaryArray(uniqueDeptArray, uniqueInstructorArray) {
-    var myArray = new Array<Summary>();
-    
-    for (var i = 0; i < uniqueInstructorArray.length; i++) {
-
-      for(var h = 0; h < uniqueDeptArray.length; h++) {
-
-        for(var j = 0; j < this.courseArray.length; j++) {
-          if ((uniqueInstructorArray[i].instructor == this.courseArray[j].instructor) && (uniqueDeptArray[h].dept == this.courseArray[j].dept)) {
-
-            var tempSummary = new Summary();
-            tempSummary.instructor = uniqueInstructorArray[i].instructor;
-            tempSummary.dept = uniqueDeptArray[h].dept;
-    
-            myArray[myArray.length] = tempSummary;
-            myArray[i].sectionTot++;
-
-            var actNum = Number(this.courseArray[j].act);
-            myArray[i].studentTot = myArray[i].studentTot + actNum;
-            
-            var credNum: Number;
-            if(!isNaN(Number(this.courseArray[j].cred)))
-              credNum = Number(this.courseArray[j].cred);
-            else
-              credNum = 1;
-
-            myArray[i].studentCreditHoursTot = myArray[i].studentCreditHoursTot + (credNum * actNum);
-          }
-        }
-        myArray[i].fte = myArray[i].studentCreditHoursTot / 15;
-
-      }
-    }
-  
-
-    //for(var i = 0; i < myArray.length; i++)
-    //  console.log(myArray[i].instructor);
-
-    this.computedInstructorSummaryArray = myArray;
-}
-*/
 computeInstructorSummaryArray(uniqueInstructorArray) {
   
       var myArray = new Array<Summary>();
@@ -143,12 +103,12 @@ computeInstructorSummaryArray(uniqueInstructorArray) {
               var actNum = Number(this.courseArray[j].act);
               myArray[i].studentTot = myArray[i].studentTot + actNum;
               
-              var credNum: Number;
+              var credNum: number;
               if(!isNaN(Number(this.courseArray[j].cred)))
                 credNum = Number(this.courseArray[j].cred);
               else
                 credNum = 1;
-  
+              
               myArray[i].studentCreditHoursTot = myArray[i].studentCreditHoursTot + (credNum * actNum);
             }
           }
@@ -156,6 +116,7 @@ computeInstructorSummaryArray(uniqueInstructorArray) {
           myArray[i].fte = myArray[i].studentCreditHoursTot / 15;
         }
   
+        // DEBUG code to list summary
         //for(var i = 0; i < myArray.length; i++)
         //  console.log(myArray[i].dept);
   
@@ -170,7 +131,6 @@ computeInstructorSummaryArray(uniqueInstructorArray) {
     for (var i = 0; i < uniqueDeptArray.length; i++) {
         var tempSummary = new Summary();
         tempSummary.dept = uniqueDeptArray[i].dept;
-        //console.log(tempSummary.dept);
 
         myArray[myArray.length] = tempSummary;
 
@@ -181,7 +141,7 @@ computeInstructorSummaryArray(uniqueInstructorArray) {
             var actNum = Number(this.courseArray[j].act);
             myArray[i].studentTot = myArray[i].studentTot + actNum;
             
-            var credNum: Number;
+            var credNum: number;
             if(!isNaN(Number(this.courseArray[j].cred)))
               credNum = Number(this.courseArray[j].cred);
             else
@@ -194,6 +154,7 @@ computeInstructorSummaryArray(uniqueInstructorArray) {
         myArray[i].fte = myArray[i].studentCreditHoursTot / 15;
       }
 
+      // DEBUG code to list summary
       //for(var i = 0; i < myArray.length; i++)
       //  console.log(myArray[i].dept);
 
@@ -203,14 +164,25 @@ computeInstructorSummaryArray(uniqueInstructorArray) {
 
   ngOnInit(): void {
     
+      // Use the httpClient to make a call to get all the courses on initialization.
+      // Note - This requires the Server code to allow Cross Origin Access. The simplest
+      // way to accomlish this is for the ReST Controller to add the line @CrossOrigin.
       this.http.get<Course[]>('http://localhost:8080/courses').subscribe(data => {
-        
+
+        // All course (section) data now exists in the data construct, move to courseArray.
         this.courseArray = data;
-        
+
+        // Next summarize that raw data by dept & by instructor for later display.
+
+        // Summarize on the client side by dept.
+        // This data should match the data on the server side when browsing the URL below:
+        // http://localhost:8080//teachingSummarybyDept
         this.uniqueCourseArrayByDept = _.uniqBy(this.courseArray, 'dept');
         this.computeDeptSummaryArray(this.uniqueCourseArrayByDept);
 
-
+        // Summarize on the client side by instrutor.
+        // This should match the data on the server side when browsing the URL below:
+        //http://localhost:8080//teachingSummary
         this.uniqueCourseArrayByInstructor = _.uniqBy(this.courseArray, v => JSON.stringify([v.dept, v.instructor]));
         this.computeInstructorSummaryArray(this.uniqueCourseArrayByInstructor);
       });
