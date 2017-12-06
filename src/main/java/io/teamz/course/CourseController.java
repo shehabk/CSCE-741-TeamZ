@@ -31,7 +31,7 @@ public class CourseController {
 		return courseService.loadDriver();
 	}
 	
-	 
+	
 	//Gets user's VIP credentials to login to my.sc.edu
 	@RequestMapping(method=RequestMethod.POST, value="/login")
 	public String login(@RequestBody Account credentials){
@@ -55,6 +55,7 @@ public class CourseController {
 	
 	
 //	This returns a list of all courses to the web client
+	@CrossOrigin
 	@RequestMapping("/courses")
 	public List<Course> getAllCourses() {
 		return courseService.getAllCourses();
