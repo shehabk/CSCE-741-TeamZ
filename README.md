@@ -47,5 +47,18 @@ YOU are now set up to use MySQL database for this project.
 
 
 #### USING CUCUMBER TESTING:
-	1) sfgsdfgsdfg
-	2) sdfgsdfgsdfgsdf
+	1) The cucumber staff is located at src/test folder.
+	   src/test/java/cucumberRunner/RunCucumberTest.java is the Runner for cucumber test
+	   src/test/java/cucumbersteps/cucumberTestStep.java is the step definition which map the feature file in real code to            be excuted
+	   src/test/resources/cucumber/cucumber.feature  is the feature file where the test scenarios are written in Gherkin 
+	2) There are currently 3 scenarios in cucumber test. 
+	   1. A simple test case showing every file and dependencies are in their right place to integrate to STS
+	   2. Given the api is running at localhost8080, when the user perform a get request of /loadDriver, the web driver                 should be loaded successfully
+	   3. Given web driver is loaded successfully, when the user perform a post request of their username and pass to the               path /login, it should successfully login to my.sc.edu
+	3) To run the cucumber test, 
+	   1. run the api
+	   2. right click at the root folder of the final project, run as maven test, and all the test scenarios will be run                 automatically
+	   3. In order to login to my.sc.edu, before running the cucumber test, you should first edit the .feature file                     scenario #3 of the username and password part to be your real username and pass, or this step will fail in the                 test.
+	4)  You can see the testing result at the console 
+	    And a good looking format report located at target/cucumber/index.html 
+	    after runing the cucumber test
