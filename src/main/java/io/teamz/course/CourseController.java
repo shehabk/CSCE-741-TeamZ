@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -96,6 +97,7 @@ public class CourseController {
 		return courseService.getCourse(id);
 	}
 	
+	@CrossOrigin
 	@RequestMapping(method=RequestMethod.POST, value= "/courses")
 	public void addCourse(@RequestBody Course course) {
 		courseService.addCourse(course);
