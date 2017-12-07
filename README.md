@@ -3,7 +3,9 @@
 #### Using Selenium:
 	1) Make sure you downloaded the chrome driver and the exePath in loadDriver() method 
 	of CourseService class is correct.
-	2) Make sure you have setup duo activation on your account.
+	2) Make sure you have setup duo activation on your account. This includes having the
+	DUO Security app installed on your mobile device and having the app configured with
+	your my.sc.edu account.
 	3) Run the project and do GET request to http://localhost:8080/loadDriver , 
 	this will load the driver.
 	4) The next step is to send a POST request to http://localhost:8080/login, and the body 
