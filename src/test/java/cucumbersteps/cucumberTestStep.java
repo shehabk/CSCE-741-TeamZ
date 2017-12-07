@@ -83,6 +83,20 @@ public class cucumberTestStep {
   public void user_shoud_see_the_webpage_response(String msg) throws Throwable{
 	  assertEquals(response.asString(),msg);
   }
+  //////scenario for testing save courses 
+  @Given("^the user successfully login to my.sc.edu")
+  public void the_user_successfully_login_to_myscedu() throws Throwable{
+	  
+  }
+  @And("the user send a get request to localhost /saveCourses/Spring2018/CSCE")
+  public void the_user_send_request_to_saveCourse() throws Throwable {
+	  RestAssured.baseURI="http://localhost:8080/";
+
+	  RequestSpecification httpRequest = RestAssured.given();
+	  response =httpRequest.get("//saveCourses/Spring 2018/CSCE/");
+	  System.out.println("Response Body is =>  " + response.asString());
+  }
+  
 
   
 
