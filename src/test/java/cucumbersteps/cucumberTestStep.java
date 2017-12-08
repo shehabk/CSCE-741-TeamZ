@@ -10,8 +10,10 @@ import io.teamz.course.Account;
 
 
 public class cucumberTestStep {
+ String web_driver_msg="";
+ String login_msg="";
 
-///scenario simple test example to see whether cucumber integrate to STS successfully
+ ///scenario simple test example to see whether cucumber integrate to STS successfully
 	private Account a;
 	@Given("^I have an Account$")
 	public void i_have_an_Account() throws Throwable{
@@ -30,7 +32,7 @@ public class cucumberTestStep {
 		assertEquals(aUsr,a.getUsername());
 		assertEquals(apass, a.getPass());
 	}
-	
+	   
   /////scenario test for loading web driver
   io.restassured.response.Response response;
  
@@ -43,8 +45,12 @@ public class cucumberTestStep {
    public void the_user_perform_a_get_request_for_loadDriver() throws Throwable{
 	
 	  RequestSpecification httpRequest = RestAssured.given();
-	  response =httpRequest.get("/loadDriver/");
-	// System.out.println("Response Body is =>  " + response.asString());
+	  String g="/loadDriver";
+	  //response =httpRequest.get("/loadDriver/");
+	  response =httpRequest.get(g);
+	System.out.println("Response Body is =>  " + response.asString());
+	System.out.println(response.getStatusLine());
+	web_driver_msg=response.asString();
    }
    
   @Then("^user should see the response from the webpage (.*)$")
@@ -61,8 +67,9 @@ public class cucumberTestStep {
   
   @Given("^the web driver is loaded successfully$")
   public void the_web_driver_is_loaded_successfully()throws Throwable {
-	  RestAssured.baseURI="http://localhost:8080/";
-	
+	 // RestAssured.baseURI="http://localhost:8080/";
+	  
+	//  assertEquals(response.asString(),web_driver_msg);
   }
   
   @And("^the user set the username to be (.*) and password to be (.*)$")
@@ -78,26 +85,65 @@ public class cucumberTestStep {
 	  RequestSpecification httpRequest=RestAssured.given().contentType("application/json").body(postbody);
 	  response=httpRequest.post("/login/");
 	  System.out.println("Response Body is =>  " + response.asString()); 
+	  System.out.println(response.getStatusLine());
+	  login_msg=response.asString();
   }
   @Then("^user should see the pass duo request on their phone and will see (.*)$")
   public void user_shoud_see_the_webpage_response(String msg) throws Throwable{
 	  assertEquals(response.asString(),msg);
-  }
-  //////scenario for testing save courses 
-  @Given("^the user successfully login to my.sc.edu")
-  public void the_user_successfully_login_to_myscedu() throws Throwable{
 	  
   }
-  @And("the user send a get request to localhost /saveCourses/Spring2018/CSCE")
+  
+  
+  //////scenario for testing save all courses 
+  @Given("^the user successfully login to my.sc.edu$")
+  public void the_user_successfully_login_to_myscedu() throws Throwable{
+	 
+	  //assertEquals(response.asString(),login_msg);
+  }
+ 
+  @And("the user send a get request to localhost /saveAllCourses$")
   public void the_user_send_request_to_saveCourse() throws Throwable {
-	  RestAssured.baseURI="http://localhost:8080/";
+	 // RestAssured.baseURI="http://localhost:8080";
 
 	  RequestSpecification httpRequest = RestAssured.given();
-	  response =httpRequest.get("//saveCourses/Spring 2018/CSCE/");
+	  
+	  response =httpRequest.get("/saveAllCourses");
+	  response =httpRequest.get("/saveCourses/Spring 2018/CSCE$");
+	 
 	  System.out.println("Response Body is =>  " + response.asString());
   }
   
-
+   @Then("^all of the courses should be saved$")
+   public void the_user_should_see_courses_satrt_saving()throws Throwable{
+	  String msg= "All courses in my.sc.edu saved to database";
+	  assertEquals(response.asString(),msg);
+   }
+ 
+  
+   
+   //////scenario for testing save certain courses 
+   @Given("^the user login to my.sc.edu$")
+   public void the_user_login_to_myscedu() throws Throwable{
+ 	 
+ 	  //assertEquals(response.asString(),login_msg);
+   }
+   
+   @And("the user send a get request to localhost /saveCourses/(.*)/(.*)$")
+   public void the_user_send_request_to_saveCourse(String msg1, String msg2) throws Throwable {
+ 	 
+     RequestSpecification httpRequest = RestAssured.given();
+ 	 String getrequest="/saveCourses/"+msg1+"/"+msg2;
+ 	//response =httpRequest.get("/saveCourses/Spring 2018/CSCE");
+ 	response =httpRequest.get(getrequest);
+ 	System.out.println("Response Body is =>  " + response.asString());
+   }
+   
+    @Then("^chosen courses should be saved$")
+    public void chosen_courses_satrt_saving()throws Throwable{
+ 	  String msg= "Courses successfully saved to database";
+ 	  assertEquals(response.asString(),msg);
+    }
   
 
 }

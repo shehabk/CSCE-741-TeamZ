@@ -9,18 +9,34 @@ Scenario: set username and pass for an Account
   And I set password as li
   Then the account should have the user Name as zhiyuan and password as li
   
+ 
  Scenario: load the web driver
-    Given the api is running on localhost8080
-    When the user perform a get request for loadDriver
+  Given the api is running on localhost8080
+  When the user perform a get request for loadDriver
  	Then user should see the response from the webpage Webdriver successfully loaded
  	
   
-  Scenario: login
+  
+ Scenario: login
   Given the web driver is loaded successfully
-  And the user set the username to be 00** and password to be 888***
+  And the user set the username to be 0****4 and password to be L******1
   When the user send the post request
   Then user should see the pass duo request on their phone and will see Successfully logged into my.sc.edu!
   
-  Scenario: for testing save courses  
+  
+
+
+Scenario for testing save all courses 
   Given the user successfully login to my.sc.edu
-  And the user send a get request to localhost /saveCourses/Spring2018/CSCE
+  And the user send a get request to localhost /saveAllCourses
+  Then all of the courses should be saved
+
+  
+
+
+  Scenario: for testing save certain courses  
+  Given the user login to my.sc.edu
+  And the user send a get request to localhost /saveCourses/Spring 2018/CSCE
+  Then chosen courses should be saved
+
+
