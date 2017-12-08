@@ -26,7 +26,7 @@ Scenario: set username and pass for an Account
   
 
 
-Scenario for testing save all courses 
+Scenario: for testing save all courses 
   Given the user successfully login to my.sc.edu
   And the user send a get request to localhost /saveAllCourses
   Then all of the courses should be saved
@@ -34,7 +34,7 @@ Scenario for testing save all courses
   
 
 
-  Scenario: for testing save certain courses  
+Scenario: for testing save certain courses  
   Given the user login to my.sc.edu
   And the user send a get request to localhost /saveCourses/Spring 2018/CSCE
   Then chosen courses should be saved
