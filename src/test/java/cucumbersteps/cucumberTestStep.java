@@ -109,7 +109,7 @@ public class cucumberTestStep {
 	  RequestSpecification httpRequest = RestAssured.given();
 	  
 	  response =httpRequest.get("/saveAllCourses");
-	  response =httpRequest.get("/saveCourses/Spring 2018/CSCE$");
+//	  response =httpRequest.get("/saveCourses/Spring 2018/CSCE$");
 	 
 	  System.out.println("Response Body is =>  " + response.asString());
   }
