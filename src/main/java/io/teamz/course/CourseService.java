@@ -57,7 +57,7 @@ public class CourseService {
 		//If OS is Linux, use Linux executable
 		if(SystemUtils.IS_OS_LINUX){
 			System.out.println("Linux OS");
-			exePath = "\\data\\linux_chromedriver";
+			exePath = "./data/linux_chromedriver64";
 		}
 		//Else if OS is Windows, use Windows executable
 		else if(SystemUtils.IS_OS_WINDOWS){
