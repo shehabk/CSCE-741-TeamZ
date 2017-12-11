@@ -57,7 +57,7 @@ public class CourseService {
 		//If OS is Linux, use Linux executable
 		if(SystemUtils.IS_OS_LINUX){
 			System.out.println("Linux OS");
-			exePath = "./data/linux_chromedriver64";
+			exePath = "./data/linux_chromedriver";
 		}
 		//Else if OS is Windows, use Windows executable
 		else if(SystemUtils.IS_OS_WINDOWS){
@@ -67,7 +67,7 @@ public class CourseService {
 		//Assume OS is MAC_OS
 		else{
 			System.out.println("MAC OS");
-		    exePath ="\\data\\mac_chromedriver";
+		    exePath ="./data/mac_chromedriver";
 		}
 		//Set the property of the web driver's chrome driver to the executable's path
 		System.setProperty("webdriver.chrome.driver", exePath);
