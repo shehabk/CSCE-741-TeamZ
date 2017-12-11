@@ -45,9 +45,9 @@ This may be accomplished by following the steps below:
 
 Populating the Database
 =======================
-When task #3 is performed the MySC website will be scraped by Selenium to load the entire published course catalog for USC. This is a very time consuming process.
+When task #3 is performed the MySC website will be scraped by Selenium to load the entire published course catalog for USC. This can be a very time consuming process.
 
-Alternatively, a SQL script has been provided with a varied and robust set of courses has been provided. This script will remove any previously loaded courses and update the permanent database with a known set of approximately 1,500 courses.
+Alternatively, a SQL script has been provided to load a varied and robust set of courses. This script will remove any previously loaded courses and update the permanent database with a known set of approximately 1,500 courses.
 
 It is encouraged that once Selenium has been verified that this script be executed by following the steps below. The JUnit test script are written assuming these courses are present.
 
@@ -63,7 +63,7 @@ You are now set up to use MySQL database for this project.
 
 Verifying Selenium
 ===================
-The steps below are to be used to verify task #3, Selenium. Note, to allow POST commands to be submitted to the server application you will need a the tool of your choice, such as Postman.
+The steps below are to be used to verify task #3, Selenium. Note, to allow POST commands to be submitted to the server application you will need a tool of your choice, such as Postman.
 #### Using Selenium:
 	1) Make sure you downloaded the chrome driver and the exePath in loadDriver() method 
 	of CourseService class is correct.
@@ -90,6 +90,16 @@ The steps below are to be used to verify task #3, Selenium. Note, to allow POST 
 	6) To save all the courses form all deparment and semster, do a GET request to 
 	http://localhost:8080//saveAllCourses. This method may get stuck after making storing 
 	some department.
+	
+	
+Executing JUnit Tests
+=====================
+To run the JUnit test scripts follow the steps below:
+1) Run the server application
+2) Right click on "src/test/java" and select "Run As", the "JUnit Test"
+3) This will execute the JUnit tests and results may be found in the JUnit report window.
+4) A total of 19 tests should be executed with 0 errors and 0 fails.
+
 
 
 Executing Cucumber Tests
@@ -112,15 +122,6 @@ Executing Cucumber Tests
 	    after runing the cucumber test
 
 
-Executing JUnit Tests
-=====================
-To run the JUnit test scripts follow the steps below:
-1) Run the server application
-2) Right click on "src/test/java" and select "Run As", the "JUnit Test"
-3) This will execute the JUnit tests and results may be found in the JUnit report window.
-4) A total of 19 tests should be executed with 0 errors and 0 fails.
-
-
 Executing Angular Client
 ========================
-To execute the Angular client an to verify task #2, see the code found in the Angular branch of the Team Z GitHub and the assocaited ReadMe.md found there.
+To execute the Angular client and to verify task #2, see the code found in the Angular branch of the Team Z GitHub and the assocaited ReadMe.md found there.
