@@ -109,10 +109,12 @@ Executing Cucumber Tests
 	   src/test/java/cucumberRunner/RunCucumberTest.java is the Runner for cucumber test
 	   src/test/java/cucumbersteps/cucumberTestStep.java is the step definition which map the feature file in real code to be excuted
 	   src/test/resources/cucumber/cucumber.feature  is the feature file where the test scenarios are written in Gherkin 
-	2) There are currently 3 scenarios in cucumber test. 
+	2) There are currently 5 scenarios in cucumber test. 
 	   1. A simple test case showing every file and dependencies are in their right place to integrate to STS
 	   2. Given the api is running at localhost8080, when the user perform a get request of /loadDriver, the web driver should be loaded successfully
 	   3. Given web driver is loaded successfully, when the user perform a post request of their username and pass to the path /login, it should successfully login to my.sc.edu
+	   4. For testing save all courses
+	   5. For testing save courses for certain semester
 	3) To run the cucumber test, 
 	   1. run the api
 	   2. right click at the root folder of the final project, run as maven test, and all the test scenarios will be run automatically
