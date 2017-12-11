@@ -368,7 +368,7 @@ public class CourseService {
 					String id = sem +course.getSubj() + course.getCrse() +course.getSec() +"-" + Integer.toString(courseNum);	
 					course.setId(id);
 					courses.add(course);
-					//Save to H2 DB
+					//Save to DB
 					courseRepository.save(course);
 				}
 				System.out.print("Course " + course.getId() + " has been saved.\n");
