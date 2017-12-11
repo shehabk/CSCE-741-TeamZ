@@ -1,4 +1,4 @@
-This is the Angular client application for Team Z, CSCE 741, Fall 2018.
+This is the Angular client application for Team Z, CSCE 741, Fall 2017.
 -Allen Bates
 -Ahmed Khan
 -Zhiyuan Li
