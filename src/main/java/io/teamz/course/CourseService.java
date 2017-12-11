@@ -62,7 +62,7 @@ public class CourseService {
 		//Else if OS is Windows, use Windows executable
 		else if(SystemUtils.IS_OS_WINDOWS){
 			System.out.println("Windows OS");
-			exePath = "\\data\\win_chromedriver.exe";
+			exePath = ".\\data\\win_chromedriver.exe";
 		}
 		//Assume OS is MAC_OS
 		else{
