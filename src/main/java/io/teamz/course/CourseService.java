@@ -19,6 +19,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
+import org.apache.commons.lang3.SystemUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -52,8 +53,22 @@ public class CourseService {
 		/*Download ChromeDriver from:
 			https://sites.google.com/a/chromium.org/chromedriver/downloads
 		*/
-//		String exePath = "C:\\Users\\Allen\\Desktop\\chromedriver_win32\\chromedriver.exe";
-		String exePath = "./data/chromedriver";
+		String exePath = "";
+		//If OS is Linux, use Linux executable
+		if(SystemUtils.IS_OS_LINUX){
+			System.out.println("Linux OS");
+			exePath = "\\data\\linux_chromedriver";
+		}
+		//Else if OS is Windows, use Windows executable
+		else if(SystemUtils.IS_OS_WINDOWS){
+			System.out.println("Windows OS");
+			exePath = "\\data\\win_chromedriver.exe";
+		}
+		//Assume OS is MAC_OS
+		else{
+			System.out.println("MAC OS");
+		    exePath ="\\data\\mac_chromedriver";
+		}
 		//Set the property of the web driver's chrome driver to the executable's path
 		System.setProperty("webdriver.chrome.driver", exePath);
 		//Initailize ChromeDriver
