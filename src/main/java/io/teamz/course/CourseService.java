@@ -110,9 +110,9 @@ public class CourseService {
 				driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 				
 				//SUCCESSFULLY LOGGED INTO MY.SC
-				driver.findElement(By.id("bmenu--P_StuMainMnu___UID1")).click();
-				driver.findElement(By.id("bmenu--P_RegMnu___UID1")).click();
-				driver.findElement(By.id("contentItem12")).click();
+				driver.findElement(By.id("bmenu--P_StuMainMnu___UID1")).click(); // Student
+				driver.findElement(By.id("bmenu--P_RegMnu___UID1")).click(); // Registration
+				driver.findElement(By.id("contentItem12")).click(); // Look up Classes
 				
 				ret = "Successfully logged into my.sc.edu!";
 			}catch(NoSuchElementException e){
@@ -132,9 +132,10 @@ public class CourseService {
 		List<Course> courses = new ArrayList<Course>();
 		
 		//Select semester
-		Select semesterSelect = new Select(driver.findElement(By.id("term_input_id")));
+		Select semesterSelect = new Select(driver.findElement(By.id("term_input_id"))); // Select term.
 		List<WebElement> semesterOptions = semesterSelect.getOptions();
 		boolean semValid = false;
+		// Match the semester in the parameter with all the options
 		for (WebElement option : semesterOptions) {
 			//See if semester described can be chosen from available semesters
 			if(option.getText().contains(sem)){
@@ -299,6 +300,7 @@ public class CourseService {
 				//Without setting the implicit wait for the driver, searching for an
 				//non-existing element would take minutes
 				driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
+				// CRN
 				if(driver.findElements(By.xpath(sectionPath+"/td[2]/a")).size() != 0){					
 					backup = null;
 				}
@@ -331,7 +333,7 @@ public class CourseService {
 							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[14]")).getText());
 
 						}
-						//Otherwise, grab it from td/abbr
+						//Otherwise, grab it from td/abbr mostly if it is TBA
 						else{
 							course.setInstructor(driver.findElement(By.xpath(sectionPath+"//td[14]/abbr")).getText());
 						}
